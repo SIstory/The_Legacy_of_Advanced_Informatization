@@ -136,7 +136,7 @@
          <div type="preface" xml:id="preface-sl" xml:lang="sl" corresp="#preface-en">
             <head xml:id="Legacy-head-7">Zapuščina napredne informatizacije</head>
             <head xml:id="Legacy-head-8">Predgovor</head>
-            <p xml:id="Legacy-p-4">Pričujoči zbornik prispevkov s simpozija o Zapuščini napredne
+            <p style="text-align:justify;" xml:id="Legacy-p-4">Pričujoči zbornik prispevkov s simpozija o Zapuščini napredne
                informatizacije, ki je potekal v <ref target="https://www.racunalniski-muzej.si/">
                   <hi rend="underline">Računalniškem muzeju</hi>
                </ref> v Ljubljani 13. junija 2022, obravnava raznolike poglede na izzive in potrebe
@@ -144,7 +144,7 @@
                uvaja v sodoben slovenski strokovni diskurz z namenom, da se postavi osnova za
                razmislek o prihodnjih ustrojih, ki bi nam kot družbi pomagali, da zagotovimo
                dolgoživost spomina na digitalni sloj človeškega udejanjanja.</p>
-            <p xml:id="Legacy-p-5">V Računalniškem muzeju smo potrebo za ta skupni razmislek
+            <p style="text-align:justify;" xml:id="Legacy-p-5">V Računalniškem muzeju smo potrebo za ta skupni razmislek
                občutili kot pereč problem v lastnih dejavnostih medijske in digitalne arheologije
                ter v procesih in poskusih rekonstrukcije prelomnih digitalnih odtisov slovenske
                družbe. Simpozij smo sklicali s tezo, da prepogosto prepuščamo pozabi tisto, s čimer
@@ -156,7 +156,7 @@
                postaviti ilustrativne temelje za nadaljnjo obravnavo in usmeritev v iskanje
                sistematičnega nagovora k ohranjanju tistega, kar iz nežive strojne opreme ustvari
                digitalno človeško izkušnjo.</p>
-            <p xml:id="Legacy-p-6">Nabor strokovnjakov, ki so sodelovali na posvetu, je bil namenoma
+            <p style="text-align:justify;" xml:id="Legacy-p-6">Nabor strokovnjakov, ki so sodelovali na posvetu, je bil namenoma
                raznolik, zato da smo zajeli širino pogledov in razmislekov od prvoosebnih izrazov
                ustvarjalcev. Ti so s svojim delovanjem prispevali k naboru izjemno pomembnih
                prelomnih trenutkov softverskega razvoja v Ljubljani in Sloveniji, vključno s
@@ -167,7 +167,7 @@
                delovanje na tem področju prineslo razvoju mesta in nenazadnje samozavesti današnjih
                razvijalcev programskih rešitev, ki so se kalili v okolju z bogato razvejano
                institucionalno in samoniklo softversko dejavnostjo.</p>
-            <p xml:id="Legacy-p-7">V nagovorni predstavitvi dr. Roberto di Cosmo uokviri namen
+            <p style="text-align:justify;" xml:id="Legacy-p-7">V nagovorni predstavitvi dr. Roberto di Cosmo uokviri namen
                posveta s predstavitvijo geneze in delovanja fundacije UNESCO Software Heritage,
                katere ambasadorji smo tudi v Računalniškem muzeju. Poda izhodiščne zagovore za
                oblikovanje statusa softverske nesnovne dediščine, kot ga vidi UNESCO, in demonstrira
@@ -193,14 +193,14 @@
                mestu. Matija Šuklje pa nam oriše kompleksnost pravnih interpretacij programja, ki se
                jih moramo zavedati ob razmisleku o sistematični hrambi, rekonstrukciji in
                predstavljanju javnosti.</p>
-            <p xml:id="Legacy-p-8">Posvet je vprašanja odpiral, a obenem ponudil nastavke za
+            <p style="text-align:justify;" xml:id="Legacy-p-8">Posvet je vprašanja odpiral, a obenem ponudil nastavke za
                oblikovanje zaključkov. Vodilna misel, ki se je prepletala skozi vsa predstavljena
                stališča, pa je bila izjemno človeška.</p>
-            <p xml:id="Legacy-p-9">Softver je minljiv.</p>
-            <p xml:id="Legacy-p-10">Softver je minljiv, a obenem nesmrten v svoji ideji, udejanjanju
+            <p style="text-align:justify;" xml:id="Legacy-p-9">Softver je minljiv.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-10">Softver je minljiv, a obenem nesmrten v svoji ideji, udejanjanju
                človeške iznajdljivosti, enkapsuliranju duha določenega časa in vrednostnih sistemov
                določene skupine ljudi. Je izraz naše kulture. Je naša dediščina.</p>
-            <p xml:id="Legacy-p-11">V Sloveniji je prostora za izboljšavo na področju hrambe,
+            <p style="text-align:justify;" xml:id="Legacy-p-11">V Sloveniji je prostora za izboljšavo na področju hrambe,
                evidentiranja, konzervacije, restavriranja softverske dediščine in nenazadnje
                interpretacij in prezentacij za javnost še ogromno. Prvi korak pa je zagotovo narejen
                s tem, ko se zavemo, da gre tudi pri programju za nesnovno kulturno dediščino, vredno
@@ -211,20 +211,19 @@
                pokazali zanamcem čez naslednjih 50 let. Jim bomo brez istovetnih interaktivnih
                prikazov res lahko dovolj dobro razložili, kako so nas kot družbo oblikovale
                digitalne interakcije? Bomo kolektivno pozabili nanje?</p>
-            <p xml:id="Legacy-p-12">Gaja Zornada,</p>
-            <p xml:id="Legacy-p-13">vodja Računalniškega muzeja, Ljubljana, julij 2022</p>
+            <byline>Gaja Zornada, <lb/>vodja Računalniškega muzeja, Ljubljana, julij 2022</byline>
          </div>
          <div type="preface" xml:id="preface-en" xml:lang="en" corresp="#preface-sl">
             <head xml:id="Legacy-head-9">The Legacy of Advanced Informatization</head>
             <head xml:id="Legacy-head-10">Preface</head>
-            <p xml:id="Legacy-p-14">The present proceedings from the Symposium on the Legacy of
+            <p style="text-align:justify;" xml:id="Legacy-p-14">The present proceedings from the Symposium on the Legacy of
                Advanced Informatization, which was held at the Computer History Museum in Ljubljana
                on June 13 2022, represents an account of a variety of views on the challenges and
                the need for the systematic storage of software heritage. It introduces the topic
                into Slovenia’s contemporary professional discourse, with a view to laying the
                foundations for future frameworks that could help our society preserve the memory of
                the digital layer of human activity.</p>
-            <p xml:id="Legacy-p-15">At the Computer History Museum, we have felt the need for such a
+            <p style="text-align:justify;" xml:id="Legacy-p-15">At the Computer History Museum, we have felt the need for such a
                broad discussion as a burning problem in our own work in media and digital
                archaeology, processes and attempts to reconstruct the ground-breaking digital
                imprints of Slovenian society. Our thesis for the expert panel was that all too often
@@ -236,7 +235,7 @@
                The goal behind this collection of papers is to prepare illustrative groundwork for
                future elaboration and suggest a more systematic approach to preserving what creates
                the digital human experience from inanimate hardware.</p>
-            <p xml:id="Legacy-p-16">We intentionally invited a very diverse group of experts to the
+            <p style="text-align:justify;" xml:id="Legacy-p-16">We intentionally invited a very diverse group of experts to the
                symposium to ensure a wide array of perspectives and thoughts, from the very
                developers of ground-breaking software in Ljubljana and Slovenia to authors of
                humanist interpretations and good practices that have been established in other
@@ -245,7 +244,7 @@
                pointed to the effects of constant joint efforts in the development of the city and
                also on the confidence of software developers who grew in an environment boasting a
                distinct institutional and grassroots software activity.</p>
-            <p xml:id="Legacy-p-17">In the introduction Dr Roberto di Cosmo frames the purpose of
+            <p style="text-align:justify;" xml:id="Legacy-p-17">In the introduction Dr Roberto di Cosmo frames the purpose of
                the symposium by presenting the genesis and work of the UNESCO Software Heritage
                foundation t, of which the Computer History Museum is an ambassador. He provides the
                principal arguments for recognizing the status of software as a form of intangible
@@ -273,15 +272,15 @@
                Matija Šuklje discusses the complexity of legal interpretations of software which
                should be taken into account in organizing systematic storage, reconstruction and
                presentation to the public.</p>
-            <p xml:id="Legacy-p-18">The expert panel raised questions yet also offered starting
+            <p style="text-align:justify;" xml:id="Legacy-p-18">The expert panel raised questions yet also offered starting
                points for forming conclusions. The underlying idea intertwining all points of view
                was outstandingly human.</p>
-            <p xml:id="Legacy-p-19">Software is transient.</p>
-            <p xml:id="Legacy-p-20">Software is transient yet immortal in its idea, in the
+            <p style="text-align:justify;" xml:id="Legacy-p-19">Software is transient.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-20">Software is transient yet immortal in its idea, in the
                materialization of human inventiveness, the encapsulation of the spirit of a certain
                era, and the value systems of specific groups of people. It is an expression of our
                culture. It is our heritage.</p>
-            <p xml:id="Legacy-p-21">In Slovenia there is ample room for improvement in terms of the
+            <p style="text-align:justify;" xml:id="Legacy-p-21">In Slovenia there is ample room for improvement in terms of the
                storage, registering, conservation, and restoration of software heritage and also for
                different interpretations and presentations to the public. The first step will be
                taken as soon as we realize that software is our intangible cultural heritage and as
@@ -292,8 +291,7 @@
                future generations in the next 50 years. Will we truly be able to properly explain
                how digital interactions shaped our society without authentic, interactive
                experiences? Will we collectively forget about them?</p>
-            <p xml:id="Legacy-p-22">Gaja Zornada,</p>
-            <p xml:id="Legacy-p-23">Head of Computer History Museum, Ljubljana, July 2022</p>
+            <byline>Gaja Zornada,<lb/>Head of Computer History Museum, Ljubljana, July 2022</byline>
          </div>
       </front>
       <body>
@@ -397,7 +395,7 @@
                      https://www.softwareheritage.org/swhap. </note>
                </p>
                <figure xml:id="Legacy-figure-1">
-                  <graphic url="media/cosmo1.png"/>
+                  <graphic url="/media/cosmo1.png"/>
                   <head>
                      <hi rend="italic">Slika 1: Število projektov, izvornih datotek in različic, ki
                         so bili od junija 2022 arhivirani v </hi>
@@ -545,7 +543,7 @@
                      at https://www.softwareheritage.org/swhap. </note>
                </p>
                <figure xml:id="Legacy-figure-2">
-                  <graphic url="media/cosmo1.png"/>
+                  <graphic url="/media/cosmo1.png"/>
                   <head>Figure 1: Number of projects, source files, and versions archived in <ref
                         target="https://www.softwareheritate.org/archive">Software Heritage</ref> as
                      of June 2022</head>
@@ -1074,7 +1072,7 @@
                   preskoki so izvedeni s stavki IF. Izrazita premoč strukturiranega programiranja bi
                   morala biti očitna tudi osebam, ki s programiranjem nimajo izkušenj.</p>
                <figure xml:id="Legacy-figure-3">
-                  <graphic url="media/jakopin1.jpg"/>
+                  <graphic url="/media/jakopin1.jpg"/>
                   <head>Tabela 1: Podprogram za mehurčno razvrščanjev programskih jezikih FORTRAN in
                      STRUCTURAN</head>
                </figure>
@@ -1324,7 +1322,7 @@
                   na Filozofski fakulteti pa je še naprej, s polovico delovnega časa poučeval
                   jezikovne tehnologije.</p>
                <figure xml:id="Legacy-figure-4">
-                  <graphic url="media/BOS_si.jpg"/>
+                  <graphic url="/media/BOS_si.jpg"/>
                   <p style="text-align:justify;">
                      <hi rend="italic">Slika 1: Spletni portal </hi>
                      <ref target="http://bos.zrc-sazu.si">
@@ -1534,7 +1532,7 @@
                   jumping is evident from the IF statements. Even to a non-programmer, the
                   superiority of structured programming should be clearly evident.</p>
                <figure xml:id="Legacy-figure-5">
-                  <graphic url="media/jakopin1.jpg"/>
+                  <graphic url="/media/jakopin1.jpg"/>
                   <head>Table 1: Bubble sort subroutine in FORTRAN and STRUCTRAN</head>
                </figure>
                <p style="text-align:justify;" xml:id="Legacy-p-154">STRUCTRAN was the first widely
@@ -1735,7 +1733,7 @@
                   continued to work part-time at the Faculty of Arts, as a teacher in the field of
                   language technology.</p>
                <figure xml:id="Legacy-figure-6">
-                  <graphic url="media/BOS_en.jpg"/>
+                  <graphic url="/media/BOS_en.jpg"/>
                   <head>
                      <hi rend="italic">Figure 1: English version of the web site </hi>
                      <ref target="http://bos.zrc-sazu.si/index_en.html">
@@ -2063,7 +2061,7 @@
                   preteklosti, saj se prikaže kot aplikacija v navidezni napravi, ki je uporabniku
                   poznana.</p>
                <figure xml:id="Legacy-figure-7">
-                  <graphic url="media/nmf1.png"/>
+                  <graphic url="/media/nmf1.png"/>
                   <head>
                      <hi rend="italic">Slika 1. Ogrodje Executive Archive dopolnjuje tradicionalne
                         prakse elektronskega arhiviranja s postopki in tehničnimi komponentami, ki
@@ -2101,7 +2099,7 @@
                   sisteme in zato ne smejo povezane na internet. Kopija podatkov iz elektronskega
                   arhiva pa se varno prenese na Software Library prek namizja Transfer Desktop.</p>
                <figure xml:id="Legacy-figure-8">
-                  <graphic url="media/nmf2.png"/>
+                  <graphic url="/media/nmf2.png"/>
                   <head>
                      <hi rend="italic">Slika 2. Portal Software Library lahko uporabljate prek
                         katerega koli novejšega brskalnika. Prek posebej konfiguriranega namizja
@@ -2118,7 +2116,7 @@
                   programsko opremo in podatke uporablja na enak način kot prvotno v
                   laboratoriju.</p>
                <figure xml:id="Legacy-figure-9">
-                  <graphic url="media/nmf3.png"/>
+                  <graphic url="/media/nmf3.png"/>
                   <head>
                      <hi rend="italic">Slika 3. Programska oprema Analyst 1.4.2 družbe Sciex je
                         nameščena na virtualni napravi, ki poganja sistem Windows XP. Do nje se
@@ -2173,7 +2171,7 @@
                   osebjem družbe Intact Digital smo ustvarili umetniško instalacijo v okolju
                   Software Library, ki ga lahko uporablja spletno občinstvo (sliki 4 in 5).</p>
                <figure xml:id="Legacy-figure-10">
-                  <graphic url="media/nmf4.png"/>
+                  <graphic url="/media/nmf4.png"/>
                   <head>
                      <hi rend="italic">Slika 4. Portal Software Library gosti umetniško instalacijo
                         World[s] umetnika Michaela Takea Magruderja, ki vključuje vtičnike Flash in
@@ -2181,7 +2179,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-11">
-                  <graphic url="media/nmf5.png"/>
+                  <graphic url="/media/nmf5.png"/>
                   <head>
                      <hi rend="italic">Slika 5. Cortona3D v.7.0 z brskalnikom Internet Explorer
                         11.1790.17763.0 in vtičnikom Macromedia Flash ActiveX 8r42 je nameščena v
@@ -2200,7 +2198,7 @@
                   razvili prakse zagotavljanja kakovosti, ki zajemajo tehnološke, pravne, operativne
                   in človeške dejavnike (<hi rend="italic">Slika 6</hi>).</p>
                <figure xml:id="Legacy-figure-12">
-                  <graphic url="media/nmf6.png"/>
+                  <graphic url="/media/nmf6.png"/>
                   <head>
                      <hi rend="italic">Slika 6. Pri dolgoročni skrbi za programsko opremo je treba
                         upoštevati več dejavnikov in postopkov za zagotavljanje kakovosti, s
@@ -2428,7 +2426,7 @@
                   The users can thus use the software in the same way as in the past, as it appears
                   as an application in a virtual desktop that is familiar to them.</p>
                <figure xml:id="Legacy-figure-13">
-                  <graphic url="media/nmf1.png"/>
+                  <graphic url="/media/nmf1.png"/>
                   <head>
                      <hi rend="italic">Figure 1. Executive Archive Framework complements the
                         traditional electronic archive practices with procedures and technical
@@ -2466,7 +2464,7 @@
                   from the electronic archive is safely transferred into the Software Library using
                   a Transfer Desktop.</p>
                <figure xml:id="Legacy-figure-14">
-                  <graphic url="media/nmf2.png"/>
+                  <graphic url="/media/nmf2.png"/>
                   <head>
                      <hi rend="italic">Figure 2. The Software Library can be used from any modern
                         browser. Through the specially configured Transfer Desktop, the user can
@@ -2482,7 +2480,7 @@
                   operating system and Analyst 1.4.2 software produced by Sciex. The user can use
                   the software and the data in the same way as originally done in the lab.</p>
                <figure xml:id="Legacy-figure-15">
-                  <graphic url="media/nmf3.png"/>
+                  <graphic url="/media/nmf3.png"/>
                   <head>
                      <hi rend="italic">Figure 3. Analyst v.1.4.2. software by Sciex is installed in
                         a virtual machine running Windows XP and used through a virtual desktop that
@@ -2537,7 +2535,7 @@
                   the art within the Software Library environment that can be used by audiences
                   online (<hi rend="italic">Figures 4 &amp; 5</hi>).</p>
                <figure xml:id="Legacy-figure-16">
-                  <graphic url="media/nmf4.png"/>
+                  <graphic url="/media/nmf4.png"/>
                   <head>
                      <hi rend="italic">Figure 4. Software Library hosts an installation of the
                         World[s] artwork by Michael Takeo Magruder that includes Flash and Cortona3D
@@ -2545,7 +2543,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-17">
-                  <graphic url="media/nmf5.png"/>
+                  <graphic url="/media/nmf5.png"/>
                   <head>
                      <hi rend="italic">Figure 5. Cortona3D v.7.0 with Internet Explorer
                         11.1790.17763.0 and Macromedia Flash ActiveX plug-in 8r42 are installed
@@ -2563,7 +2561,7 @@
                   quality assurance practices that cover technological, legal, operational and human
                   factors (<hi rend="italic">Figure 6</hi>).</p>
                <figure xml:id="Legacy-figure-18">
-                  <graphic url="media/nmf6.png"/>
+                  <graphic url="/media/nmf6.png"/>
                   <head>
                      <hi rend="italic">Figure 6. Long-term software care requires consideration of
                         multiple factors and quality assurance procedures for identifying and
@@ -2637,7 +2635,7 @@
                   organizacijah, tržili pa so ga tudi kot sistem, ki je primeren za raziskovalne
                   dejavnosti, šole in celo posameznike.</p>
                <figure xml:id="Legacy-figure-19">
-                  <graphic url="media/slika1.jpg"/>
+                  <graphic url="/media/slika1.jpg"/>
                   <head>
                      <hi rend="italic">Slika 1: Računalnik Partner iz zbirke Računališkega muzeja.
                         (foto: arhiv Računalniškega muzeja)</hi>
@@ -2753,14 +2751,14 @@
                   razlagi. Če se ti bo sprva zdelo, da ne boš nikoli dosegel spodobnega števila točk
                   in boš že skoraj obupal nad usodo, vedi, da ti bo pomagal le trening.«</p>
                <figure xml:id="Legacy-figure-20">
-                  <graphic url="media/slika2.jpg"/>
+                  <graphic url="/media/slika2.jpg"/>
                   <head>
                      <hi rend="italic">Slika 2 Zajem pozdravnega zaslona iz igre Glista. (foto:
                         arhiv Računalniškega muzeja)</hi>
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-21">
-                  <graphic url="media/slika3.jpg"/>
+                  <graphic url="/media/slika3.jpg"/>
                   <head>
                      <hi rend="italic">Slika 3 Zajem naslovnega zaslona iz igre Glista. (foto: arhiv
                         Računalniškega muzeja)</hi>
@@ -2787,7 +2785,7 @@
                   lahko uporabimo model oz. tehnično skico za programje s tekstovnim vmesnikom, ki
                   bi se verjetno izvajal na računalniku Partner.</p>
                <figure xml:id="Legacy-figure-22">
-                  <graphic url="media/slika4.jpg"/>
+                  <graphic url="/media/slika4.jpg"/>
                   <head>
                      <hi rend="italic">Slika 4 Tehnična skica za program, ki bi se verjetno izvajal
                         na računalniku Partner. (foto: arhiv Geodetski vestnik)</hi>
@@ -2801,7 +2799,7 @@
                   komunikacija in podatki, ki so jih uporabniki pustili za sabo na strežniku
                   neprecenljivi.</p>
                <figure xml:id="Legacy-figure-23">
-                  <graphic url="media/slika5.jpg"/>
+                  <graphic url="/media/slika5.jpg"/>
                   <head>
                      <hi rend="italic">Slika 5 Produkcijska omara največje slovenske elektronske
                         oglasne deske (BBS). (foto: arhiv Računalniškega muzeja)</hi>
@@ -2919,7 +2917,7 @@
                   for new and smaller organizations, but was also marketed as a system for research
                   activities, schools and even private individuals.</p>
                <figure xml:id="Legacy-figure-24">
-                  <graphic url="media/slika1.jpg"/>
+                  <graphic url="/media/slika1.jpg"/>
                   <head>
                      <hi rend="italic">Figure 1: Partner computer from the collection of Computer
                         History Museum, Ljubljana. (photo: Computer History Museum in Ljubljana
@@ -3036,14 +3034,14 @@
                   the brain. If at first you don’t manage to get many points and are losing hope,
                   know that only practice will help you get better.”</p>
                <figure xml:id="Legacy-figure-25">
-                  <graphic url="media/slika2.jpg"/>
+                  <graphic url="/media/slika2.jpg"/>
                   <head>
                      <hi rend="italic">Figure 2 Screenshot of the splash screen of the game Glista.
                         (photo: Computer History Museum in Ljubljana archive)</hi>
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-26">
-                  <graphic url="media/slika3.jpg"/>
+                  <graphic url="/media/slika3.jpg"/>
                   <head>
                      <hi rend="italic">Figure 3 Screenshot of the main screen of the game Glista.
                         (photo: Computer History Museum in Ljubljana archive)</hi>
@@ -3071,7 +3069,7 @@
                   stages involved in this, here is a mock-up, a design document, for text-based
                   software that would probably run on a Partner computer:</p>
                <figure xml:id="Legacy-figure-27">
-                  <graphic url="media/slika4.jpg"/>
+                  <graphic url="/media/slika4.jpg"/>
                   <head>
                      <hi rend="italic">Figure 4 Design wireframe example of text-based business
                         application.</hi>
@@ -3084,7 +3082,7 @@
                   where software was off-the-shelf, but the communication and data left on the
                   server by the users is invaluable.</p>
                <figure xml:id="Legacy-figure-28">
-                  <graphic url="media/slika5.jpg"/>
+                  <graphic url="/media/slika5.jpg"/>
                   <head>
                      <hi rend="italic">Figure 5 Picture of production stack of largest Slovenian
                         BBS. (photo: Computer History Museum in Ljubljana archive)</hi>
@@ -3839,7 +3837,7 @@
                   črta, poligon ...) in njihovih medsebojnih odnosih, ki danes predstavljajo osnovo
                   geografskih informacijskih sistemov.</p>
                <figure xml:id="Legacy-figure-29">
-                  <graphic url="media/Zakrajsek1.jpg"/>
+                  <graphic url="/media/Zakrajsek1.jpg"/>
                   <head>
                      <hi rend="italic">Slika 1: Predstavitev v fizičnem prostoru, matematika
                         geo-topološkega jedra in tretja normalna oblika. Vir: Zakrajšek, F.: Zasnova
@@ -3848,7 +3846,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-30">
-                  <graphic url="media/Zakrajsek2.jpg"/>
+                  <graphic url="/media/Zakrajsek2.jpg"/>
                   <head>
                      <hi rend="italic">Slika 2: Standardna baza podatkov informacijskega sistema za
                         prostorsko načrtovanje. Vir:</hi> Zakrajšek, F. Information systems for
@@ -3879,7 +3877,7 @@
                   Slovenija med prvimi državami na svetu, ki je digitalizirala vse hišne številke na
                   svojem ozemlju.</p>
                <figure xml:id="Legacy-figure-31">
-                  <graphic url="media/Zakrajsek3.jpg"/>
+                  <graphic url="/media/Zakrajsek3.jpg"/>
                   <head>
                      <hi rend="italic">Slika 3: Zajem podatkov, centroidi hišnih številk. Vir:
                         Zakrajšek, F. et al: Informacijska zasnova občine Celje ob pripravi
@@ -3918,7 +3916,7 @@
                   naslavljanja do besed (word addressable) v okviru operacijskega sistema NOS/BE 1.3
                   na računalniku CYBER 72.</p>
                <figure xml:id="Legacy-figure-32">
-                  <graphic url="media/Zakrajsek4.jpg"/>
+                  <graphic url="/media/Zakrajsek4.jpg"/>
                   <head>
                      <hi rend="italic">Slika 4: Izpisi zemljevidov občine Celje, vir: Zakrajšek, F.
                         et al: Informacijska zasnova občine Celje ob pripravi prostorskega plana.
@@ -3959,7 +3957,7 @@
                   programske opreme za končne uporabnike. Po ponovnem pregledu zbranega gradiva smo
                   razvili več prototipov ekspertnega sistema, imenovanega UEXPERT (slika 5).</p>
                <figure xml:id="Legacy-figure-33">
-                  <graphic url="media/Zakrajsek5.jpg"/>
+                  <graphic url="/media/Zakrajsek5.jpg"/>
                   <head>
                      <hi rend="italic">Slika 5: Primer prototipa sistema UEXPERT. Vir:</hi>
                      Zakrajšek, F. <hi rend="italic">Možnosti uporabe ekspertnih sistemov v
@@ -4020,7 +4018,7 @@
                      uravnoteženi model.</item>
                </list>
                <figure xml:id="Legacy-figure-34">
-                  <graphic url="media/Zakrajsek6.jpg"/>
+                  <graphic url="/media/Zakrajsek6.jpg"/>
                   <head>
                      <hi rend="italic">Slika 6: Informacijska baza informacijskega sistema za
                         urejanje prostora Mestne občine Ljubljana. Vir: Zakrajšek, F. et al:
@@ -4064,7 +4062,7 @@
                   uporabljen za upravljanje baze podatkov za seznam projektov v Gvajani (slika
                   7).</p>
                <figure xml:id="Legacy-figure-35">
-                  <graphic url="media/Zakrajsek7.jpg"/>
+                  <graphic url="/media/Zakrajsek7.jpg"/>
                   <head>
                      <hi rend="italic">Slika 7: Shema informacijskega sistema za načrtovanje in
                         projekte za Gvajano. Vir: Zakrajšek, F. Priporočila za razvoj
@@ -4113,7 +4111,7 @@
                   bile publikacije napisane v slovenščini, je strokovna javnost zanje pokazala
                   veliko zanimanja.</p>
                <figure xml:id="Legacy-figure-36">
-                  <graphic url="media/Zakrajsek8.jpg"/>
+                  <graphic url="/media/Zakrajsek8.jpg"/>
                   <head>
                      <hi rend="italic">Slika 8: Naslovne strani publikacije Informacijski sistem za
                         prostorsko načrtovanje. Letniki: Smernice za razvoj, Koncept sistema,
@@ -4137,7 +4135,7 @@
                   <hi rend="italic">Slika 9: 50 let pozneje</hi>
                </p>
                <figure xml:id="Legacy-figure-37">
-                  <graphic url="media/Zakrajsek9a.jpg"/>
+                  <graphic url="/media/Zakrajsek9a.jpg"/>
                   <head>
                      <hi rend="italic">Slika 9a: 3D Urbanizem, Ljubljana, od leta 2010 dalje
                         Povezava:</hi>
@@ -4148,7 +4146,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-38">
-                  <graphic url="media/Zakrajsek9b.jpg"/>
+                  <graphic url="/media/Zakrajsek9b.jpg"/>
                   <head>
                      <hi rend="italic">Slika 9b: Agent-based Geographical Modeling of Public Library
                         Locations, od leta 2010 dalje. Povezava:</hi>
@@ -4160,7 +4158,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-39">
-                  <graphic url="media/Zakrajsek9c.jpg"/>
+                  <graphic url="/media/Zakrajsek9c.jpg"/>
                   <head>
                      <hi rend="italic">Slika 9c: SMUR, Simulacijski model urbanega razvoja, od leta
                         2010 dalje. Zakrajšek, F. et al. Razvoj in implementacija regionalnega
@@ -4169,7 +4167,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-40">
-                  <graphic url="media/Zakrajsek9d.jpg"/>
+                  <graphic url="/media/Zakrajsek9d.jpg"/>
                   <head>
                      <hi rend="italic">Slika 9d: Simple Cellular Automata Model for Flood Estimation
                         and Determination of Culture Heritage on Risk, 2018–2022, STRENCH:
@@ -4241,7 +4239,7 @@
                   their mutual relationships, which we now know as the basis of geographical
                   information systems.</p>
                <figure xml:id="Legacy-figure-41">
-                  <graphic url="media/Zakrajsek1.jpg"/>
+                  <graphic url="/media/Zakrajsek1.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
                      <hi rend="italic"> 1: Representation in physical space, mathematics of
@@ -4251,7 +4249,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-42">
-                  <graphic url="media/Zakrajsek2.jpg"/>
+                  <graphic url="/media/Zakrajsek2.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
                      <hi rend="italic"> 2: Standard database of the information system for spatial
@@ -4283,7 +4281,7 @@
                   regularly maintained. It is worth emphasizing that Slovenia was among the first
                   countries in the world to digitize all house numbers on its territory.</p>
                <figure xml:id="Legacy-figure-43">
-                  <graphic url="media/Zakrajsek3.jpg"/>
+                  <graphic url="/media/Zakrajsek3.jpg"/>
                   <head>
                      <hi rend="italic">Figure 3: Data Capture, Centroids of House Numbers. Source:
                         Zakrajšek, F. et al.: Information design of the Municipality of Celje during
@@ -4321,7 +4319,7 @@
                   manage the databases with the support of the NOS operating system, /BE 1.3 on a
                   CYBER 72 computer.</p>
                <figure xml:id="Legacy-figure-44">
-                  <graphic url="media/Zakrajsek4.jpg"/>
+                  <graphic url="/media/Zakrajsek4.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
                      <hi rend="italic"> 4: Printouts of maps for the Celje municipality. Source:
@@ -4364,7 +4362,7 @@
                   named UEXPERT (<hi rend="italic">Figure </hi>
                   <hi rend="italic">5</hi>).</p>
                <figure xml:id="Legacy-figure-45">
-                  <graphic url="media/Zakrajsek5.jpg"/>
+                  <graphic url="/media/Zakrajsek5.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
                      <hi rend="italic"> 5: UEXPERT prototype case. Source:</hi> Zakrajšek, F. <hi
@@ -4424,7 +4422,7 @@
                      residential neighborhoods, and balanced.</item>
                </list>
                <figure xml:id="Legacy-figure-46">
-                  <graphic url="media/Zakrajsek6.jpg"/>
+                  <graphic url="/media/Zakrajsek6.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
                      <hi rend="italic"> 6: Information base of the information system for planning
@@ -4469,7 +4467,7 @@
                   Guyana (<hi rend="italic">Figure</hi>
                   <hi rend="italic"> 7</hi>).</p>
                <figure xml:id="Legacy-figure-47">
-                  <graphic url="media/Zakrajsek7.jpg"/>
+                  <graphic url="/media/Zakrajsek7.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
                      <hi rend="italic"> 7: Scheme of information system for planning and projects
@@ -4523,7 +4521,7 @@
                   Yugoslavia. Despite the publications being in Slovenian, there was great interest
                   in them.</p>
                <figure xml:id="Legacy-figure-48">
-                  <graphic url="media/Zakrajsek8.jpg"/>
+                  <graphic url="/media/Zakrajsek8.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
                      <hi rend="italic"> 8: Cover pages of the publication </hi>Information systems
@@ -4549,7 +4547,7 @@
                   <hi rend="italic">Figure 9: After 50 years</hi>
                </p>
                <figure xml:id="Legacy-figure-49">
-                  <graphic url="media/Zakrajsek9a.jpg"/>
+                  <graphic url="/media/Zakrajsek9a.jpg"/>
                   <head>
                      <hi rend="italic">Figure 9a: 3D Urbanism, Ljubljana, 2010 onwards. Link:</hi>
                      <ref target="https://3durbanizem.ljubljana.si/3DUrbanizem/3DMesto/">
@@ -4558,7 +4556,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-50">
-                  <graphic url="media/Zakrajsek9b.jpg"/>
+                  <graphic url="/media/Zakrajsek9b.jpg"/>
                   <head>
                      <hi rend="italic">Figure 9b: Agent-based Geographical Modeling of Public
                         Library Locations, 2010 onwards. Link:</hi>
@@ -4570,7 +4568,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-51">
-                  <graphic url="media/Zakrajsek9c.jpg"/>
+                  <graphic url="/media/Zakrajsek9c.jpg"/>
                   <head>
                      <hi rend="italic">Figure 9c: SMUR, Simulation Model of Urban Development, 2010
                         onwards. Zakrajšek, F. et al. Development and implementation of a regional
@@ -4579,7 +4577,7 @@
                   </head>
                </figure>
                <figure xml:id="Legacy-figure-52">
-                  <graphic url="media/Zakrajsek9d.jpg"/>
+                  <graphic url="/media/Zakrajsek9d.jpg"/>
                   <head>
                      <hi rend="italic">Figure 9d: Simple Cellular Automata Model for Flood
                         Estimation and Determination of Culture Heritage on Risk, 2018 –2022,
@@ -4796,7 +4794,7 @@
                   shraniti zaradi spremenljive narave programske opreme, uporabe, lastništva ter
                   dokumentacijskih praks in standardov.</p>
                <figure xml:id="Legacy-figure-53">
-                  <graphic url="media/zorz.jpg"/>
+                  <graphic url="/media/zorz.jpg"/>
                   <head>
                      <hi rend="italic">Slika 1: Bronasta skulptura v poslovnih prostorih podjetja
                         HERMES SoftLab na Litijski cesti 51 v Ljubljani, delo avtorja Andreja Ajdiča
@@ -5012,7 +5010,7 @@
                   shifting nature of software, usage, and ownership, as well as documentation
                   practices and standards.</p>
                <figure xml:id="Legacy-figure-54">
-                  <graphic url="media/zorz.jpg"/>
+                  <graphic url="/media/zorz.jpg"/>
                   <p style="text-align:justify;">
                      <hi rend="italic">Figure 1:</hi>
                      <hi rend="italic"> Bronze sculpture for HERMES SoftLab office at Litijska 51,
