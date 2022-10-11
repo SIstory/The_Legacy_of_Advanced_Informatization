@@ -136,134 +136,136 @@
          <div type="preface" xml:id="preface-sl" xml:lang="sl" corresp="#preface-en">
             <head xml:id="Legacy-head-7">Zapuščina napredne informatizacije</head>
             <head xml:id="Legacy-head-8">Predgovor</head>
-            <p style="text-align:justify;" xml:id="Legacy-p-4">Pričujoči zbornik prispevkov s simpozija o Zapuščini napredne
-               informatizacije, ki je potekal v <ref target="https://www.racunalniski-muzej.si/">
+            <p style="text-align:justify;" xml:id="Legacy-p-4">Pričujoči zbornik prispevkov s
+               simpozija o Zapuščini napredne informatizacije, ki je potekal v <ref
+                  target="https://www.racunalniski-muzej.si/">
                   <hi rend="underline">Računalniškem muzeju</hi>
                </ref> v Ljubljani 13. junija 2022, obravnava raznolike poglede na izzive in potrebe
                po sistematični hrambi programske računalniške dediščine. Obenem pa samo problematiko
                uvaja v sodoben slovenski strokovni diskurz z namenom, da se postavi osnova za
                razmislek o prihodnjih ustrojih, ki bi nam kot družbi pomagali, da zagotovimo
                dolgoživost spomina na digitalni sloj človeškega udejanjanja.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-5">V Računalniškem muzeju smo potrebo za ta skupni razmislek
-               občutili kot pereč problem v lastnih dejavnostih medijske in digitalne arheologije
-               ter v procesih in poskusih rekonstrukcije prelomnih digitalnih odtisov slovenske
-               družbe. Simpozij smo sklicali s tezo, da prepogosto prepuščamo pozabi tisto, s čimer
-               imamo opravka vsak dan, ko kot uporabniki digitalne tehnologije ignorantsko
-               zanemarjamo plast, ki nam omogoča to nič več čudežno, a vendar vedno manj razumljeno
-               vmesniško plast med človekom in strojem. Kar se je ohranilo, se je ohranilo tako
-               rekoč slučajno. Zahvala gre zavednim posameznicam in posameznikom, ki so delovali
-               bodisi znotraj organizacij bodisi v zasebni kapaciteti, zato želimo z izdajo zbornika
-               postaviti ilustrativne temelje za nadaljnjo obravnavo in usmeritev v iskanje
-               sistematičnega nagovora k ohranjanju tistega, kar iz nežive strojne opreme ustvari
-               digitalno človeško izkušnjo.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-6">Nabor strokovnjakov, ki so sodelovali na posvetu, je bil namenoma
-               raznolik, zato da smo zajeli širino pogledov in razmislekov od prvoosebnih izrazov
-               ustvarjalcev. Ti so s svojim delovanjem prispevali k naboru izjemno pomembnih
-               prelomnih trenutkov softverskega razvoja v Ljubljani in Sloveniji, vključno s
-               humanističnimi interpretacijami in dobrimi praksami, ki so morda že vzpostavljene v
-               drugih segmentih raziskovalnega dela ali v posameznih visoko reguliranih industrijah.
-               Odprli smo pravna vprašanja, povezana z nejasno opredelitvijo programske
-               intelektualne lastnine, ter izpostavili učinke, ki jih je povezano neprekinjeno
-               delovanje na tem področju prineslo razvoju mesta in nenazadnje samozavesti današnjih
-               razvijalcev programskih rešitev, ki so se kalili v okolju z bogato razvejano
-               institucionalno in samoniklo softversko dejavnostjo.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-7">V nagovorni predstavitvi dr. Roberto di Cosmo uokviri namen
-               posveta s predstavitvijo geneze in delovanja fundacije UNESCO Software Heritage,
-               katere ambasadorji smo tudi v Računalniškem muzeju. Poda izhodiščne zagovore za
-               oblikovanje statusa softverske nesnovne dediščine, kot ga vidi UNESCO, in demonstrira
-               določen del na praktičnem prikazu iz hrambe SWH. Praktične prikaze in pregled
-               večdesetletnega delovanja na področju razvoja softverskih rešitev prispevajo dr. Saša
-               Divjak s področja računalniški ved, dr. Primož Jakopin s področja jezikoslovja in
-               Franc Zakrajšek s področja urbanističnega načrtovanja in digitalizacije arhitekturne
-               kulturne dediščine. Divjak se osredotoča na preglavice, ki jih povzroča sprotno
-               zastaranje programskih rešitev, Jakopin pa odpre vprašanja arhiviranja z vidika
-               poznejše muzejske predstavitve. Poglobljen pregled razvoja digitalizacije
-               specifičnega področja – urbanizma – nam predstavi Zakrajšek, ki skozi tehnološke
-               rešitve jasno prikaže, kako je razvoj v Ljubljani držal korak s časom. Nadalje mag.
-               Silvana Žorž poveže teoretske in praktične iztočnice v prispevku o vrednotah v
-               softverskem razvoju, kot sledijo iz analize poslovne in programerske kulture podjetja
-               HERMES SoftLab, in odpre vprašanje zmožnosti ohranjanja tako neotipljive, a vendar
-               bistvene zapuščine, kot je vrednostni sistem. To človeško noto nagovori tudi Boštjan
-               Špetič v prispevku o rekonstrukciji računalnika Iskra Delta Partner, arheoloških
-               najdbah s trdega diska in dejanskem učinku prezentacije iz muzejske prakse. Dr.
-               Andrej Pančur osvetljuje dobre prakse in regulativne okvire na področju digitalne
-               humanistike. Dr. Nataša Milić-Frayling pa ilustrira dobre prakse na področju
-               dolgotrajne hrambe softvera skozi primer iz visoko reguliranega industrijskega okolja
-               ter zahtevnega umetniškega okolja, kjer je istovetnost uporabniške izkušnje na prvem
-               mestu. Matija Šuklje pa nam oriše kompleksnost pravnih interpretacij programja, ki se
-               jih moramo zavedati ob razmisleku o sistematični hrambi, rekonstrukciji in
-               predstavljanju javnosti.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-8">Posvet je vprašanja odpiral, a obenem ponudil nastavke za
-               oblikovanje zaključkov. Vodilna misel, ki se je prepletala skozi vsa predstavljena
-               stališča, pa je bila izjemno človeška.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-5">V Računalniškem muzeju smo potrebo za
+               ta skupni razmislek občutili kot pereč problem v lastnih dejavnostih medijske in
+               digitalne arheologije ter v procesih in poskusih rekonstrukcije prelomnih digitalnih
+               odtisov slovenske družbe. Simpozij smo sklicali s tezo, da prepogosto prepuščamo
+               pozabi tisto, s čimer imamo opravka vsak dan, ko kot uporabniki digitalne tehnologije
+               ignorantsko zanemarjamo plast, ki nam omogoča to nič več čudežno, a vendar vedno manj
+               razumljeno vmesniško plast med človekom in strojem. Kar se je ohranilo, se je
+               ohranilo tako rekoč slučajno. Zahvala gre zavednim posameznicam in posameznikom, ki
+               so delovali bodisi znotraj organizacij bodisi v zasebni kapaciteti, zato želimo z
+               izdajo zbornika postaviti ilustrativne temelje za nadaljnjo obravnavo in usmeritev v
+               iskanje sistematičnega nagovora k ohranjanju tistega, kar iz nežive strojne opreme
+               ustvari digitalno človeško izkušnjo.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-6">Nabor strokovnjakov, ki so sodelovali
+               na posvetu, je bil namenoma raznolik, zato da smo zajeli širino pogledov in
+               razmislekov od prvoosebnih izrazov ustvarjalcev. Ti so s svojim delovanjem prispevali
+               k naboru izjemno pomembnih prelomnih trenutkov softverskega razvoja v Ljubljani in
+               Sloveniji, vključno s humanističnimi interpretacijami in dobrimi praksami, ki so
+               morda že vzpostavljene v drugih segmentih raziskovalnega dela ali v posameznih visoko
+               reguliranih industrijah. Odprli smo pravna vprašanja, povezana z nejasno
+               opredelitvijo programske intelektualne lastnine, ter izpostavili učinke, ki jih je
+               povezano neprekinjeno delovanje na tem področju prineslo razvoju mesta in nenazadnje
+               samozavesti današnjih razvijalcev programskih rešitev, ki so se kalili v okolju z
+               bogato razvejano institucionalno in samoniklo softversko dejavnostjo.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-7">V nagovorni predstavitvi dr. Roberto
+               di Cosmo uokviri namen posveta s predstavitvijo geneze in delovanja fundacije UNESCO
+               Software Heritage, katere ambasadorji smo tudi v Računalniškem muzeju. Poda
+               izhodiščne zagovore za oblikovanje statusa softverske nesnovne dediščine, kot ga vidi
+               UNESCO, in demonstrira določen del na praktičnem prikazu iz hrambe SWH. Praktične
+               prikaze in pregled večdesetletnega delovanja na področju razvoja softverskih rešitev
+               prispevajo dr. Saša Divjak s področja računalniški ved, dr. Primož Jakopin s področja
+               jezikoslovja in Franc Zakrajšek s področja urbanističnega načrtovanja in
+               digitalizacije arhitekturne kulturne dediščine. Divjak se osredotoča na preglavice,
+               ki jih povzroča sprotno zastaranje programskih rešitev, Jakopin pa odpre vprašanja
+               arhiviranja z vidika poznejše muzejske predstavitve. Poglobljen pregled razvoja
+               digitalizacije specifičnega področja – urbanizma – nam predstavi Zakrajšek, ki skozi
+               tehnološke rešitve jasno prikaže, kako je razvoj v Ljubljani držal korak s časom.
+               Nadalje mag. Silvana Žorž poveže teoretske in praktične iztočnice v prispevku o
+               vrednotah v softverskem razvoju, kot sledijo iz analize poslovne in programerske
+               kulture podjetja HERMES SoftLab, in odpre vprašanje zmožnosti ohranjanja tako
+               neotipljive, a vendar bistvene zapuščine, kot je vrednostni sistem. To človeško noto
+               nagovori tudi Boštjan Špetič v prispevku o rekonstrukciji računalnika Iskra Delta
+               Partner, arheoloških najdbah s trdega diska in dejanskem učinku prezentacije iz
+               muzejske prakse. Dr. Andrej Pančur osvetljuje dobre prakse in regulativne okvire na
+               področju digitalne humanistike. Dr. Nataša Milić-Frayling pa ilustrira dobre prakse
+               na področju dolgotrajne hrambe softvera skozi primer iz visoko reguliranega
+               industrijskega okolja ter zahtevnega umetniškega okolja, kjer je istovetnost
+               uporabniške izkušnje na prvem mestu. Matija Šuklje pa nam oriše kompleksnost pravnih
+               interpretacij programja, ki se jih moramo zavedati ob razmisleku o sistematični
+               hrambi, rekonstrukciji in predstavljanju javnosti.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-8">Posvet je vprašanja odpiral, a obenem
+               ponudil nastavke za oblikovanje zaključkov. Vodilna misel, ki se je prepletala skozi
+               vsa predstavljena stališča, pa je bila izjemno človeška.</p>
             <p style="text-align:justify;" xml:id="Legacy-p-9">Softver je minljiv.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-10">Softver je minljiv, a obenem nesmrten v svoji ideji, udejanjanju
-               človeške iznajdljivosti, enkapsuliranju duha določenega časa in vrednostnih sistemov
-               določene skupine ljudi. Je izraz naše kulture. Je naša dediščina.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-11">V Sloveniji je prostora za izboljšavo na področju hrambe,
-               evidentiranja, konzervacije, restavriranja softverske dediščine in nenazadnje
-               interpretacij in prezentacij za javnost še ogromno. Prvi korak pa je zagotovo narejen
-               s tem, ko se zavemo, da gre tudi pri programju za nesnovno kulturno dediščino, vredno
-               celostne obravnave ali pa za vedno zapisano pozabi. Zgodovina, o kateri razpravljajo
-               avtorji, je resnično nedavna, stara komaj več kot pol stoletja. Izgublja pa se s
-               svetlobno hitrostjo. Z vsako nadgradnjo uporabniškega sistema, z vsako novo
-               generacijo strojne opreme. Zato je zdaj pravi čas, da se vprašamo, kaj bomo lahko
-               pokazali zanamcem čez naslednjih 50 let. Jim bomo brez istovetnih interaktivnih
-               prikazov res lahko dovolj dobro razložili, kako so nas kot družbo oblikovale
-               digitalne interakcije? Bomo kolektivno pozabili nanje?</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-10">Softver je minljiv, a obenem
+               nesmrten v svoji ideji, udejanjanju človeške iznajdljivosti, enkapsuliranju duha
+               določenega časa in vrednostnih sistemov določene skupine ljudi. Je izraz naše
+               kulture. Je naša dediščina.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-11">V Sloveniji je prostora za
+               izboljšavo na področju hrambe, evidentiranja, konzervacije, restavriranja softverske
+               dediščine in nenazadnje interpretacij in prezentacij za javnost še ogromno. Prvi
+               korak pa je zagotovo narejen s tem, ko se zavemo, da gre tudi pri programju za
+               nesnovno kulturno dediščino, vredno celostne obravnave ali pa za vedno zapisano
+               pozabi. Zgodovina, o kateri razpravljajo avtorji, je resnično nedavna, stara komaj
+               več kot pol stoletja. Izgublja pa se s svetlobno hitrostjo. Z vsako nadgradnjo
+               uporabniškega sistema, z vsako novo generacijo strojne opreme. Zato je zdaj pravi
+               čas, da se vprašamo, kaj bomo lahko pokazali zanamcem čez naslednjih 50 let. Jim bomo
+               brez istovetnih interaktivnih prikazov res lahko dovolj dobro razložili, kako so nas
+               kot družbo oblikovale digitalne interakcije? Bomo kolektivno pozabili nanje?</p>
             <byline>Gaja Zornada, <lb/>vodja Računalniškega muzeja, Ljubljana, julij 2022</byline>
          </div>
          <div type="preface" xml:id="preface-en" xml:lang="en" corresp="#preface-sl">
             <head xml:id="Legacy-head-9">The Legacy of Advanced Informatization</head>
             <head xml:id="Legacy-head-10">Preface</head>
-            <p style="text-align:justify;" xml:id="Legacy-p-14">The present proceedings from the Symposium on the Legacy of
-               Advanced Informatization, which was held at the Computer History Museum in Ljubljana
-               on June 13 2022, represents an account of a variety of views on the challenges and
-               the need for the systematic storage of software heritage. It introduces the topic
-               into Slovenia’s contemporary professional discourse, with a view to laying the
-               foundations for future frameworks that could help our society preserve the memory of
-               the digital layer of human activity.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-15">At the Computer History Museum, we have felt the need for such a
-               broad discussion as a burning problem in our own work in media and digital
-               archaeology, processes and attempts to reconstruct the ground-breaking digital
-               imprints of Slovenian society. Our thesis for the expert panel was that all too often
-               we let slip into oblivion what we interact with on a daily basis when we, the users
-               of digital technologies, willfully ignore the layer that enables the no longer
-               miraculous yet increasingly complex and misunderstood interface between humans and
-               machines. What has been preserved has actually been preserved by chance thanks to
-               conscientious individuals who were active either within organizations or privately.
-               The goal behind this collection of papers is to prepare illustrative groundwork for
-               future elaboration and suggest a more systematic approach to preserving what creates
-               the digital human experience from inanimate hardware.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-16">We intentionally invited a very diverse group of experts to the
-               symposium to ensure a wide array of perspectives and thoughts, from the very
-               developers of ground-breaking software in Ljubljana and Slovenia to authors of
-               humanist interpretations and good practices that have been established in other
-               segments of research or certain highly regulated industries. We opened legal
-               questions regarding the vague definition of software intellectual property, and
-               pointed to the effects of constant joint efforts in the development of the city and
-               also on the confidence of software developers who grew in an environment boasting a
-               distinct institutional and grassroots software activity.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-17">In the introduction Dr Roberto di Cosmo frames the purpose of
-               the symposium by presenting the genesis and work of the UNESCO Software Heritage
-               foundation t, of which the Computer History Museum is an ambassador. He provides the
-               principal arguments for recognizing the status of software as a form of intangible
-               heritage as perceived by UNESCO, and discusses a practical example of software
-               heritage archiving. Practical examples and an overview of decades of software
-               development are offered by Dr Saša Divjak in computer sciences, Dr Primož Jakopin in
-               linguistics, and Franc Zakrajšek in urban planning and digitalization of
-               architectural cultural heritage. Divjak discusses the issues of software solutions
-               obsolescence, while Jakopin explores the issues of archiving from the viewpoint of
-               subsequent museum display. Zakrajšek delves into the development of digitalization in
-               a specific field – urban planning – and uses various technological solutions to
-               illustrate how development in Ljubljana kept up with global trends. Furtheron,
-               Silvana Žorž, MA, connects the theoretical and practical aspects of the importance of
-               values in software development based on an analysis of the company business and
-               engineering culture in HERMES SoftLab, thus opening a discussion about the ability to
-               preserve such intangible yet crucial heritage as a values system. This very human
-               aspect is addressed also by Boštjan Špetič in an article uncovering insights into the
-               reconstruction of the Iskra Delta Partner computer, archaeological findings from a
-               hard drive, and the actual effects of presentation in the museum. <hi
+            <p style="text-align:justify;" xml:id="Legacy-p-14">The present proceedings from the
+               Symposium on the Legacy of Advanced Informatization, which was held at the Computer
+               History Museum in Ljubljana on June 13 2022, represents an account of a variety of
+               views on the challenges and the need for the systematic storage of software heritage.
+               It introduces the topic into Slovenia’s contemporary professional discourse, with a
+               view to laying the foundations for future frameworks that could help our society
+               preserve the memory of the digital layer of human activity.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-15">At the Computer History Museum, we
+               have felt the need for such a broad discussion as a burning problem in our own work
+               in media and digital archaeology, processes and attempts to reconstruct the
+               ground-breaking digital imprints of Slovenian society. Our thesis for the expert
+               panel was that all too often we let slip into oblivion what we interact with on a
+               daily basis when we, the users of digital technologies, willfully ignore the layer
+               that enables the no longer miraculous yet increasingly complex and misunderstood
+               interface between humans and machines. What has been preserved has actually been
+               preserved by chance thanks to conscientious individuals who were active either within
+               organizations or privately. The goal behind this collection of papers is to prepare
+               illustrative groundwork for future elaboration and suggest a more systematic approach
+               to preserving what creates the digital human experience from inanimate hardware.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-16">We intentionally invited a very
+               diverse group of experts to the symposium to ensure a wide array of perspectives and
+               thoughts, from the very developers of ground-breaking software in Ljubljana and
+               Slovenia to authors of humanist interpretations and good practices that have been
+               established in other segments of research or certain highly regulated industries. We
+               opened legal questions regarding the vague definition of software intellectual
+               property, and pointed to the effects of constant joint efforts in the development of
+               the city and also on the confidence of software developers who grew in an environment
+               boasting a distinct institutional and grassroots software activity.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-17">In the introduction Dr Roberto di
+               Cosmo frames the purpose of the symposium by presenting the genesis and work of the
+               UNESCO Software Heritage foundation t, of which the Computer History Museum is an
+               ambassador. He provides the principal arguments for recognizing the status of
+               software as a form of intangible heritage as perceived by UNESCO, and discusses a
+               practical example of software heritage archiving. Practical examples and an overview
+               of decades of software development are offered by Dr Saša Divjak in computer
+               sciences, Dr Primož Jakopin in linguistics, and Franc Zakrajšek in urban planning and
+               digitalization of architectural cultural heritage. Divjak discusses the issues of
+               software solutions obsolescence, while Jakopin explores the issues of archiving from
+               the viewpoint of subsequent museum display. Zakrajšek delves into the development of
+               digitalization in a specific field – urban planning – and uses various technological
+               solutions to illustrate how development in Ljubljana kept up with global trends.
+               Furtheron, Silvana Žorž, MA, connects the theoretical and practical aspects of the
+               importance of values in software development based on an analysis of the company
+               business and engineering culture in HERMES SoftLab, thus opening a discussion about
+               the ability to preserve such intangible yet crucial heritage as a values system. This
+               very human aspect is addressed also by Boštjan Špetič in an article uncovering
+               insights into the reconstruction of the Iskra Delta Partner computer, archaeological
+               findings from a hard drive, and the actual effects of presentation in the museum. <hi
                   rend="background(magenta)">Dr Andrej Pančur highlights best practices and
                   regulatory frameworks in the digital humanities</hi>, while Dr Nataša
                Milić-Frayling illustrates best practices through examples of long-term software
@@ -272,25 +274,25 @@
                Matija Šuklje discusses the complexity of legal interpretations of software which
                should be taken into account in organizing systematic storage, reconstruction and
                presentation to the public.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-18">The expert panel raised questions yet also offered starting
-               points for forming conclusions. The underlying idea intertwining all points of view
-               was outstandingly human.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-18">The expert panel raised questions
+               yet also offered starting points for forming conclusions. The underlying idea
+               intertwining all points of view was outstandingly human.</p>
             <p style="text-align:justify;" xml:id="Legacy-p-19">Software is transient.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-20">Software is transient yet immortal in its idea, in the
-               materialization of human inventiveness, the encapsulation of the spirit of a certain
-               era, and the value systems of specific groups of people. It is an expression of our
-               culture. It is our heritage.</p>
-            <p style="text-align:justify;" xml:id="Legacy-p-21">In Slovenia there is ample room for improvement in terms of the
-               storage, registering, conservation, and restoration of software heritage and also for
-               different interpretations and presentations to the public. The first step will be
-               taken as soon as we realize that software is our intangible cultural heritage and as
-               such deserves a thorough treatment to avoid it disappearing forever. The history
-               being discussed here is truly recent, barely more than half a century old. But it is
-               vanishing rapidly with each update of user systems, and with each generation of
-               hardware. Hence now is the right time to wonder what will be left for us to show
-               future generations in the next 50 years. Will we truly be able to properly explain
-               how digital interactions shaped our society without authentic, interactive
-               experiences? Will we collectively forget about them?</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-20">Software is transient yet immortal
+               in its idea, in the materialization of human inventiveness, the encapsulation of the
+               spirit of a certain era, and the value systems of specific groups of people. It is an
+               expression of our culture. It is our heritage.</p>
+            <p style="text-align:justify;" xml:id="Legacy-p-21">In Slovenia there is ample room for
+               improvement in terms of the storage, registering, conservation, and restoration of
+               software heritage and also for different interpretations and presentations to the
+               public. The first step will be taken as soon as we realize that software is our
+               intangible cultural heritage and as such deserves a thorough treatment to avoid it
+               disappearing forever. The history being discussed here is truly recent, barely more
+               than half a century old. But it is vanishing rapidly with each update of user
+               systems, and with each generation of hardware. Hence now is the right time to wonder
+               what will be left for us to show future generations in the next 50 years. Will we
+               truly be able to properly explain how digital interactions shaped our society without
+               authentic, interactive experiences? Will we collectively forget about them?</p>
             <byline>Gaja Zornada,<lb/>Head of Computer History Museum, Ljubljana, July 2022</byline>
          </div>
       </front>
@@ -999,7 +1001,7 @@
             </docAuthor>
             <div type="subchapter" xml:id="ch03-sub01" xml:lang="sl" corresp="#ch03-sub01-en">
                <head xml:id="Legacy-head-27">1. Uvod</head>
-               <p style="text-align:justify;" xml:id="Legacy-p-122"> Slovenski Računalniški muzej je
+               <p style="text-align:justify;" xml:id="Legacy-p-122">Slovenski Računalniški muzej je
                   ob zelo primernem času podal pobudo za organizacijo okrogle mize o dediščini
                   informacijskih orodij (izključno naprednih), katere najpomembnejši del je
                   programje. Leta 1960 je izšel prvi glasnik računalniške dobe v Sloveniji, in sicer
@@ -1350,15 +1352,138 @@
                      target="https://www.merriam-webster.com/help/faq-how-many-english-words">
                      <hi rend="underline">številom besed v angleščini</hi>
                   </ref>. Spodnja primera ponazarjata uporabo programa NEVA pri proučevanju dveh
-                  komponent imena (slovenskega) Računalniškega muzeja.</p>
-               <p style="text-align:justify;" xml:id="Legacy-p-141">Tabela 2: Rezultat iskanja
-                  »muzea« ali »muzej« na seznamu slovenskih besed</p>
+                  komponent imena (slovenskega) Računalniškega muzeja.</p>               
+               <table rend="rules">
+                  <head>Tabela 2: Rezultat iskanja
+                  »muzea« ali »muzej« na seznamu slovenskih besed</head>
+                  <row>
+                     <cell rend="center"><p style="text-align:center;">ekomuzej</p><p
+                        style="text-align:center;">fotomuzej</p><p style="text-align:center;"
+                           >hipermuzejski</p><p style="text-align:center;">izvenmuzejski</p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">medmuzejski</p><p
+                        style="text-align:center;">megamuzej</p><p style="text-align:center;"><hi
+                           rend="bold">muzealec</hi></p><p style="text-align:center;"><hi
+                              rend="bold">muzealen</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzealija</p><p
+                        style="text-align:center;"><hi rend="bold">muzealije</hi></p><p
+                           style="text-align:center;">muzealistika</p><p style="text-align:center;"
+                              >muzealizacija</p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzealiziranje</p><p
+                        style="text-align:center;">muzealizirati</p><p style="text-align:center;"
+                           >muzealka</p><p style="text-align:center;"><hi rend="bold"
+                              >muzealnost</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzealogija</p><p
+                        style="text-align:center;"><hi rend="bold">muzealski</hi></p><p
+                           style="text-align:center;">muzealstvo</p><p style="text-align:center;"
+                              ><hi rend="bold">muzej</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzejček</p><p
+                        style="text-align:center;">muzejec</p><p style="text-align:center;"
+                           >muzejev</p><p style="text-align:center;"><hi rend="bold"
+                              >muzejnik</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzejon</p><p
+                        style="text-align:center;"><hi rend="bold">muzejski</hi></p><p
+                           style="text-align:center;">muzejskost</p><p style="text-align:center;"
+                              ><hi rend="bold">muzejstvo</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">nemuzejski</p><p
+                        style="text-align:center;">obmuzejski</p><p style="text-align:center;"
+                           >pomuzejiti</p><p style="text-align:center;">tehniškomuzejski</p></cell>
+                  </row>
+               </table>
                <p style="text-align:justify;" xml:id="Legacy-p-142">Prikazanih je 32 besed, izmed
                   katerih je 9 besed poudarjenih – te besede so navedene tudi v SSKJ. Izmed vseh teh
                   besed je 20 samostalnikov, 10 pridevnikov in dva glagola. Zanimivo izstopata dve
                   posebni vrsti muzejev, in sicer ekomuzej in fotomuzej.</p>
-               <p style="text-align:justify;" xml:id="Legacy-p-143">Tabela 3: Rezultat iskanja
-                  »računal« na seznamu slovenskih besed</p>
+               <table rend="rules">
+                     <head>Tabela 3: Rezultat iskanja
+                  »računal« na seznamu slovenskih besed</head>
+                     <row>
+                        <cell rend="center"><p style="text-align:center;">antiračunalničar</p><p
+                           style="text-align:center;">antiračunalniški</p><p
+                              style="text-align:center;">avtoračunalnik</p><p
+                                 style="text-align:center;">bančnoračunalniški</p><p
+                                    style="text-align:center;">bioračunalnik</p><p style="text-align:center;"
+                                       >bioračunalniški</p><p style="text-align:center;">bioračunalništvo</p><p
+                                          style="text-align:center;">desetračunalniški</p><p
+                                             style="text-align:center;">dvojnoračunalniški</p><p
+                                                style="text-align:center;">ekoračunalnik</p><p style="text-align:center;"
+                                                   >elektronskoračunalniški</p><p style="text-align:center;"
+                                                      >elektroračunalniški</p><p style="text-align:center;"
+                                                         >enoračunalniški</p><p style="text-align:center;">fotoračunalniški</p><p
+                                                            style="text-align:center;">hiperračunalnik</p><p
+                                                               style="text-align:center;">informacijskoračunalniški</p><p
+                                                                  style="text-align:center;">izračunalec</p></cell>
+                        <cell rend="center"/>
+                        <cell rend="center"><p style="text-align:center;">izračunalnik</p><p
+                           style="text-align:center;">medračunalniški</p><p
+                              style="text-align:center;">megaračunalnik</p><p
+                                 style="text-align:center;">megaračunalo</p><p style="text-align:center;"
+                                    >mikroračunalničar</p><p style="text-align:center;">mikroračunalnik</p><p
+                                       style="text-align:center;">mikroračunalniški</p><p
+                                          style="text-align:center;">mikroračunalništvo</p><p
+                                             style="text-align:center;">mikroračunalo</p><p style="text-align:center;"
+                                                >miniračunalnik</p><p style="text-align:center;">miniračunalniški</p><p
+                                                   style="text-align:center;">minisuperračunalnik</p><p
+                                                      style="text-align:center;">mobiračunalnik</p><p
+                                                         style="text-align:center;">multiračunalnica</p><p
+                                                            style="text-align:center;">multiračunalnik</p><p
+                                                               style="text-align:center;">multiračunalniški</p><p
+                                                                  style="text-align:center;">nanoračunalnik</p></cell>
+                        <cell rend="center"/>
+                        <cell rend="center"><p style="text-align:center;">neračunalnikar</p><p
+                           style="text-align:center;">neračunalniški</p><p
+                              style="text-align:center;">neračunalniško</p><p
+                                 style="text-align:center;">nevroračunalnik</p><p
+                                    style="text-align:center;">obračunalec</p><p style="text-align:center;"
+                                       >organizacijskoračunalniški</p><p style="text-align:center;"
+                                          >osebnoračunalniški</p><p style="text-align:center;"
+                                             >osrednjeračunalniški</p><p style="text-align:center;"
+                                                >polračunalnik</p><p style="text-align:center;">postračunalniški</p><p
+                                                   style="text-align:center;">predračunalniški</p><p
+                                                      style="text-align:center;">preračunalen</p><p style="text-align:center;"
+                                                         >protiračunalniški</p><p style="text-align:center;">računalce</p><p
+                                                            style="text-align:center;"><hi rend="bold">računalen</hi></p><p
+                                                               style="text-align:center;">računalnica</p><p style="text-align:center;"
+                                                                  >računalničar</p></cell>
+                        <cell rend="center"/>
+                        <cell rend="center"><p style="text-align:center;">računalničarka</p><p
+                           style="text-align:center;">računalničarski</p><p
+                              style="text-align:center;">računalniček</p><p style="text-align:center;"
+                                 ><hi rend="bold">računalnik</hi></p><p style="text-align:center;"><hi
+                                    rend="bold">računalnikar</hi></p><p style="text-align:center;"
+                                       >računalnikarica</p><p style="text-align:center;">računalnikarski</p><p
+                                          style="text-align:center;">računalnikov</p><p style="text-align:center;"
+                                             ><hi rend="bold">računalniški</hi></p><p style="text-align:center;"
+                                                >računalniškografičen</p><p style="text-align:center;"
+                                                   >računalniškopisen</p><p style="text-align:center;"
+                                                      >računalniškoprevajalski</p><p style="text-align:center;"
+                                                         >računalniškoprogramski</p><p style="text-align:center;"
+                                                            >računalniškoradiografski</p><p style="text-align:center;"><hi
+                                                               rend="bold">računalništvo</hi></p><p style="text-align:center;"><hi
+                                                                  rend="bold">računalo</hi></p><p style="text-align:center;"
+                                                                     >superračunalnik</p></cell>
+                        <cell rend="center"/>
+                        <cell rend="center"><p style="text-align:center;">superračunalnikar</p><p
+                           style="text-align:center;">superračunalniški</p><p
+                              style="text-align:center;">superračunalništvo</p><p
+                                 style="text-align:center;">teleračunalniški</p><p
+                                    style="text-align:center;">ultraračunalnik</p><p
+                                       style="text-align:center;">večračunalnik</p><p style="text-align:center;"
+                                          >večračunalniški</p><p style="text-align:center;">veleračunalnik</p><p
+                                             style="text-align:center;">veleračunalnikar</p><p
+                                                style="text-align:center;">veleračunalniški</p><p
+                                                   style="text-align:center;">velikoračunalniški</p><p
+                                                      style="text-align:center;">videoračunalniški</p><p
+                                                         style="text-align:center;">vseračunalniški</p><p
+                                                            style="text-align:center;">zabavnoračunalniški</p></cell>
+                     </row>
+                  </table>
                <p style="text-align:justify;" xml:id="Legacy-p-144">Prikazanih je 82 besed, izmed
                   katerih je le 6 besed navedenih v SSKJ, saj je slovar nastajal do leta 1991, kar
                   je bilo obdobje pred vzponom spleta. Nenavaden je le en vnos, in sicer
@@ -1466,20 +1591,18 @@
             </docAuthor>
             <div type="subchapter" xml:id="ch03-sub01-en" xml:lang="en" corresp="#ch03-sub01">
                <head xml:id="Legacy-head-34">1. Introduction</head>
-               <list type="ordered" xml:id="Legacy-list-1">
-                  <item>The initiative by the Slovenian Computer History Museum to organize a panel
-                     discussion on the legacy of informatization tools, of which software is the
-                     most important, has come at a very appropriate time. The year 1960 saw the
-                     first herald of the computer era in Slovenia, when a book by Professor France
-                     Križanič was published, <hi rend="italic">Elektronski aritmetični računalniki
-                        </hi>(<hi rend="italic">Electronic arithmetic computers</hi>), based on his
-                     experience with a <ref target="https://en.wikipedia.org/wiki/Ural_(computer)"
-                        >Ural-1</ref> computer at the Moscow State University (MGU). In 1962 the
-                     first computer in Slovenia was put to use, a <ref
-                        target="https://en.wikipedia.org/wiki/Z23_(computer)">Zuse Z23</ref>, and
-                     luckily quite a few of its users are still with us, to share their first-hand
-                     experiences.</item>
-               </list>
+               <p style="text-align:justify;"> The initiative by the Slovenian Computer History
+                  Museum to organize a panel discussion on the legacy of informatization tools, of
+                  which software is the most important, has come at a very appropriate time. The
+                  year 1960 saw the first herald of the computer era in Slovenia, when a book by
+                  Professor France Križanič was published, <hi rend="italic">Elektronski aritmetični
+                     računalniki </hi>(<hi rend="italic">Electronic arithmetic computers</hi>),
+                  based on his experience with a <ref
+                     target="https://en.wikipedia.org/wiki/Ural_(computer)">Ural-1</ref> computer at
+                  the Moscow State University (MGU). In 1962 the first computer in Slovenia was put
+                  to use, a <ref target="https://en.wikipedia.org/wiki/Z23_(computer)">Zuse
+                     Z23</ref>, and luckily quite a few of its users are still with us, to share
+                  their first-hand experiences. </p>
                <p style="text-align:justify;" xml:id="Legacy-p-151">In the paper the author’s
                   post-mainframe software path is illustrated, involving text editors with language
                   technology and corpus linguistic features, including a lexical web search engine.
@@ -1488,26 +1611,23 @@
             </div>
             <div type="subchapter" xml:id="ch03-sub02-en" xml:lang="en" corresp="#ch03-sub02">
                <head xml:id="Legacy-head-35">2. STRUCTRAN</head>
-               <list type="ordered" xml:id="Legacy-list-2">
-                  <item> At the end of the 1960s and even more in the early 1970s, it became clear
-                     that the programming languages of the day – in science and technology mostly
-                        <ref target="https://en.wikipedia.org/wiki/Fortran">FORTRAN</ref>, in
-                     business environment <ref target="https://en.wikipedia.org/wiki/COBOL"
-                        >COBOL</ref> – were not entirely suited for the tasks they were used for.
-                     Long and complex programming tasks produced immense volumes of source code,
-                     which was increasingly difficult to update and maintain, all because these two
-                     programming languages were still closer to machine code, and not abstract,
-                     structured enough to work with easily. In 1968 Professor Edsger Dijkstra
-                     published a letter titled “<ref
-                        target="https://en.wikipedia.org/wiki/Considered_harmful">Go To Statement
-                        Considered Harmful</ref>”. Jumping from place to place, up and down, such
-                     code does indeed make one lose any overview of the intentions of the programmer
-                     very quickly, and profoundly, even more so after returning to the same code
-                     some time – days, weeks or months – later. This led to so-called structured
-                     programming, coding without Go To statements but with control structures, which
-                     have a beginning and an end, such as IF ELSE ENDIF, loops with FOR ENDFOR,
-                     REPEAT ENDREPEAT, WHILE ENDWHILE.</item>
-               </list>
+               <p> At the end of the 1960s and even more in the early 1970s, it became clear that
+                  the programming languages of the day – in science and technology mostly <ref
+                     target="https://en.wikipedia.org/wiki/Fortran">FORTRAN</ref>, in business
+                  environment <ref target="https://en.wikipedia.org/wiki/COBOL">COBOL</ref> – were
+                  not entirely suited for the tasks they were used for. Long and complex programming
+                  tasks produced immense volumes of source code, which was increasingly difficult to
+                  update and maintain, all because these two programming languages were still closer
+                  to machine code, and not abstract, structured enough to work with easily. In 1968
+                  Professor Edsger Dijkstra published a letter titled “<ref
+                     target="https://en.wikipedia.org/wiki/Considered_harmful">Go To Statement
+                     Considered Harmful</ref>”. Jumping from place to place, up and down, such code
+                  does indeed make one lose any overview of the intentions of the programmer very
+                  quickly, and profoundly, even more so after returning to the same code some time –
+                  days, weeks or months – later. This led to so-called structured programming,
+                  coding without Go To statements but with control structures, which have a
+                  beginning and an end, such as IF ELSE ENDIF, loops with FOR ENDFOR, REPEAT
+                  ENDREPEAT, WHILE ENDWHILE.</p>
                <p style="text-align:justify;" xml:id="Legacy-p-152">As writing a new compiler is a
                   long and cumbersome task, Vladimir Batagelj from the Department of Mathematics at
                   the Faculty of Natural Sciences and Technology, <ref
@@ -1759,16 +1879,139 @@
                      of words in English</ref>. The two examples below illustrate the use of NEVA in
                   examining two components of the name (Slovenian) Computer History Museum – <hi
                      rend="italic">Računalniški muzej</hi>.</p>
-               <p style="text-align:justify;" xml:id="Legacy-p-167">Table 2: <hi rend="italic"
+               <table rend="rules">
+                  <head>Table 2: <hi rend="italic"
                      >Muzea</hi> or <hi rend="italic">muzej</hi> search results from the list of
-                  Slovenian words</p>
+                     Slovenian words</head>
+                  <row>
+                     <cell rend="center"><p style="text-align:center;">ekomuzej</p><p
+                           style="text-align:center;">fotomuzej</p><p style="text-align:center;"
+                           >hipermuzejski</p><p style="text-align:center;">izvenmuzejski</p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">medmuzejski</p><p
+                           style="text-align:center;">megamuzej</p><p style="text-align:center;"><hi
+                              rend="bold">muzealec</hi></p><p style="text-align:center;"><hi
+                              rend="bold">muzealen</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzealija</p><p
+                           style="text-align:center;"><hi rend="bold">muzealije</hi></p><p
+                           style="text-align:center;">muzealistika</p><p style="text-align:center;"
+                           >muzealizacija</p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzealiziranje</p><p
+                           style="text-align:center;">muzealizirati</p><p style="text-align:center;"
+                           >muzealka</p><p style="text-align:center;"><hi rend="bold"
+                              >muzealnost</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzealogija</p><p
+                           style="text-align:center;"><hi rend="bold">muzealski</hi></p><p
+                           style="text-align:center;">muzealstvo</p><p style="text-align:center;"
+                              ><hi rend="bold">muzej</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzejček</p><p
+                           style="text-align:center;">muzejec</p><p style="text-align:center;"
+                           >muzejev</p><p style="text-align:center;"><hi rend="bold"
+                           >muzejnik</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">muzejon</p><p
+                           style="text-align:center;"><hi rend="bold">muzejski</hi></p><p
+                           style="text-align:center;">muzejskost</p><p style="text-align:center;"
+                              ><hi rend="bold">muzejstvo</hi></p></cell>
+                     
+                     <cell rend="center"><p style="text-align:center;">nemuzejski</p><p
+                           style="text-align:center;">obmuzejski</p><p style="text-align:center;"
+                           >pomuzejiti</p><p style="text-align:center;">tehniškomuzejski</p></cell>
+                  </row>
+               </table>
                <p style="text-align:justify;" xml:id="Legacy-p-168">The results show 32 words, nine
                   of which also appear in the SSKJ and are highlighted. There are 20 nouns, 10
                   adjectives and two verbs. It is of interest to note special kinds of museums are
                   also included in the results, <hi rend="italic">ekomuzej</hi> (ecomuseum) and <hi
                      rend="italic">fotomuzej</hi> (photomuseum).</p>
-               <p style="text-align:justify;" xml:id="Legacy-p-169">Table 3: <hi rend="italic"
-                     >Računal</hi> search results from the list of Slovenian words</p>
+               <table rend="rules">
+                  <head>Table 3: <hi rend="italic"
+                     >Računal</hi> search results from the list of Slovenian words</head>
+                  <row>
+                     <cell rend="center"><p style="text-align:center;">antiračunalničar</p><p
+                           style="text-align:center;">antiračunalniški</p><p
+                           style="text-align:center;">avtoračunalnik</p><p
+                           style="text-align:center;">bančnoračunalniški</p><p
+                           style="text-align:center;">bioračunalnik</p><p style="text-align:center;"
+                           >bioračunalniški</p><p style="text-align:center;">bioračunalništvo</p><p
+                           style="text-align:center;">desetračunalniški</p><p
+                           style="text-align:center;">dvojnoračunalniški</p><p
+                           style="text-align:center;">ekoračunalnik</p><p style="text-align:center;"
+                           >elektronskoračunalniški</p><p style="text-align:center;"
+                           >elektroračunalniški</p><p style="text-align:center;"
+                           >enoračunalniški</p><p style="text-align:center;">fotoračunalniški</p><p
+                           style="text-align:center;">hiperračunalnik</p><p
+                           style="text-align:center;">informacijskoračunalniški</p><p
+                           style="text-align:center;">izračunalec</p></cell>
+                     <cell rend="center"/>
+                     <cell rend="center"><p style="text-align:center;">izračunalnik</p><p
+                           style="text-align:center;">medračunalniški</p><p
+                           style="text-align:center;">megaračunalnik</p><p
+                           style="text-align:center;">megaračunalo</p><p style="text-align:center;"
+                           >mikroračunalničar</p><p style="text-align:center;">mikroračunalnik</p><p
+                           style="text-align:center;">mikroračunalniški</p><p
+                           style="text-align:center;">mikroračunalništvo</p><p
+                           style="text-align:center;">mikroračunalo</p><p style="text-align:center;"
+                           >miniračunalnik</p><p style="text-align:center;">miniračunalniški</p><p
+                           style="text-align:center;">minisuperračunalnik</p><p
+                           style="text-align:center;">mobiračunalnik</p><p
+                           style="text-align:center;">multiračunalnica</p><p
+                           style="text-align:center;">multiračunalnik</p><p
+                           style="text-align:center;">multiračunalniški</p><p
+                           style="text-align:center;">nanoračunalnik</p></cell>
+                     <cell rend="center"/>
+                     <cell rend="center"><p style="text-align:center;">neračunalnikar</p><p
+                           style="text-align:center;">neračunalniški</p><p
+                           style="text-align:center;">neračunalniško</p><p
+                           style="text-align:center;">nevroračunalnik</p><p
+                           style="text-align:center;">obračunalec</p><p style="text-align:center;"
+                           >organizacijskoračunalniški</p><p style="text-align:center;"
+                           >osebnoračunalniški</p><p style="text-align:center;"
+                           >osrednjeračunalniški</p><p style="text-align:center;"
+                           >polračunalnik</p><p style="text-align:center;">postračunalniški</p><p
+                           style="text-align:center;">predračunalniški</p><p
+                           style="text-align:center;">preračunalen</p><p style="text-align:center;"
+                           >protiračunalniški</p><p style="text-align:center;">računalce</p><p
+                           style="text-align:center;"><hi rend="bold">računalen</hi></p><p
+                           style="text-align:center;">računalnica</p><p style="text-align:center;"
+                           >računalničar</p></cell>
+                     <cell rend="center"/>
+                     <cell rend="center"><p style="text-align:center;">računalničarka</p><p
+                           style="text-align:center;">računalničarski</p><p
+                           style="text-align:center;">računalniček</p><p style="text-align:center;"
+                              ><hi rend="bold">računalnik</hi></p><p style="text-align:center;"><hi
+                              rend="bold">računalnikar</hi></p><p style="text-align:center;"
+                           >računalnikarica</p><p style="text-align:center;">računalnikarski</p><p
+                           style="text-align:center;">računalnikov</p><p style="text-align:center;"
+                              ><hi rend="bold">računalniški</hi></p><p style="text-align:center;"
+                           >računalniškografičen</p><p style="text-align:center;"
+                           >računalniškopisen</p><p style="text-align:center;"
+                           >računalniškoprevajalski</p><p style="text-align:center;"
+                           >računalniškoprogramski</p><p style="text-align:center;"
+                           >računalniškoradiografski</p><p style="text-align:center;"><hi
+                              rend="bold">računalništvo</hi></p><p style="text-align:center;"><hi
+                              rend="bold">računalo</hi></p><p style="text-align:center;"
+                           >superračunalnik</p></cell>
+                     <cell rend="center"/>
+                     <cell rend="center"><p style="text-align:center;">superračunalnikar</p><p
+                           style="text-align:center;">superračunalniški</p><p
+                           style="text-align:center;">superračunalništvo</p><p
+                           style="text-align:center;">teleračunalniški</p><p
+                           style="text-align:center;">ultraračunalnik</p><p
+                           style="text-align:center;">večračunalnik</p><p style="text-align:center;"
+                           >večračunalniški</p><p style="text-align:center;">veleračunalnik</p><p
+                           style="text-align:center;">veleračunalnikar</p><p
+                           style="text-align:center;">veleračunalniški</p><p
+                           style="text-align:center;">velikoračunalniški</p><p
+                           style="text-align:center;">videoračunalniški</p><p
+                           style="text-align:center;">vseračunalniški</p><p
+                           style="text-align:center;">zabavnoračunalniški</p></cell>
+                  </row>
+               </table>
                <p style="text-align:justify;" xml:id="Legacy-p-170">The results in this case show 82
                   words, and just six of these also appear in the SSKJ, as this dictionary was only
                   compiled until 1991, before the Internet started to affect the language. Only one
@@ -5024,368 +5267,382 @@
          </div>
       </body>
       <back>
-         <div type="study" xml:id="study01.1" corresp="#study01.1-en" xml:lang="sl">
-            <head xml:id="Legacy-head-184">
-               <ref target="#Legacy-docAuthor-1">Roberto Di Cosmo</ref>
-            </head>
-            <p xml:id="Legacy-p-553">Roberto Di Cosmo je računalniški znanstvenik, ki je leta 2010
-               postal prvi direktor IRILL, pobude za inovacije in raziskave proste programske opreme
-               (Initiative de Recherche et Innovation sur le Logiciel Libre). Po desetletju
-               poučevanja na fakulteti Ecole Normale Supérieure v Parizu je leta 1999 postal redni
-               profesor računalništva na Univerzi Paris Diderot. Aktivno se ukvarja z raziskavami na
-               področju teoretičnega računalništva, zlasti funkcionalnega programiranja, vzporednih
-               in porazdeljenih programov, semantike programskih jezikov, sistemov tipov in linearne
-               logike. Zdaj se osredotoča na nove znanstvene probleme, ki jih je prinesla splošna
-               uveljavitev proste programske opreme, kar je bilo jedro evropskega raziskovalnega
-               projekta Mancoosi. Z velikim zanimanjem spremlja razvoj družbe pod vplivom
-               informacijske tehnologije in je dolgoletni zagovornik proste programske opreme, poleg
-               tega pa je prispeval k njeni uveljavitvi s knjižno uspešnico »Ugrabitev sveta« (Le
-               Hold-Up planétaire, 1998). Leta 2007 je ustanovil tematsko skupino za prosto
-               programsko opremo pri podjetju Systematic, ki je v zadnjih desetih letih spodbudila
-               nastanek več kot 60 odprtokodnih raziskovalnih in razvojnih projektov. Di Cosmo je
-               bil zgodnji član AFUL, združenja francoske skupnosti uporabnikov Linuxa. Njegov
-               najbolj znan prispevek k Linuxu je prva »živa« distribucija Linuxa (od 2000 do 2002),
-               imenovana demolinux, ki je omogočila zagon Linuxa s CD-ROM-a. Leta 2015 je ustanovil
-               pobudo za vzpostavitev univerzalnega arhiva vse javno dostopne izvorne kode Software
-               Heritage, ki jo sedaj tudi vodi.</p>
+         <div type="study" xml:id="study01" corresp="#study01-en" xml:lang="sl">
+            <div type="study" xml:id="study01.1" corresp="#study01.1-en" xml:lang="sl">
+               <head xml:id="Legacy-head-184">
+                  <ref target="#Legacy-docAuthor-1">Roberto Di Cosmo</ref>
+               </head>
+               <p xml:id="Legacy-p-553">Roberto Di Cosmo je računalniški znanstvenik, ki je leta
+                  2010 postal prvi direktor IRILL, pobude za inovacije in raziskave proste
+                  programske opreme (Initiative de Recherche et Innovation sur le Logiciel Libre).
+                  Po desetletju poučevanja na fakulteti Ecole Normale Supérieure v Parizu je leta
+                  1999 postal redni profesor računalništva na Univerzi Paris Diderot. Aktivno se
+                  ukvarja z raziskavami na področju teoretičnega računalništva, zlasti
+                  funkcionalnega programiranja, vzporednih in porazdeljenih programov, semantike
+                  programskih jezikov, sistemov tipov in linearne logike. Zdaj se osredotoča na nove
+                  znanstvene probleme, ki jih je prinesla splošna uveljavitev proste programske
+                  opreme, kar je bilo jedro evropskega raziskovalnega projekta Mancoosi. Z velikim
+                  zanimanjem spremlja razvoj družbe pod vplivom informacijske tehnologije in je
+                  dolgoletni zagovornik proste programske opreme, poleg tega pa je prispeval k njeni
+                  uveljavitvi s knjižno uspešnico »Ugrabitev sveta« (Le Hold-Up planétaire, 1998).
+                  Leta 2007 je ustanovil tematsko skupino za prosto programsko opremo pri podjetju
+                  Systematic, ki je v zadnjih desetih letih spodbudila nastanek več kot 60
+                  odprtokodnih raziskovalnih in razvojnih projektov. Di Cosmo je bil zgodnji član
+                  AFUL, združenja francoske skupnosti uporabnikov Linuxa. Njegov najbolj znan
+                  prispevek k Linuxu je prva »živa« distribucija Linuxa (od 2000 do 2002), imenovana
+                  demolinux, ki je omogočila zagon Linuxa s CD-ROM-a. Leta 2015 je ustanovil pobudo
+                  za vzpostavitev univerzalnega arhiva vse javno dostopne izvorne kode Software
+                  Heritage, ki jo sedaj tudi vodi.</p>
+            </div>
+            <div type="study" xml:id="study01.2" corresp="#study01.2-en" xml:lang="sl">
+               <head xml:id="Legacy-head-185">
+                  <ref target="#Legacy-docAuthor-5">Primož Jakopin</ref>
+               </head>
+               <p xml:id="Legacy-p-554">Primož Jakopin se je rodil 30. junija 1949 v Ljubljani v
+                  jezikoslovno družino. Oče Franc je bil profesor vzhodnih slovanskih jezikov, ki je
+                  objavljal članke na področju slovnice in onomastike, mati Gitica pa je prevedla
+                  več kot 50 romanov iz angleščine, nemščine, francoščine, ruščine in poljščine. Ker
+                  se je v prostem času najraje ukvarjal z jamarstvom, se je sprva želel vpisati na
+                  študij geologije, nato pa je upošteval očetov nasvet in se odločil za študij
+                  matematike na Univerzi v Ljubljani, kjer je diplomiral leta 1972. Leta 1981 je na
+                  Univerzi v Zagrebu magistriral iz informacijskih znanosti z magistrskim delom <ref
+                     target="http://www.jakopin.net/primoz/magisterij/index.php">Entropija v
+                     slovenskih leposlovnih besedilih</ref>, leta 1999 pa je na Univerzi v Ljubljani
+                  doktoriral iz teorije informacij z disertacijo <ref
+                     target="http://www.jakopin.net/primoz/disertacija/index.php">Zgornja meja
+                     entropije pri leposlovnih besedilih v slovenskem jeziku</ref>. Med letoma 1972
+                  in 1984 je razvil numerični model za ocenjevanje in vizualizacijo kraških jam, ki
+                  je bil uporabljen za izračun volumna več jam in udornic v Sloveniji. Rezultati so
+                  bili objavljeni na <ref
+                     target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">8. mednarodnem
+                     speleološkem kongresu </ref>in <ref
+                     target="http://www.jakopin.net/primoz/clanki/1981_MECS/">3. evropskem
+                     stereološkem simpoziju</ref>. Potem ko mu ni uspelo nadaljevati raziskovanja na
+                  Inštitutu za raziskovanje Krasa v Postojni, je zamenjal področje svojega delovanja
+                  in se posvetil jezikovnim tehnologijam, ki so bližje njegovemu primarnemu področju
+                  dela. Poleg tega je bil tudi velik ljubitelj programiranja. S programjem, ki ga je
+                  večinoma razvil doma, je uspel ustvariti kariero na področju računalniškega
+                  jezikoslovja, in sicer v raziskovalnih vodah kot vodja <ref
+                     target="http://web.archive.org/web/20190406003335/http://bos.zrc-sazu.si:80/index_en.html"
+                     >Korpusnega laboratorija</ref> na Inštitutu za slovenski jezik Frana Ramovša
+                  vse od ustanovitve leta 2001 do leta 2012 ter kot profesor na Filozofski fakulteti
+                  v Ljubljani (1993–2012) in na Fakulteti za Humanistiko v Novi Gorici (2012–2016).
+                  Najpomembnejše programje: STAT (statistični paket, Control Data Cyber, 1977), IBIS
+                  (programski paket za podatke spremenljive dolžine, ki se uporablja predvsem za
+                  obdelavo sekundarnih knjižničnih informacij, kot so podatki o knjigah in člankih,
+                  Digital DEC 10, 1981), INES (urejevalnik besedil z bazo podatkov in grafikami,
+                  Sinclair ZX Spectrum, 1985, zelo razširjen v Jugoslaviji), STEVE (16-bitni
+                  urejevalnik besedil z bazo podatkov, grafikami in namiznim založništvom, ATARI ST,
+                  1987–1992, distribuiran v Jugoslaviji, Nemčiji, državah Beneluksa in na Norveškem,
+                  na voljo so bili priročniki v angleščini, nemščini, slovenščini in
+                  srbščini/hrvaščini), EVA (urejevalnik besedil z bazo podatkov in
+                  jezikovnotehnološkimi funkcionalnostmi, 135.000 vrstic kode v programskem jeziku
+                  C, za operacijski sistem DOS, 1992, in operacijski sistem Windows, 1996–), NEVA
+                  (iskalnik na osnovi EVA za strežnike Windows, 1999–).</p>
+            </div>
+            <div type="study" xml:id="study01.3" corresp="#study01.3-en" xml:lang="sl">
+               <head xml:id="Legacy-head-186">
+                  <ref target="#Legacy-docAuthor-11">Matija Šuklje</ref>
+               </head>
+               <p xml:id="Legacy-p-555">Pravnik po izobrazbi in heker po duši, Matija Šuklje se
+                  najbolje počuti na stičišču obeh svetov. Od poznih 90. naprej se ukvarja s FOSS
+                  (Free &amp; Open Source Software) in pridobil je veliko izkušenj s tega področja v
+                  javnem, nevladnem in zasebnem sektorju. Dolga leta je vodil največjo globalno
+                  mrežo pravnikov, ki se specializirajo za odprtokodne tematike, in še vedno je njen
+                  aktiven član. Trenutno je višji svetovalec za avtorske pravice v mednarodnem
+                  podjetju Liferay.</p>
+            </div>
+            <div type="study" xml:id="study01.4" corresp="#study01.4-en" xml:lang="sl">
+               <head xml:id="Legacy-head-187">
+                  <ref target="#Legacy-docAuthor-9">Boštjan Špetič</ref>
+               </head>
+               <p xml:id="Legacy-p-556">Boštjan Špetič je vodja muzejske zbirke Računalniškega
+                  muzeja, ambasador softverske dediščine pri organizaciji Software Heritage,
+                  podjetnik in mentor zagonskih podjetij, ki trenutno živi v Sloveniji, vendar je
+                  tesno povezan z New Yorkom, kjer je živel večino zadnjega desetletja. Boštjan
+                  Špetič je soustanovil, zgradil in prodal dva izdelka v okviru istega zagonskega
+                  podjetja Zemanta. Prvi je osebni pomočnik, ki je temeljil na semantičnem spletu in
+                  je bil prodan neodvisnemu založniško-tehnološkemu podjetju Sovrn, drugi pa prva
+                  programatična oglaševalska platforma (DSP), specializirana za nativno oglaševanje,
+                  ki je bila prodana podjetju Outbrain. Špetič trenutno dela v skupini za razvoj
+                  podjetja Outbrain kot produktni specialist, je mentor več podjetnikom, član
+                  upravnega odbora podjetja Rock Content in vodi Računalniški muzej.</p>
+            </div>
+            <div type="study" xml:id="study01.5" corresp="#study01.5-en" xml:lang="sl">
+               <head xml:id="Legacy-head-188">
+                  <ref target="#Legacy-docAuthor-3">Saša Divjak</ref>
+               </head>
+               <p xml:id="Legacy-p-557">Saša Divjak je avtor različnih programskih aplikacij, vodil
+                  in sodeloval pa je pri mnogih mednarodnih in lokalnih projektih na področju
+                  računalniške avtomatizacije, robotizacije in multimedijskih tehnologij. Dejaven je
+                  bil v odborih različnih mednarodnih in lokalnih strokovnih združenj. Bil je vodja
+                  Oddelka za elektrotehniko na Institutu Jožef Stefan, pomočnik generalnega
+                  direktorja družbe Iskra Delta, dekan Fakultete za računalništvo in informatiko
+                  Univerze v Ljubljani ter direktor Laboratorija za računalniško grafiko in
+                  multimedije. Predaval je tudi predmete Programiranje 2, Sistemska programska
+                  oprema, Operacijski sistemi, Računalniška grafika.</p>
+            </div>
+            <div type="study" xml:id="study01.6" corresp="#study01.6-en" xml:lang="sl">
+               <head xml:id="Legacy-head-189">
+                  <ref target="#Legacy-docAuthor-15">Silvana Žorž</ref>
+               </head>
+               <p xml:id="Legacy-p-558">Silvana Žorž je magistrica digitalne humanistike (KU Leuven)
+                  in magistrica ekonomije (Master in Business and Administration – IBM, Univerza v
+                  Ljubljani). V magistrskem delu je raziskovala odkrivanje diskriminatornih
+                  faktorjev pri oblikovanju programske opreme, in sicer pod mentorstvom dr. B.
+                  Berendta (KU Leuven, Belgija). Magistrsko delo je opravila s <hi rend="italic">cum
+                     laude</hi>, svoje delo pa posvetila vrednostnemu sistemu v oblikovalski
+                  metodologiji programske opreme. Sodelovala je s številnimi podjetji (Google,
+                  Outfit7 itd.) na področju digitalnega marketinga, razvoja digitalnih produktov,
+                  raziskovanja trga in potrošniških navad. Trenutno je kot višja specialistka
+                  zaposlena pri digitalni agenciji Red Orbit.</p>
+            </div>
+            <div type="study" xml:id="study01.7" corresp="#study01.7-en" xml:lang="sl">
+               <head xml:id="Legacy-head-190">
+                  <ref target="#Legacy-docAuthor-7">Nataša Milić-Frayling</ref>
+               </head>
+               <p xml:id="Legacy-p-559">Nataša Milić-Frayling je ustanoviteljica in direktorica
+                  podjetja Intact Digital, ki nudi platformo in storitve za gostovanje podedovanih
+                  programskih namestitev z namenom omogočanja dolgotrajne berljivosti in uporabe
+                  digitalnih podatkov. Podjetje Intact Digital posluje z visoko reguliranimi
+                  sektorji, kot so farmacevtska industrija in naravoslovne znanosti, kjer nudi
+                  podporo pri doseganju skladnosti s predpisi za regulacijo podatkovne integritete
+                  ter rekonstrukciji raziskav in ponovljivosti podatkovnih analiz, vključno s
+                  strojnim učenjem in umetno inteligenco.</p>
+               <p xml:id="Legacy-p-560">Nataša Milić-Frayling ima 25 let izkušenj na področju
+                  računalniške znanosti in inovacij, vključno s 17 leti izkušenj v podjetju
+                  Microsoft Research (MSR). Je avtorica prek 100 raziskovalnih objav in navedena je
+                  na desetinah odobrenih patentov. Poleg izvajanja raziskav je pri MSR vodila
+                  raziskovalni partnerski program, v katerem je promovirala sodelovanje z
+                  inovacijskimi partnerji na področju strateških izzivov, vključno z digitalno
+                  prezervacijo in dolgotrajnim dostopom do digitalnih vsebin (projekta EU <ref
+                     target="http://www.planets-project.eu">
+                     <hi rend="underline">PLANETS</hi>
+                  </ref> in <ref target="http://www.scape-project.eu/">
+                     <hi rend="underline">SCAPE</hi>
+                  </ref>). Je zaslužna profesorica na Univerzi v Nottinghamu, kjer je 5 let vodila
+                  oddelek za podatkovne znanosti ter prispevala k univerzitetnim raziskovalnim
+                  strategijam na področju podatkovnih znanosti in umetne inteligence.</p>
+               <p xml:id="Legacy-p-561">Nataša se v širšem strokovnem krogu aktivno angažira ob
+                  kritičnih vprašanjih, ki se porajajo ob razširjeni rabi digitalne tehnologije, in
+                  sicer vse od profesionalne etike, zasebnosti in jasnosti zasnove do digitalne
+                  zastarelosti in odgovornega inoviranja. Pri UNESCU je članica prezervacijskega
+                  pododbora v programu Spomin sveta (angl. <hi rend="italic">Memory of the World
+                     Programme</hi>) in predseduje delovni skupini za raziskave in tehnologijo pri
+                  projektu PERSIST. Nataša Milić-Frayling je aktivna članica računalniškega
+                  združenja Association for Computing Machinery (ACM), poleg tega pa je bila
+                  svetnica v svetu združenja ACM Europe in predsedovala je izvršnemu odboru ACM
+                  Women Europe.</p>
+            </div>
+            <div type="study" xml:id="study01.8" corresp="#study01.8-en" xml:lang="sl">
+               <head xml:id="Legacy-head-191">
+                  <ref target="#Legacy-docAuthor-13">Franc J. Zakrajšek</ref>
+               </head>
+               <p xml:id="Legacy-p-562">Franc J. Zakrajšek je matematik, višji raziskovalec,
+                  računalniški programer in svetovalec, ki od 70. let dalje razvija geografske
+                  informacijske sisteme za urbanizem in sorodna področja. Njegovo delo se osredotoča
+                  na inovativne pristope, metode, simulacijske modele in uvajanje umetne inteligence
+                  v e-načrtovanje. Do leta 2015 je deloval je kot član slovenske strokovne skupine
+                  za digitalizacijo in digitalno prezervacijo, ki jo je ustanovila Evropska
+                  komisija. Je začetnik Registra slovenske kulturne dediščine. Sodeloval je v več
+                  projektih EU, ki so uvajali geoprostorske informacije in 3D-modeliranje v področja
+                  kulturne dediščine, muzejev, knjižnic in arhivov kot del evropske digitalne
+                  knjižnice Europeana in razvil vseevropski e-kulturni zemljevid eCultureMap. Vodil
+                  je številne lokalne in nacionalne projekte in predaval je pri UNDP, UN-HABITAT in
+                  TAIEX. Delal je tudi kot svetovalec za razvojno banko InterAmerican Development
+                  Bank ter objavil več kot 500 člankov in prispevkov.</p>
+            </div>
          </div>
-         <div type="study" xml:id="study01.2" corresp="#study01.2-en" xml:lang="sl">
-            <head xml:id="Legacy-head-185">
-               <ref target="#Legacy-docAuthor-5">Primož Jakopin</ref>
-            </head>
-            <p xml:id="Legacy-p-554">Primož Jakopin se je rodil 30. junija 1949 v Ljubljani v
-               jezikoslovno družino. Oče Franc je bil profesor vzhodnih slovanskih jezikov, ki je
-               objavljal članke na področju slovnice in onomastike, mati Gitica pa je prevedla več
-               kot 50 romanov iz angleščine, nemščine, francoščine, ruščine in poljščine. Ker se je
-               v prostem času najraje ukvarjal z jamarstvom, se je sprva želel vpisati na študij
-               geologije, nato pa je upošteval očetov nasvet in se odločil za študij matematike na
-               Univerzi v Ljubljani, kjer je diplomiral leta 1972. Leta 1981 je na Univerzi v
-               Zagrebu magistriral iz informacijskih znanosti z magistrskim delom <ref
-                  target="http://www.jakopin.net/primoz/magisterij/index.php">Entropija v slovenskih
-                  leposlovnih besedilih</ref>, leta 1999 pa je na Univerzi v Ljubljani doktoriral iz
-               teorije informacij z disertacijo <ref
-                  target="http://www.jakopin.net/primoz/disertacija/index.php">Zgornja meja
-                  entropije pri leposlovnih besedilih v slovenskem jeziku</ref>. Med letoma 1972 in
-               1984 je razvil numerični model za ocenjevanje in vizualizacijo kraških jam, ki je bil
-               uporabljen za izračun volumna več jam in udornic v Sloveniji. Rezultati so bili
-               objavljeni na <ref target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php"
-                  >8. mednarodnem speleološkem kongresu </ref>in <ref
-                  target="http://www.jakopin.net/primoz/clanki/1981_MECS/">3. evropskem stereološkem
-                  simpoziju</ref>. Potem ko mu ni uspelo nadaljevati raziskovanja na Inštitutu za
-               raziskovanje Krasa v Postojni, je zamenjal področje svojega delovanja in se posvetil
-               jezikovnim tehnologijam, ki so bližje njegovemu primarnemu področju dela. Poleg tega
-               je bil tudi velik ljubitelj programiranja. S programjem, ki ga je večinoma razvil
-               doma, je uspel ustvariti kariero na področju računalniškega jezikoslovja, in sicer v
-               raziskovalnih vodah kot vodja <ref
-                  target="http://web.archive.org/web/20190406003335/http://bos.zrc-sazu.si:80/index_en.html"
-                  >Korpusnega laboratorija</ref> na Inštitutu za slovenski jezik Frana Ramovša vse
-               od ustanovitve leta 2001 do leta 2012 ter kot profesor na Filozofski fakulteti v
-               Ljubljani (1993–2012) in na Fakulteti za Humanistiko v Novi Gorici (2012–2016).
-               Najpomembnejše programje: STAT (statistični paket, Control Data Cyber, 1977), IBIS
-               (programski paket za podatke spremenljive dolžine, ki se uporablja predvsem za
-               obdelavo sekundarnih knjižničnih informacij, kot so podatki o knjigah in člankih,
-               Digital DEC 10, 1981), INES (urejevalnik besedil z bazo podatkov in grafikami,
-               Sinclair ZX Spectrum, 1985, zelo razširjen v Jugoslaviji), STEVE (16-bitni
-               urejevalnik besedil z bazo podatkov, grafikami in namiznim založništvom, ATARI ST,
-               1987–1992, distribuiran v Jugoslaviji, Nemčiji, državah Beneluksa in na Norveškem, na
-               voljo so bili priročniki v angleščini, nemščini, slovenščini in srbščini/hrvaščini),
-               EVA (urejevalnik besedil z bazo podatkov in jezikovnotehnološkimi funkcionalnostmi,
-               135.000 vrstic kode v programskem jeziku C, za operacijski sistem DOS, 1992, in
-               operacijski sistem Windows, 1996–), NEVA (iskalnik na osnovi EVA za strežnike
-               Windows, 1999–).</p>
-         </div>
-         <div type="study" xml:id="study01.3" corresp="#study01.3-en" xml:lang="sl">
-            <head xml:id="Legacy-head-186">
-               <ref target="#Legacy-docAuthor-11">Matija Šuklje</ref>
-            </head>
-            <p xml:id="Legacy-p-555">Pravnik po izobrazbi in heker po duši, Matija Šuklje se
-               najbolje počuti na stičišču obeh svetov. Od poznih 90. naprej se ukvarja s FOSS (Free
-               &amp; Open Source Software) in pridobil je veliko izkušenj s tega področja v javnem,
-               nevladnem in zasebnem sektorju. Dolga leta je vodil največjo globalno mrežo
-               pravnikov, ki se specializirajo za odprtokodne tematike, in še vedno je njen aktiven
-               član. Trenutno je višji svetovalec za avtorske pravice v mednarodnem podjetju
-               Liferay.</p>
-         </div>
-         <div type="study" xml:id="study01.4" corresp="#study01.4-en" xml:lang="sl">
-            <head xml:id="Legacy-head-187">
-               <ref target="#Legacy-docAuthor-9">Boštjan Špetič</ref>
-            </head>
-            <p xml:id="Legacy-p-556">Boštjan Špetič je vodja muzejske zbirke Računalniškega muzeja,
-               ambasador softverske dediščine pri organizaciji Software Heritage, podjetnik in
-               mentor zagonskih podjetij, ki trenutno živi v Sloveniji, vendar je tesno povezan z
-               New Yorkom, kjer je živel večino zadnjega desetletja. Boštjan Špetič je soustanovil,
-               zgradil in prodal dva izdelka v okviru istega zagonskega podjetja Zemanta. Prvi je
-               osebni pomočnik, ki je temeljil na semantičnem spletu in je bil prodan neodvisnemu
-               založniško-tehnološkemu podjetju Sovrn, drugi pa prva programatična oglaševalska
-               platforma (DSP), specializirana za nativno oglaševanje, ki je bila prodana podjetju
-               Outbrain. Špetič trenutno dela v skupini za razvoj podjetja Outbrain kot produktni
-               specialist, je mentor več podjetnikom, član upravnega odbora podjetja Rock Content in
-               vodi Računalniški muzej.</p>
-         </div>
-         <div type="study" xml:id="study01.5" corresp="#study01.5-en" xml:lang="sl">
-            <head xml:id="Legacy-head-188">
-               <ref target="#Legacy-docAuthor-3">Saša Divjak</ref>
-            </head>
-            <p xml:id="Legacy-p-557">Saša Divjak je avtor različnih programskih aplikacij, vodil in
-               sodeloval pa je pri mnogih mednarodnih in lokalnih projektih na področju računalniške
-               avtomatizacije, robotizacije in multimedijskih tehnologij. Dejaven je bil v odborih
-               različnih mednarodnih in lokalnih strokovnih združenj. Bil je vodja Oddelka za
-               elektrotehniko na Institutu Jožef Stefan, pomočnik generalnega direktorja družbe
-               Iskra Delta, dekan Fakultete za računalništvo in informatiko Univerze v Ljubljani ter
-               direktor Laboratorija za računalniško grafiko in multimedije. Predaval je tudi
-               predmete Programiranje 2, Sistemska programska oprema, Operacijski sistemi,
-               Računalniška grafika.</p>
-         </div>
-         <div type="study" xml:id="study01.6" corresp="#study01.6-en" xml:lang="sl">
-            <head xml:id="Legacy-head-189">
-               <ref target="#Legacy-docAuthor-15">Silvana Žorž</ref>
-            </head>
-            <p xml:id="Legacy-p-558">Silvana Žorž je magistrica digitalne humanistike (KU Leuven) in
-               magistrica ekonomije (Master in Business and Administration – IBM, Univerza v
-               Ljubljani). V magistrskem delu je raziskovala odkrivanje diskriminatornih faktorjev
-               pri oblikovanju programske opreme, in sicer pod mentorstvom dr. B. Berendta (KU
-               Leuven, Belgija). Magistrsko delo je opravila s <hi rend="italic">cum laude</hi>,
-               svoje delo pa posvetila vrednostnemu sistemu v oblikovalski metodologiji programske
-               opreme. Sodelovala je s številnimi podjetji (Google, Outfit7 itd.) na področju
-               digitalnega marketinga, razvoja digitalnih produktov, raziskovanja trga in
-               potrošniških navad. Trenutno je kot višja specialistka zaposlena pri digitalni
-               agenciji Red Orbit.</p>
-         </div>
-         <div type="study" xml:id="study01.7" corresp="#study01.7-en" xml:lang="sl">
-            <head xml:id="Legacy-head-190">
-               <ref target="#Legacy-docAuthor-7">Nataša Milić-Frayling</ref>
-            </head>
-            <p xml:id="Legacy-p-559">Nataša Milić-Frayling je ustanoviteljica in direktorica
-               podjetja Intact Digital, ki nudi platformo in storitve za gostovanje podedovanih
-               programskih namestitev z namenom omogočanja dolgotrajne berljivosti in uporabe
-               digitalnih podatkov. Podjetje Intact Digital posluje z visoko reguliranimi sektorji,
-               kot so farmacevtska industrija in naravoslovne znanosti, kjer nudi podporo pri
-               doseganju skladnosti s predpisi za regulacijo podatkovne integritete ter
-               rekonstrukciji raziskav in ponovljivosti podatkovnih analiz, vključno s strojnim
-               učenjem in umetno inteligenco.</p>
-            <p xml:id="Legacy-p-560">Nataša Milić-Frayling ima 25 let izkušenj na področju
-               računalniške znanosti in inovacij, vključno s 17 leti izkušenj v podjetju Microsoft
-               Research (MSR). Je avtorica prek 100 raziskovalnih objav in navedena je na desetinah
-               odobrenih patentov. Poleg izvajanja raziskav je pri MSR vodila raziskovalni
-               partnerski program, v katerem je promovirala sodelovanje z inovacijskimi partnerji na
-               področju strateških izzivov, vključno z digitalno prezervacijo in dolgotrajnim
-               dostopom do digitalnih vsebin (projekta EU <ref
-                  target="http://www.planets-project.eu">
-                  <hi rend="underline">PLANETS</hi>
-               </ref> in <ref target="http://www.scape-project.eu/">
-                  <hi rend="underline">SCAPE</hi>
-               </ref>). Je zaslužna profesorica na Univerzi v Nottinghamu, kjer je 5 let vodila
-               oddelek za podatkovne znanosti ter prispevala k univerzitetnim raziskovalnim
-               strategijam na področju podatkovnih znanosti in umetne inteligence.</p>
-            <p xml:id="Legacy-p-561">Nataša se v širšem strokovnem krogu aktivno angažira ob
-               kritičnih vprašanjih, ki se porajajo ob razširjeni rabi digitalne tehnologije, in
-               sicer vse od profesionalne etike, zasebnosti in jasnosti zasnove do digitalne
-               zastarelosti in odgovornega inoviranja. Pri UNESCU je članica prezervacijskega
-               pododbora v programu Spomin sveta (angl. <hi rend="italic">Memory of the World
-                  Programme</hi>) in predseduje delovni skupini za raziskave in tehnologijo pri
-               projektu PERSIST. Nataša Milić-Frayling je aktivna članica računalniškega združenja
-               Association for Computing Machinery (ACM), poleg tega pa je bila svetnica v svetu
-               združenja ACM Europe in predsedovala je izvršnemu odboru ACM Women Europe.</p>
-         </div>
-         <div type="study" xml:id="study01.8" corresp="#study01.8-en" xml:lang="sl">
-            <head xml:id="Legacy-head-191">
-               <ref target="#Legacy-docAuthor-13">Franc J. Zakrajšek</ref>
-            </head>
-            <p xml:id="Legacy-p-562">Franc J. Zakrajšek je matematik, višji raziskovalec,
-               računalniški programer in svetovalec, ki od 70. let dalje razvija geografske
-               informacijske sisteme za urbanizem in sorodna področja. Njegovo delo se osredotoča na
-               inovativne pristope, metode, simulacijske modele in uvajanje umetne inteligence v
-               e-načrtovanje. Do leta 2015 je deloval je kot član slovenske strokovne skupine za
-               digitalizacijo in digitalno prezervacijo, ki jo je ustanovila Evropska komisija. Je
-               začetnik Registra slovenske kulturne dediščine. Sodeloval je v več projektih EU, ki
-               so uvajali geoprostorske informacije in 3D-modeliranje v področja kulturne dediščine,
-               muzejev, knjižnic in arhivov kot del evropske digitalne knjižnice Europeana in razvil
-               vseevropski e-kulturni zemljevid eCultureMap. Vodil je številne lokalne in nacionalne
-               projekte in predaval je pri UNDP, UN-HABITAT in TAIEX. Delal je tudi kot svetovalec
-               za razvojno banko InterAmerican Development Bank ter objavil več kot 500 člankov in
-               prispevkov.</p>
-         </div>
-         <div type="study" xml:id="study01.1-en" corresp="#study01.1" xml:lang="en">
-            <head xml:id="Legacy-head-192">
-               <ref target="#Legacy-docAuthor-2">Roberto Di Cosmo</ref>
-            </head>
-            <p xml:id="Legacy-p-563">Roberto di Cosmo is a computer scientist, and in 2010 he was
-               the first director of IRILL – Initiative de Recherche et Innovation sur le Logiciel
-               Libre – an initiative for innovation and research with regard to free and open
-               software. After a decade of teaching at the Ecole Normale Supérieure in Paris, he
-               became a tenured professor of computer science at University Paris Diderot in 1999.
-               He is active in research in the field of theoretical computing, especially functional
-               programming, parallel and distributed programs, programming language semantics,
-               system types and linear logic. He now focuses on new scientific problems created by
-               the ubiquitous use of free and open-source software, which was core to the European
-               research project Mancoosi. He is monitoring the social changes induced by information
-               technology with great interest, is a long-time proponent of free software, and
-               contributed to its establishment with a bestselling book, <hi rend="italic">Le
-                  Hold-up planétaire</hi> (<hi rend="italic">The Planetary Hold-Up</hi>) in 1998. In
-               2007 he founded a thematic group for free programming at Systematic, which has led to
-               the creation of more than 60 open-source research and development projects over the
-               last decade. Di Cosmo was an early member of AFUL, the French Linux society. His most
-               known contribution to Linux is the first live distribution of Linux (2000 to 2002),
-               demolinux, which enabled running Linux from a CD-ROM. In 2015 he established and now
-               leads Software Heritage, an initiative for creating a universal archive of all
-               publicly accessible source code.</p>
-         </div>
-         <div type="study" xml:id="study01.2-en" corresp="#study01.2" xml:lang="en">
-            <head xml:id="Legacy-head-193">
-               <ref target="#Legacy-docAuthor-6">Primož Jakopin</ref>
-            </head>
-            <p xml:id="Legacy-p-564">Primož Jakopin was born on June 30, 1949 in Ljubljana,
-               Slovenia, into a family of linguists. His father Franc was a professor of eastern
-               Slavic languages with publications in the field of grammar and onomastics, while his
-               mother Gitica translated more than 50 novels from English, German, French, Russian
-               and Polish. Because his main extracurricular activity was caving he intended to study
-               geology, but followed his father’s advice with a degree in mathematics at the
-               University of Ljubljana in 1972. In 1981 he received a Master’s degree in information
-               science with the study “<ref
-                  target="http://www.jakopin.net/primoz/magisterij/index.php">Entropy of Names and
-                  Family Names in Slovenia</ref>” at the University of Zagreb, and in 1999 a PhD in
-               information theory for “<ref
-                  target="http://www.jakopin.net/primoz/disertacija/index.php">Upper Bound of
-                  Entropy in Slovenian Literary Texts</ref>” at the University of Ljubljana. From
-               1972 to 1984 he constructed a numerical model for the approximation and visualization
-               of karst caves. It was used to compute the volume of several caves and collapsed
-               dolinas in Slovenia, and the results were reported at the <ref
-                  target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">8</ref>
-               <ref target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">
-                  <hi rend="superscript">th</hi>
-               </ref>
-               <ref target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php"> International
-                  Congress of Speleology</ref> and <ref
-                  target="http://www.jakopin.net/primoz/clanki/1981_MECS/">3</ref>
-               <ref target="http://www.jakopin.net/primoz/clanki/1981_MECS/">
-                  <hi rend="superscript">rd</hi>
-               </ref>
-               <ref target="http://www.jakopin.net/primoz/clanki/1981_MECS/"> European Symposium of
-                  Stereology</ref>. After he failed to continue this research at the Karst Research
-               Institute in Postojna, Jakopin changed his area of interest to language technology,
-               closer to his parents field of work. Another great passion was also computer
-               programming, and with software he developed mostly at home he managed to make a
-               career in computational linguistics, both in research, as head of the <ref
-                  target="http://web.archive.org/web/20190406003335/http://bos.zrc-sazu.si:80/index_en.html"
-                  >Corpus Laboratory</ref> at the Fran Ramovš Institute of Slovenian Language, from
-               its foundation in 2001 until 2012, and in teaching, at the Faculty of Arts in
-               Ljubljana (1993–2012) and at the School of Humanities in Nova Gorica (2012–2016). The
-               major pieces of software he worked on include: STAT (statistical package, Control
-               Data Cyber, 1977), IBIS (software package for data of variable length, mainly used
-               for handling secondary library information such as data on books and articles,
-               Digital DEC 10, 1981), INES (text editor with database and graphics, Sinclair ZX
-               Spectrum, 1985, widely used in ex-Yugoslavia), STEVE (16-bit character text editor
-               with database, graphics and DTP, ATARI ST, 1987–1992, distributed in ex-Yugoslavia,
-               Germany, Benelux and Norway, with manuals in English, German, Slovenian and
-               Serbian/Croatian), EVA (text editor with database and language technology that
-               features, 135,000 lines of code in C, for DOS in 1992 and Windows operating system in
-               1996–), NEVA (EVA-based search engine for Windows servers, 1999–).</p>
-         </div>
-         <div type="study" xml:id="study01.3-en" corresp="#study01.3" xml:lang="en">
-            <head xml:id="Legacy-head-194">
-               <ref target="#Legacy-docAuthor-12">Matija Šuklje</ref>
-            </head>
-            <p xml:id="Legacy-p-565">A legal counsel by education, a hacker at heart, Matija Šuklje
-               feels most at home at the crossing of both those worlds. Since the late 1990s he has
-               dedicated his skills to FOSS (Free &amp; Open Source Software) and collected a vast
-               array of experience in the field in the public, NGO and private sectors. He spent
-               many years leading the largest global network of legal experts, specialized in
-               open-source topics, where he is still an active member. He currently holds the
-               position of Senior IP Counsel at Liferay.</p>
-         </div>
-         <div type="study" xml:id="study01.4-en" corresp="#study01.4" xml:lang="en">
-            <head xml:id="Legacy-head-195">
-               <ref target="#Legacy-docAuthor-10">Boštjan Špetič</ref>
-            </head>
-            <p xml:id="Legacy-p-566">Boštjan Špetič is Head of Museum Collections at the Computer
-               History Museum, Software Heritage Ambassador, entrepreneur and start-up mentor,
-               currently living in Slovenia, but keeping close connections with New York, where he
-               lived for most of the past decade. Boštjan Špetič co-founded, built and sold two
-               products within the same start-up, Zemanta. The first was a personal assistant based
-               on semantic web technologies, which was acquired by an independent
-               publishing-technology company Sovrn, the second product was the first programmatic
-               advertising platform (DSP) specialized for native advertising, and was acquired by
-               Outbrain. Boštjan currently works in Outbrain’s development group as a product
-               specialist, is a mentor to several entrepreneurs worldwide, and a board member of
-               Rock Content.</p>
-         </div>
-         <div type="study" xml:id="study01.5-en" corresp="#study01.5" xml:lang="en">
-            <head xml:id="Legacy-head-196">
-               <ref target="#Legacy-docAuthor-4">Saša Divjak</ref>
-            </head>
-            <p xml:id="Legacy-p-567">Saša Divjak is the author of various program applications, and
-               lead and collaborator on a series of international and local projects in the field of
-               computer automatization, robotization and multimedia technologies. He has been active
-               on the boards of various international and local professional associations. He was
-               head of the Department of Electrotechnics at the Institute Jožef Stefan, assistant to
-               the CEO of Iskra Delta, Dean of the Faculty for Computer Science and Informatics at
-               the University of Ljubljana, and Director of the Laboratory for Computer Graphics and
-               Multimedia. He was a lecturer for the subjects Programming 2, System Software,
-               Operating Systems, and Computer Graphics.</p>
-         </div>
-         <div type="study" xml:id="study01.6-en" corresp="#study01.6" xml:lang="en">
-            <head xml:id="Legacy-head-197">
-               <ref target="#Legacy-docAuthor-16">Silvana Žorž</ref>
-            </head>
-            <p xml:id="Legacy-p-568">Silvana Žorž, Master of Digital Humanities (KU Leuven) and
-               Master of Economics (Master in Business and Administration – IBM, University of
-               Ljubljana). In her Master’s thesis, she researched the discovery of discriminatory
-               factors in software design, under the mentorship of Dr B. Berendt (KU Leuven,
-               Belgium). She obtained her Master’s <hi rend="italic">cum laude</hi>, and dedicated
-               her work to the value system in software design methodology. She has collaborated
-               with many companies (Google and Outfit7, among others) in the field of digital
-               marketing, digital product development, market research and consumer habits. She is
-               currently a senior advertiser with the digital agency Red Orbit.</p>
-         </div>
-         <div type="study" xml:id="study01.7-en" corresp="#study01.7" xml:lang="en">
-            <head xml:id="Legacy-head-198">
-               <ref target="#Legacy-docAuthor-8">Nataša Milić-Frayling</ref>
-            </head>
-            <p xml:id="Legacy-p-569">Dr Nataša Milić-Frayling is a founder and the CEO of Intact
-               Digital Ltd, a company that provides a platform and services for hosting legacy
-               software installations to enable long-term readability and use of digital data.
-               Intact Digital works with highly regulated sectors such as pharma and life sciences
-               to support compliance with data integrity regulations, reconstruction of research
-               studies and reproducibility of data analyses, including machine learning and AI.</p>
-            <p xml:id="Legacy-p-570">Nataša Milić-Frayling has 25 years of experience in computer
-               science research and innovation, including 17 years at Microsoft Research (MSR). She
-               has authored over 100 research publications and has dozens of approved patents to her
-               name. Besides her research, Nataša has also led the MSR Research Partnership
-               Programme, promoting collaboration with innovation partners on strategic challenges,
-               including digital preservation and long-term access to digital content (<ref
-                  target="http://www.planets-project.eu">
-                  <hi rend="underline">PLANETS</hi>
-               </ref> and <ref target="http://www.scape-project.eu/">
-                  <hi rend="underline">SCAPE</hi>
-               </ref> EU projects). She is Professor Emerita at the University of Nottingham, where
-               she spent five years serving as Chair of Data Science, contributing to the
-               university’s research strategy on data science and AI.</p>
-            <p xml:id="Legacy-p-571">She is actively engaged with the broader professional community
-               on critical issues that arise from the prolific use of digital technologies, ranging
-               from professional ethics, privacy and design transparency to digital obsolescence and
-               responsible innovation. She is a member of the Preservation Sub-Committee within the
-               UNESCO Memory of the World Programme and serves as Chair of the Research and
-               Technology Working group for the UNESCO PERSIST project. Nataša is an active member
-               of the Association for Computing Machinery (ACM). She served on the ACM Europe
-               Council and as Chair of the ACM Women Europe Executive Committee.</p>
-         </div>
-         <div type="study" xml:id="study01.8-en" corresp="#study01.8" xml:lang="en">
-            <head xml:id="Legacy-head-199">
-               <ref target="#Legacy-docAuthor-14">Franc J. Zakrajšek</ref>
-            </head>
-            <p xml:id="Legacy-p-572">Franc J. Zakrajsek is a mathematician, senior researcher,
-               computer programmer, and consultant, working since 1970 developing geographical
-               information systems in urban planning and related areas. His work focuses on
-               innovative approaches, methods, simulation models, and introducing artificial
-               intelligence in e-planning. He was a member of the expert group on digitization and
-               digital preservation established by the European Commission until 2015. He was one of
-               the founders of the Register of Cultural Heritage in Slovenia. He participated in
-               several EU projects introducing geospatial information and 3D modeling in the field
-               of cultural heritage, museums, libraries, and archives as a part of the
-               Europeana-European digital library and developed the Europe-wide eCultureMap. He also
-               led numerous local and national projects and was appointed as a lecturer by UNDP,
-               UN-HABITAT, and TAIEX. He was a consultant for the InterAmerican Development Bank and
-               has published more than 500 articles and other publications.</p>
+         <div type="study" xml:id="study01-en" corresp="#study01" xml:lang="en">
+            <div type="study" xml:id="study01.1-en" corresp="#study01.1" xml:lang="en">
+               <head xml:id="Legacy-head-192">
+                  <ref target="#Legacy-docAuthor-2">Roberto Di Cosmo</ref>
+               </head>
+               <p xml:id="Legacy-p-563">Roberto di Cosmo is a computer scientist, and in 2010 he was
+                  the first director of IRILL – Initiative de Recherche et Innovation sur le
+                  Logiciel Libre – an initiative for innovation and research with regard to free and
+                  open software. After a decade of teaching at the Ecole Normale Supérieure in
+                  Paris, he became a tenured professor of computer science at University Paris
+                  Diderot in 1999. He is active in research in the field of theoretical computing,
+                  especially functional programming, parallel and distributed programs, programming
+                  language semantics, system types and linear logic. He now focuses on new
+                  scientific problems created by the ubiquitous use of free and open-source
+                  software, which was core to the European research project Mancoosi. He is
+                  monitoring the social changes induced by information technology with great
+                  interest, is a long-time proponent of free software, and contributed to its
+                  establishment with a bestselling book, <hi rend="italic">Le Hold-up
+                     planétaire</hi> (<hi rend="italic">The Planetary Hold-Up</hi>) in 1998. In 2007
+                  he founded a thematic group for free programming at Systematic, which has led to
+                  the creation of more than 60 open-source research and development projects over
+                  the last decade. Di Cosmo was an early member of AFUL, the French Linux society.
+                  His most known contribution to Linux is the first live distribution of Linux (2000
+                  to 2002), demolinux, which enabled running Linux from a CD-ROM. In 2015 he
+                  established and now leads Software Heritage, an initiative for creating a
+                  universal archive of all publicly accessible source code.</p>
+            </div>
+            <div type="study" xml:id="study01.2-en" corresp="#study01.2" xml:lang="en">
+               <head xml:id="Legacy-head-193">
+                  <ref target="#Legacy-docAuthor-6">Primož Jakopin</ref>
+               </head>
+               <p xml:id="Legacy-p-564">Primož Jakopin was born on June 30, 1949 in Ljubljana,
+                  Slovenia, into a family of linguists. His father Franc was a professor of eastern
+                  Slavic languages with publications in the field of grammar and onomastics, while
+                  his mother Gitica translated more than 50 novels from English, German, French,
+                  Russian and Polish. Because his main extracurricular activity was caving he
+                  intended to study geology, but followed his father’s advice with a degree in
+                  mathematics at the University of Ljubljana in 1972. In 1981 he received a Master’s
+                  degree in information science with the study “<ref
+                     target="http://www.jakopin.net/primoz/magisterij/index.php">Entropy of Names
+                     and Family Names in Slovenia</ref>” at the University of Zagreb, and in 1999 a
+                  PhD in information theory for “<ref
+                     target="http://www.jakopin.net/primoz/disertacija/index.php">Upper Bound of
+                     Entropy in Slovenian Literary Texts</ref>” at the University of Ljubljana. From
+                  1972 to 1984 he constructed a numerical model for the approximation and
+                  visualization of karst caves. It was used to compute the volume of several caves
+                  and collapsed dolinas in Slovenia, and the results were reported at the <ref
+                     target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">8</ref>
+                  <ref target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">
+                     <hi rend="superscript">th</hi>
+                  </ref>
+                  <ref target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">
+                     International Congress of Speleology</ref> and <ref
+                     target="http://www.jakopin.net/primoz/clanki/1981_MECS/">3</ref>
+                  <ref target="http://www.jakopin.net/primoz/clanki/1981_MECS/">
+                     <hi rend="superscript">rd</hi>
+                  </ref>
+                  <ref target="http://www.jakopin.net/primoz/clanki/1981_MECS/"> European Symposium
+                     of Stereology</ref>. After he failed to continue this research at the Karst
+                  Research Institute in Postojna, Jakopin changed his area of interest to language
+                  technology, closer to his parents field of work. Another great passion was also
+                  computer programming, and with software he developed mostly at home he managed to
+                  make a career in computational linguistics, both in research, as head of the <ref
+                     target="http://web.archive.org/web/20190406003335/http://bos.zrc-sazu.si:80/index_en.html"
+                     >Corpus Laboratory</ref> at the Fran Ramovš Institute of Slovenian Language,
+                  from its foundation in 2001 until 2012, and in teaching, at the Faculty of Arts in
+                  Ljubljana (1993–2012) and at the School of Humanities in Nova Gorica (2012–2016).
+                  The major pieces of software he worked on include: STAT (statistical package,
+                  Control Data Cyber, 1977), IBIS (software package for data of variable length,
+                  mainly used for handling secondary library information such as data on books and
+                  articles, Digital DEC 10, 1981), INES (text editor with database and graphics,
+                  Sinclair ZX Spectrum, 1985, widely used in ex-Yugoslavia), STEVE (16-bit character
+                  text editor with database, graphics and DTP, ATARI ST, 1987–1992, distributed in
+                  ex-Yugoslavia, Germany, Benelux and Norway, with manuals in English, German,
+                  Slovenian and Serbian/Croatian), EVA (text editor with database and language
+                  technology that features, 135,000 lines of code in C, for DOS in 1992 and Windows
+                  operating system in 1996–), NEVA (EVA-based search engine for Windows servers,
+                  1999–).</p>
+            </div>
+            <div type="study" xml:id="study01.3-en" corresp="#study01.3" xml:lang="en">
+               <head xml:id="Legacy-head-194">
+                  <ref target="#Legacy-docAuthor-12">Matija Šuklje</ref>
+               </head>
+               <p xml:id="Legacy-p-565">A legal counsel by education, a hacker at heart, Matija
+                  Šuklje feels most at home at the crossing of both those worlds. Since the late
+                  1990s he has dedicated his skills to FOSS (Free &amp; Open Source Software) and
+                  collected a vast array of experience in the field in the public, NGO and private
+                  sectors. He spent many years leading the largest global network of legal experts,
+                  specialized in open-source topics, where he is still an active member. He
+                  currently holds the position of Senior IP Counsel at Liferay.</p>
+            </div>
+            <div type="study" xml:id="study01.4-en" corresp="#study01.4" xml:lang="en">
+               <head xml:id="Legacy-head-195">
+                  <ref target="#Legacy-docAuthor-10">Boštjan Špetič</ref>
+               </head>
+               <p xml:id="Legacy-p-566">Boštjan Špetič is Head of Museum Collections at the Computer
+                  History Museum, Software Heritage Ambassador, entrepreneur and start-up mentor,
+                  currently living in Slovenia, but keeping close connections with New York, where
+                  he lived for most of the past decade. Boštjan Špetič co-founded, built and sold
+                  two products within the same start-up, Zemanta. The first was a personal assistant
+                  based on semantic web technologies, which was acquired by an independent
+                  publishing-technology company Sovrn, the second product was the first programmatic
+                  advertising platform (DSP) specialized for native advertising, and was acquired by
+                  Outbrain. Boštjan currently works in Outbrain’s development group as a product
+                  specialist, is a mentor to several entrepreneurs worldwide, and a board member of
+                  Rock Content.</p>
+            </div>
+            <div type="study" xml:id="study01.5-en" corresp="#study01.5" xml:lang="en">
+               <head xml:id="Legacy-head-196">
+                  <ref target="#Legacy-docAuthor-4">Saša Divjak</ref>
+               </head>
+               <p xml:id="Legacy-p-567">Saša Divjak is the author of various program applications,
+                  and lead and collaborator on a series of international and local projects in the
+                  field of computer automatization, robotization and multimedia technologies. He has
+                  been active on the boards of various international and local professional
+                  associations. He was head of the Department of Electrotechnics at the Institute
+                  Jožef Stefan, assistant to the CEO of Iskra Delta, Dean of the Faculty for
+                  Computer Science and Informatics at the University of Ljubljana, and Director of
+                  the Laboratory for Computer Graphics and Multimedia. He was a lecturer for the
+                  subjects Programming 2, System Software, Operating Systems, and Computer
+                  Graphics.</p>
+            </div>
+            <div type="study" xml:id="study01.6-en" corresp="#study01.6" xml:lang="en">
+               <head xml:id="Legacy-head-197">
+                  <ref target="#Legacy-docAuthor-16">Silvana Žorž</ref>
+               </head>
+               <p xml:id="Legacy-p-568">Silvana Žorž, Master of Digital Humanities (KU Leuven) and
+                  Master of Economics (Master in Business and Administration – IBM, University of
+                  Ljubljana). In her Master’s thesis, she researched the discovery of discriminatory
+                  factors in software design, under the mentorship of Dr B. Berendt (KU Leuven,
+                  Belgium). She obtained her Master’s <hi rend="italic">cum laude</hi>, and
+                  dedicated her work to the value system in software design methodology. She has
+                  collaborated with many companies (Google and Outfit7, among others) in the field
+                  of digital marketing, digital product development, market research and consumer
+                  habits. She is currently a senior advertiser with the digital agency Red
+                  Orbit.</p>
+            </div>
+            <div type="study" xml:id="study01.7-en" corresp="#study01.7" xml:lang="en">
+               <head xml:id="Legacy-head-198">
+                  <ref target="#Legacy-docAuthor-8">Nataša Milić-Frayling</ref>
+               </head>
+               <p xml:id="Legacy-p-569">Dr Nataša Milić-Frayling is a founder and the CEO of Intact
+                  Digital Ltd, a company that provides a platform and services for hosting legacy
+                  software installations to enable long-term readability and use of digital data.
+                  Intact Digital works with highly regulated sectors such as pharma and life
+                  sciences to support compliance with data integrity regulations, reconstruction of
+                  research studies and reproducibility of data analyses, including machine learning
+                  and AI.</p>
+               <p xml:id="Legacy-p-570">Nataša Milić-Frayling has 25 years of experience in computer
+                  science research and innovation, including 17 years at Microsoft Research (MSR).
+                  She has authored over 100 research publications and has dozens of approved patents
+                  to her name. Besides her research, Nataša has also led the MSR Research
+                  Partnership Programme, promoting collaboration with innovation partners on
+                  strategic challenges, including digital preservation and long-term access to
+                  digital content (<ref target="http://www.planets-project.eu">
+                     <hi rend="underline">PLANETS</hi>
+                  </ref> and <ref target="http://www.scape-project.eu/">
+                     <hi rend="underline">SCAPE</hi>
+                  </ref> EU projects). She is Professor Emerita at the University of Nottingham,
+                  where she spent five years serving as Chair of Data Science, contributing to the
+                  university’s research strategy on data science and AI.</p>
+               <p xml:id="Legacy-p-571">She is actively engaged with the broader professional
+                  community on critical issues that arise from the prolific use of digital
+                  technologies, ranging from professional ethics, privacy and design transparency to
+                  digital obsolescence and responsible innovation. She is a member of the
+                  Preservation Sub-Committee within the UNESCO Memory of the World Programme and
+                  serves as Chair of the Research and Technology Working group for the UNESCO
+                  PERSIST project. Nataša is an active member of the Association for Computing
+                  Machinery (ACM). She served on the ACM Europe Council and as Chair of the ACM
+                  Women Europe Executive Committee.</p>
+            </div>
+            <div type="study" xml:id="study01.8-en" corresp="#study01.8" xml:lang="en">
+               <head xml:id="Legacy-head-199">
+                  <ref target="#Legacy-docAuthor-14">Franc J. Zakrajšek</ref>
+               </head>
+               <p xml:id="Legacy-p-572">Franc J. Zakrajsek is a mathematician, senior researcher,
+                  computer programmer, and consultant, working since 1970 developing geographical
+                  information systems in urban planning and related areas. His work focuses on
+                  innovative approaches, methods, simulation models, and introducing artificial
+                  intelligence in e-planning. He was a member of the expert group on digitization
+                  and digital preservation established by the European Commission until 2015. He was
+                  one of the founders of the Register of Cultural Heritage in Slovenia. He
+                  participated in several EU projects introducing geospatial information and 3D
+                  modeling in the field of cultural heritage, museums, libraries, and archives as a
+                  part of the Europeana-European digital library and developed the Europe-wide
+                  eCultureMap. He also led numerous local and national projects and was appointed as
+                  a lecturer by UNDP, UN-HABITAT, and TAIEX. He was a consultant for the
+                  InterAmerican Development Bank and has published more than 500 articles and other
+                  publications.</p>
+            </div>
          </div>
       </back>
    </text>
