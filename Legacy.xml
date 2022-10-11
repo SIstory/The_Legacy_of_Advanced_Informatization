@@ -29,11 +29,11 @@
                <name/>
             </respStmt>
             <respStmt>
-               <resp>Lektura / Proofreading</resp>
+               <resp>Proofreading / Lektura</resp>
                <name>Katja Bergles Bricman</name>
             </respStmt>
             <respStmt>
-               <resp>Prevod / English Translation</resp>
+               <resp>Translation / Prevod</resp>
                <name>Vesna Elikan</name>
             </respStmt>
             <respStmt>
@@ -55,17 +55,13 @@
                      target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
                      Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenco</ref>
                </p>
-               <p rend="CIP" style="text-align:justify">Kataložni zapis o publikaciji (CIP)
-                  pripravili v Narodni in univerzitetni knjižnici v Ljubljani&lt;br&gt;&lt;a
-                  href="http://COBISS.SI" target="_blank"&gt;COBISS.SI&lt;/a&gt;-ID &lt;a
-                  href="https://plus.cobiss.si/opac7/bib/XXXXXXX"
-                  target="_blank"&gt;XXXXXXX&lt;/a&gt;&lt;br&gt;ISBN XXXXX (HTML)&lt;br&gt;</p>
+               <p rend="CIP" style="text-align:justify"
+                  ><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br><a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID <a href="https://plus.cobiss.si/opac7/bib/125116163" target="_blank">125116163</a><br>ISBN 978-961-7104-22-6 (Inštitut za novejšo zgodovino, HTML)]]></p>
             </availability>
-            <idno type="URI">https://sistory.github.io/</idno>
-            <idno type="hdl"/>
+            <idno type="URI">https://sistory.github.io/The_Legacy_of_Advanced_Informatization/</idno>
          </publicationStmt>
          <sourceDesc>
-            <p>Converted from a Word document</p>
+            <p/>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -135,7 +131,6 @@
          </divGen>
          <div type="preface" xml:id="preface-sl" xml:lang="sl" corresp="#preface-en">
             <head xml:id="Legacy-head-7">Zapuščina napredne informatizacije</head>
-            <head xml:id="Legacy-head-8">Predgovor</head>
             <p style="text-align:justify;" xml:id="Legacy-p-4">Pričujoči zbornik prispevkov s
                simpozija o Zapuščini napredne informatizacije, ki je potekal v <ref
                   target="https://www.racunalniski-muzej.si/">
@@ -187,12 +182,12 @@
                neotipljive, a vendar bistvene zapuščine, kot je vrednostni sistem. To človeško noto
                nagovori tudi Boštjan Špetič v prispevku o rekonstrukciji računalnika Iskra Delta
                Partner, arheoloških najdbah s trdega diska in dejanskem učinku prezentacije iz
-               muzejske prakse. Dr. Nataša Milić-Frayling pa ilustrira dobre prakse
-               na področju dolgotrajne hrambe softvera skozi primer iz visoko reguliranega
-               industrijskega okolja ter zahtevnega umetniškega okolja, kjer je istovetnost
-               uporabniške izkušnje na prvem mestu. Matija Šuklje pa nam oriše kompleksnost pravnih
-               interpretacij programja, ki se jih moramo zavedati ob razmisleku o sistematični
-               hrambi, rekonstrukciji in predstavljanju javnosti.</p>
+               muzejske prakse. Dr. Nataša Milić-Frayling pa ilustrira dobre prakse na področju
+               dolgotrajne hrambe softvera skozi primer iz visoko reguliranega industrijskega okolja
+               ter zahtevnega umetniškega okolja, kjer je istovetnost uporabniške izkušnje na prvem
+               mestu. Matija Šuklje pa nam oriše kompleksnost pravnih interpretacij programja, ki se
+               jih moramo zavedati ob razmisleku o sistematični hrambi, rekonstrukciji in
+               predstavljanju javnosti.</p>
             <p style="text-align:justify;" xml:id="Legacy-p-8">Posvet je vprašanja odpiral, a obenem
                ponudil nastavke za oblikovanje zaključkov. Vodilna misel, ki se je prepletala skozi
                vsa predstavljena stališča, pa je bila izjemno človeška.</p>
@@ -216,14 +211,14 @@
          </div>
          <div type="preface" xml:id="preface-en" xml:lang="en" corresp="#preface-sl">
             <head xml:id="Legacy-head-9">The Legacy of Advanced Informatization</head>
-            <head xml:id="Legacy-head-10">Preface</head>
             <p style="text-align:justify;" xml:id="Legacy-p-14">The present proceedings from the
-               Symposium on the Legacy of Advanced Informatization, which was held at the Computer
-               History Museum in Ljubljana on June 13 2022, represents an account of a variety of
-               views on the challenges and the need for the systematic storage of software heritage.
-               It introduces the topic into Slovenia’s contemporary professional discourse, with a
-               view to laying the foundations for future frameworks that could help our society
-               preserve the memory of the digital layer of human activity.</p>
+               Symposium on the Legacy of Advanced Informatization, which was held at the <ref
+                  target="https://www.racunalniski-muzej.si/">Computer History Museum</ref> in
+               Ljubljana on June 13 2022, represents an account of a variety of views on the
+               challenges and the need for the systematic storage of software heritage. It
+               introduces the topic into Slovenia’s contemporary professional discourse, with a view
+               to laying the foundations for future frameworks that could help our society preserve
+               the memory of the digital layer of human activity.</p>
             <p style="text-align:justify;" xml:id="Legacy-p-15">At the Computer History Museum, we
                have felt the need for such a broad discussion as a burning problem in our own work
                in media and digital archaeology, processes and attempts to reconstruct the
@@ -264,13 +259,13 @@
                the ability to preserve such intangible yet crucial heritage as a values system. This
                very human aspect is addressed also by Boštjan Špetič in an article uncovering
                insights into the reconstruction of the Iskra Delta Partner computer, archaeological
-               findings from a hard drive, and the actual effects of presentation in the museum. Dr Nataša
-               Milić-Frayling illustrates best practices through examples of long-term software
-               storage in a highly regulated industry environment, and in a demanding artistic
-               environment where the authenticity of the user experience is of paramount importance.
-               Matija Šuklje discusses the complexity of legal interpretations of software which
-               should be taken into account in organizing systematic storage, reconstruction and
-               presentation to the public.</p>
+               findings from a hard drive, and the actual effects of presentation in the museum. Dr
+               Nataša Milić-Frayling illustrates best practices through examples of long-term
+               software storage in a highly regulated industry environment, and in a demanding
+               artistic environment where the authenticity of the user experience is of paramount
+               importance. Matija Šuklje discusses the complexity of legal interpretations of
+               software which should be taken into account in organizing systematic storage,
+               reconstruction and presentation to the public.</p>
             <p style="text-align:justify;" xml:id="Legacy-p-18">The expert panel raised questions
                yet also offered starting points for forming conclusions. The underlying idea
                intertwining all points of view was outstandingly human.</p>
@@ -295,10 +290,10 @@
       </front>
       <body>
          <div type="chapter" xml:id="ch01" xml:lang="sl" corresp="#ch01-en">
-            <head xml:id="Legacy-head-11">1. Dediščina programske opreme: svetovni arhiv izvornih
-               kod programske opreme</head>
+            <head xml:id="Legacy-head-11">Dediščina programske opreme: svetovni arhiv izvornih kod
+               programske opreme</head>
             <docAuthor xml:id="Legacy-docAuthor-1">
-               <ref target="#study01.1"> Roberto Di Cosmo </ref>
+               <ref target="#study01.1">Roberto Di Cosmo</ref>
             </docAuthor>
             <p style="text-align:justify;" xml:id="Legacy-p-24">Programska oprema ni le gonilo naše
                panoge in inovacij, temveč tudi bistveno sredstvo komunikacije. Omogoča nam boljše
@@ -390,8 +385,9 @@
                   bile pridobljene s postopkom samodejnega zbiranja, pričenjamo pa dodajati tudi
                   bisere, pridobljene s potrpežljivim obnavljanjem starejše programske opreme s
                   postopkom zajemanja, ki je bil razvit v sodelovanju Univerze v Pisi in
-                     UNESCA.<note place="foot" xml:id="ftn3" n="3">Glej SWHAP na spletnem mestu
-                     https://www.softwareheritage.org/swhap. </note>
+                     UNESCA.<note place="foot" xml:id="ftn3" n="3">Glej SWHAP na spletnem mestu <ref
+                        target="https://www.softwareheritage.org/swhap"
+                        >https://www.softwareheritage.org/swhap</ref>. </note>
                </p>
                <figure xml:id="Legacy-figure-1">
                   <graphic url="cosmo1.png"/>
@@ -446,7 +442,7 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch01-en" xml:lang="en" corresp="#ch01">
-            <head xml:id="Legacy-head-17">1. Software Heritage: the universal archive of software
+            <head xml:id="Legacy-head-17">Software Heritage: the universal archive of software
                source codes</head>
             <docAuthor xml:id="Legacy-docAuthor-2">
                <ref target="#study01.1-en">Roberto Di Cosmo</ref>
@@ -539,7 +535,8 @@
                   uncovered through the patient work of recovering significant historical software,
                   following an acquisition process that has been developed in collaboration with the
                   University of Pisa and UNESCO.<note place="foot" xml:id="ftn3-en" n="3">See SWHAP
-                     at https://www.softwareheritage.org/swhap. </note>
+                     at <ref target="https://www.softwareheritage.org/swhap"
+                        >https://www.softwareheritage.org/swhap</ref>. </note>
                </p>
                <figure xml:id="Legacy-figure-2">
                   <graphic url="cosmo1.png"/>
@@ -590,7 +587,7 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch02" xml:lang="sl" corresp="#ch02-en">
-            <head xml:id="Legacy-head-23">2. Razvoj in zastaranje programov – izziv in nočna mora
+            <head xml:id="Legacy-head-23">Razvoj in zastaranje programov – izziv in nočna mora
                programerjev</head>
             <docAuthor xml:id="Legacy-docAuthor-3">
                <ref target="#study01.5">Saša Divjak</ref>
@@ -793,7 +790,7 @@
                vznemirljiva. Morda pa nas mora skrbeti.</p>
          </div>
          <div type="chapter" xml:id="ch02-en" xml:lang="en" corresp="#ch02">
-            <head xml:id="Legacy-head-24">2. Development and obsolescence of programs – the
+            <head xml:id="Legacy-head-24">Development and obsolescence of programs – the
                programmer’s challenge and nightmare</head>
             <docAuthor xml:id="Legacy-docAuthor-4">
                <ref target="#study01.5-en">Saša Divjak</ref>
@@ -992,12 +989,12 @@
                perhaps we should be worried.</p>
          </div>
          <div type="chapter" xml:id="ch03" xml:lang="sl" corresp="#ch03-en">
-            <head xml:id="Legacy-head-25">3. Od BESS do EVA, arhivski izziv</head>
+            <head xml:id="Legacy-head-25">Od BESS do EVA, arhivski izziv</head>
             <docAuthor xml:id="Legacy-docAuthor-5">
                <ref target="#study01.2">Primož Jakopin</ref>
             </docAuthor>
             <div type="subchapter" xml:id="ch03-sub01" xml:lang="sl" corresp="#ch03-sub01-en">
-               <head xml:id="Legacy-head-27">1. Uvod</head>
+               <head xml:id="Legacy-head-27">Uvod</head>
                <p style="text-align:justify;" xml:id="Legacy-p-122">Slovenski Računalniški muzej je
                   ob zelo primernem času podal pobudo za organizacijo okrogle mize o dediščini
                   informacijskih orodij (izključno naprednih), katere najpomembnejši del je
@@ -1020,7 +1017,7 @@
                   način kot vikipedija.</p>
             </div>
             <div type="subchapter" xml:id="ch03-sub02" xml:lang="sl" corresp="#ch03-sub02-en">
-               <head xml:id="Legacy-head-28">2. STRUCTRAN</head>
+               <head xml:id="Legacy-head-28">STRUCTRAN</head>
                <p style="text-align:justify;" xml:id="Legacy-p-124"> Ob koncu šestdesetih let in
                   zlasti v zgodnjih sedemdesetih letih 20. stoletja je postalo jasno, da so
                   programski jeziki tistega časa, kot sta na področju znanosti in tehnologije
@@ -1080,7 +1077,7 @@
                   precej olajšalo poklicno življenje, med drugim tudi avtorju tega prispevka.</p>
             </div>
             <div type="subchapter" xml:id="ch03-sub03" xml:lang="sl" corresp="#ch03-sub03-en">
-               <head xml:id="Legacy-head-30">3. Od BESS do EVE EVA</head>
+               <head xml:id="Legacy-head-30">Od BESS do EVE EVA</head>
                <p style="text-align:justify;" xml:id="Legacy-p-128">
                   <ref target="https://en.wikipedia.org/wiki/History_of_personal_computers">
                      <hi rend="underline">Mikroračunalniška revolucija</hi>
@@ -1266,7 +1263,7 @@
                   Program STEVE ima 414 ukazov, program EVA pa 1.385.</p>
             </div>
             <div type="subchapter" xml:id="ch03-sub04" xml:lang="sl" corresp="#ch03-sub04-en">
-               <head xml:id="Legacy-head-31">4. NEVA</head>
+               <head xml:id="Legacy-head-31">NEVA</head>
                <p style="text-align:justify;" xml:id="Legacy-p-136">Ko je avtor leta 1998
                   zaključeval svojo doktorsko disertacijo z naslovom <ref
                      target="https://www.jakopin.net/primoz/disertacija/izvlecek.php">
@@ -1349,47 +1346,47 @@
                      target="https://www.merriam-webster.com/help/faq-how-many-english-words">
                      <hi rend="underline">številom besed v angleščini</hi>
                   </ref>. Spodnja primera ponazarjata uporabo programa NEVA pri proučevanju dveh
-                  komponent imena (slovenskega) Računalniškega muzeja.</p>               
+                  komponent imena (slovenskega) Računalniškega muzeja.</p>
                <table rend="rules">
-                  <head>Tabela 2: Rezultat iskanja
-                  »muzea« ali »muzej« na seznamu slovenskih besed</head>
+                  <head>Tabela 2: Rezultat iskanja »muzea« ali »muzej« na seznamu slovenskih
+                     besed</head>
                   <row>
                      <cell rend="center"><p style="text-align:center;">ekomuzej</p><p
-                        style="text-align:center;">fotomuzej</p><p style="text-align:center;"
+                           style="text-align:center;">fotomuzej</p><p style="text-align:center;"
                            >hipermuzejski</p><p style="text-align:center;">izvenmuzejski</p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">medmuzejski</p><p
-                        style="text-align:center;">megamuzej</p><p style="text-align:center;"><hi
-                           rend="bold">muzealec</hi></p><p style="text-align:center;"><hi
+                           style="text-align:center;">megamuzej</p><p style="text-align:center;"><hi
+                              rend="bold">muzealec</hi></p><p style="text-align:center;"><hi
                               rend="bold">muzealen</hi></p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">muzealija</p><p
-                        style="text-align:center;"><hi rend="bold">muzealije</hi></p><p
+                           style="text-align:center;"><hi rend="bold">muzealije</hi></p><p
                            style="text-align:center;">muzealistika</p><p style="text-align:center;"
-                              >muzealizacija</p></cell>
-                     
+                           >muzealizacija</p></cell>
+
                      <cell rend="center"><p style="text-align:center;">muzealiziranje</p><p
-                        style="text-align:center;">muzealizirati</p><p style="text-align:center;"
+                           style="text-align:center;">muzealizirati</p><p style="text-align:center;"
                            >muzealka</p><p style="text-align:center;"><hi rend="bold"
                               >muzealnost</hi></p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">muzealogija</p><p
-                        style="text-align:center;"><hi rend="bold">muzealski</hi></p><p
+                           style="text-align:center;"><hi rend="bold">muzealski</hi></p><p
                            style="text-align:center;">muzealstvo</p><p style="text-align:center;"
                               ><hi rend="bold">muzej</hi></p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">muzejček</p><p
-                        style="text-align:center;">muzejec</p><p style="text-align:center;"
+                           style="text-align:center;">muzejec</p><p style="text-align:center;"
                            >muzejev</p><p style="text-align:center;"><hi rend="bold"
-                              >muzejnik</hi></p></cell>
-                     
+                           >muzejnik</hi></p></cell>
+
                      <cell rend="center"><p style="text-align:center;">muzejon</p><p
-                        style="text-align:center;"><hi rend="bold">muzejski</hi></p><p
+                           style="text-align:center;"><hi rend="bold">muzejski</hi></p><p
                            style="text-align:center;">muzejskost</p><p style="text-align:center;"
                               ><hi rend="bold">muzejstvo</hi></p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">nemuzejski</p><p
-                        style="text-align:center;">obmuzejski</p><p style="text-align:center;"
+                           style="text-align:center;">obmuzejski</p><p style="text-align:center;"
                            >pomuzejiti</p><p style="text-align:center;">tehniškomuzejski</p></cell>
                   </row>
                </table>
@@ -1398,89 +1395,88 @@
                   besed je 20 samostalnikov, 10 pridevnikov in dva glagola. Zanimivo izstopata dve
                   posebni vrsti muzejev, in sicer ekomuzej in fotomuzej.</p>
                <table rend="rules">
-                     <head>Tabela 3: Rezultat iskanja
-                  »računal« na seznamu slovenskih besed</head>
-                     <row>
-                        <cell rend="center"><p style="text-align:center;">antiračunalničar</p><p
+                  <head>Tabela 3: Rezultat iskanja »računal« na seznamu slovenskih besed</head>
+                  <row>
+                     <cell rend="center"><p style="text-align:center;">antiračunalničar</p><p
                            style="text-align:center;">antiračunalniški</p><p
-                              style="text-align:center;">avtoračunalnik</p><p
-                                 style="text-align:center;">bančnoračunalniški</p><p
-                                    style="text-align:center;">bioračunalnik</p><p style="text-align:center;"
-                                       >bioračunalniški</p><p style="text-align:center;">bioračunalništvo</p><p
-                                          style="text-align:center;">desetračunalniški</p><p
-                                             style="text-align:center;">dvojnoračunalniški</p><p
-                                                style="text-align:center;">ekoračunalnik</p><p style="text-align:center;"
-                                                   >elektronskoračunalniški</p><p style="text-align:center;"
-                                                      >elektroračunalniški</p><p style="text-align:center;"
-                                                         >enoračunalniški</p><p style="text-align:center;">fotoračunalniški</p><p
-                                                            style="text-align:center;">hiperračunalnik</p><p
-                                                               style="text-align:center;">informacijskoračunalniški</p><p
-                                                                  style="text-align:center;">izračunalec</p></cell>
-                        <cell rend="center"/>
-                        <cell rend="center"><p style="text-align:center;">izračunalnik</p><p
+                           style="text-align:center;">avtoračunalnik</p><p
+                           style="text-align:center;">bančnoračunalniški</p><p
+                           style="text-align:center;">bioračunalnik</p><p style="text-align:center;"
+                           >bioračunalniški</p><p style="text-align:center;">bioračunalništvo</p><p
+                           style="text-align:center;">desetračunalniški</p><p
+                           style="text-align:center;">dvojnoračunalniški</p><p
+                           style="text-align:center;">ekoračunalnik</p><p style="text-align:center;"
+                           >elektronskoračunalniški</p><p style="text-align:center;"
+                           >elektroračunalniški</p><p style="text-align:center;"
+                           >enoračunalniški</p><p style="text-align:center;">fotoračunalniški</p><p
+                           style="text-align:center;">hiperračunalnik</p><p
+                           style="text-align:center;">informacijskoračunalniški</p><p
+                           style="text-align:center;">izračunalec</p></cell>
+                     <cell rend="center"/>
+                     <cell rend="center"><p style="text-align:center;">izračunalnik</p><p
                            style="text-align:center;">medračunalniški</p><p
-                              style="text-align:center;">megaračunalnik</p><p
-                                 style="text-align:center;">megaračunalo</p><p style="text-align:center;"
-                                    >mikroračunalničar</p><p style="text-align:center;">mikroračunalnik</p><p
-                                       style="text-align:center;">mikroračunalniški</p><p
-                                          style="text-align:center;">mikroračunalništvo</p><p
-                                             style="text-align:center;">mikroračunalo</p><p style="text-align:center;"
-                                                >miniračunalnik</p><p style="text-align:center;">miniračunalniški</p><p
-                                                   style="text-align:center;">minisuperračunalnik</p><p
-                                                      style="text-align:center;">mobiračunalnik</p><p
-                                                         style="text-align:center;">multiračunalnica</p><p
-                                                            style="text-align:center;">multiračunalnik</p><p
-                                                               style="text-align:center;">multiračunalniški</p><p
-                                                                  style="text-align:center;">nanoračunalnik</p></cell>
-                        <cell rend="center"/>
-                        <cell rend="center"><p style="text-align:center;">neračunalnikar</p><p
+                           style="text-align:center;">megaračunalnik</p><p
+                           style="text-align:center;">megaračunalo</p><p style="text-align:center;"
+                           >mikroračunalničar</p><p style="text-align:center;">mikroračunalnik</p><p
+                           style="text-align:center;">mikroračunalniški</p><p
+                           style="text-align:center;">mikroračunalništvo</p><p
+                           style="text-align:center;">mikroračunalo</p><p style="text-align:center;"
+                           >miniračunalnik</p><p style="text-align:center;">miniračunalniški</p><p
+                           style="text-align:center;">minisuperračunalnik</p><p
+                           style="text-align:center;">mobiračunalnik</p><p
+                           style="text-align:center;">multiračunalnica</p><p
+                           style="text-align:center;">multiračunalnik</p><p
+                           style="text-align:center;">multiračunalniški</p><p
+                           style="text-align:center;">nanoračunalnik</p></cell>
+                     <cell rend="center"/>
+                     <cell rend="center"><p style="text-align:center;">neračunalnikar</p><p
                            style="text-align:center;">neračunalniški</p><p
-                              style="text-align:center;">neračunalniško</p><p
-                                 style="text-align:center;">nevroračunalnik</p><p
-                                    style="text-align:center;">obračunalec</p><p style="text-align:center;"
-                                       >organizacijskoračunalniški</p><p style="text-align:center;"
-                                          >osebnoračunalniški</p><p style="text-align:center;"
-                                             >osrednjeračunalniški</p><p style="text-align:center;"
-                                                >polračunalnik</p><p style="text-align:center;">postračunalniški</p><p
-                                                   style="text-align:center;">predračunalniški</p><p
-                                                      style="text-align:center;">preračunalen</p><p style="text-align:center;"
-                                                         >protiračunalniški</p><p style="text-align:center;">računalce</p><p
-                                                            style="text-align:center;"><hi rend="bold">računalen</hi></p><p
-                                                               style="text-align:center;">računalnica</p><p style="text-align:center;"
-                                                                  >računalničar</p></cell>
-                        <cell rend="center"/>
-                        <cell rend="center"><p style="text-align:center;">računalničarka</p><p
+                           style="text-align:center;">neračunalniško</p><p
+                           style="text-align:center;">nevroračunalnik</p><p
+                           style="text-align:center;">obračunalec</p><p style="text-align:center;"
+                           >organizacijskoračunalniški</p><p style="text-align:center;"
+                           >osebnoračunalniški</p><p style="text-align:center;"
+                           >osrednjeračunalniški</p><p style="text-align:center;"
+                           >polračunalnik</p><p style="text-align:center;">postračunalniški</p><p
+                           style="text-align:center;">predračunalniški</p><p
+                           style="text-align:center;">preračunalen</p><p style="text-align:center;"
+                           >protiračunalniški</p><p style="text-align:center;">računalce</p><p
+                           style="text-align:center;"><hi rend="bold">računalen</hi></p><p
+                           style="text-align:center;">računalnica</p><p style="text-align:center;"
+                           >računalničar</p></cell>
+                     <cell rend="center"/>
+                     <cell rend="center"><p style="text-align:center;">računalničarka</p><p
                            style="text-align:center;">računalničarski</p><p
-                              style="text-align:center;">računalniček</p><p style="text-align:center;"
-                                 ><hi rend="bold">računalnik</hi></p><p style="text-align:center;"><hi
-                                    rend="bold">računalnikar</hi></p><p style="text-align:center;"
-                                       >računalnikarica</p><p style="text-align:center;">računalnikarski</p><p
-                                          style="text-align:center;">računalnikov</p><p style="text-align:center;"
-                                             ><hi rend="bold">računalniški</hi></p><p style="text-align:center;"
-                                                >računalniškografičen</p><p style="text-align:center;"
-                                                   >računalniškopisen</p><p style="text-align:center;"
-                                                      >računalniškoprevajalski</p><p style="text-align:center;"
-                                                         >računalniškoprogramski</p><p style="text-align:center;"
-                                                            >računalniškoradiografski</p><p style="text-align:center;"><hi
-                                                               rend="bold">računalništvo</hi></p><p style="text-align:center;"><hi
-                                                                  rend="bold">računalo</hi></p><p style="text-align:center;"
-                                                                     >superračunalnik</p></cell>
-                        <cell rend="center"/>
-                        <cell rend="center"><p style="text-align:center;">superračunalnikar</p><p
+                           style="text-align:center;">računalniček</p><p style="text-align:center;"
+                              ><hi rend="bold">računalnik</hi></p><p style="text-align:center;"><hi
+                              rend="bold">računalnikar</hi></p><p style="text-align:center;"
+                           >računalnikarica</p><p style="text-align:center;">računalnikarski</p><p
+                           style="text-align:center;">računalnikov</p><p style="text-align:center;"
+                              ><hi rend="bold">računalniški</hi></p><p style="text-align:center;"
+                           >računalniškografičen</p><p style="text-align:center;"
+                           >računalniškopisen</p><p style="text-align:center;"
+                           >računalniškoprevajalski</p><p style="text-align:center;"
+                           >računalniškoprogramski</p><p style="text-align:center;"
+                           >računalniškoradiografski</p><p style="text-align:center;"><hi
+                              rend="bold">računalništvo</hi></p><p style="text-align:center;"><hi
+                              rend="bold">računalo</hi></p><p style="text-align:center;"
+                           >superračunalnik</p></cell>
+                     <cell rend="center"/>
+                     <cell rend="center"><p style="text-align:center;">superračunalnikar</p><p
                            style="text-align:center;">superračunalniški</p><p
-                              style="text-align:center;">superračunalništvo</p><p
-                                 style="text-align:center;">teleračunalniški</p><p
-                                    style="text-align:center;">ultraračunalnik</p><p
-                                       style="text-align:center;">večračunalnik</p><p style="text-align:center;"
-                                          >večračunalniški</p><p style="text-align:center;">veleračunalnik</p><p
-                                             style="text-align:center;">veleračunalnikar</p><p
-                                                style="text-align:center;">veleračunalniški</p><p
-                                                   style="text-align:center;">velikoračunalniški</p><p
-                                                      style="text-align:center;">videoračunalniški</p><p
-                                                         style="text-align:center;">vseračunalniški</p><p
-                                                            style="text-align:center;">zabavnoračunalniški</p></cell>
-                     </row>
-                  </table>
+                           style="text-align:center;">superračunalništvo</p><p
+                           style="text-align:center;">teleračunalniški</p><p
+                           style="text-align:center;">ultraračunalnik</p><p
+                           style="text-align:center;">večračunalnik</p><p style="text-align:center;"
+                           >večračunalniški</p><p style="text-align:center;">veleračunalnik</p><p
+                           style="text-align:center;">veleračunalnikar</p><p
+                           style="text-align:center;">veleračunalniški</p><p
+                           style="text-align:center;">velikoračunalniški</p><p
+                           style="text-align:center;">videoračunalniški</p><p
+                           style="text-align:center;">vseračunalniški</p><p
+                           style="text-align:center;">zabavnoračunalniški</p></cell>
+                  </row>
+               </table>
                <p style="text-align:justify;" xml:id="Legacy-p-144">Prikazanih je 82 besed, izmed
                   katerih je le 6 besed navedenih v SSKJ, saj je slovar nastajal do leta 1991, kar
                   je bilo obdobje pred vzponom spleta. Nenavaden je le en vnos, in sicer
@@ -1488,7 +1484,7 @@
                   pregledu izkazalo, da izhaja iz besednih iger.</p>
             </div>
             <div type="subchapter" xml:id="ch03-sub05" xml:lang="sl" corresp="#ch03-sub05-en">
-               <head xml:id="Legacy-head-32">5. Arhivski izziv</head>
+               <head xml:id="Legacy-head-32">Arhivski izziv</head>
                <p style="text-align:justify;" xml:id="Legacy-p-145">Vsak muzejski eksponat, še
                   posebej če so ga ustvarile človeške roke in srce, vzbudi številne občutke, vtise
                   in misli, pa naj gre za <ref
@@ -1582,12 +1578,12 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch03-en" xml:lang="en" corresp="#ch03">
-            <head xml:id="Legacy-head-33">3. From BESS to EVA, archival challenge</head>
+            <head xml:id="Legacy-head-33">From BESS to EVA, archival challenge</head>
             <docAuthor xml:id="Legacy-docAuthor-6">
                <ref target="#study01.2-en">Primož Jakopin</ref>
             </docAuthor>
             <div type="subchapter" xml:id="ch03-sub01-en" xml:lang="en" corresp="#ch03-sub01">
-               <head xml:id="Legacy-head-34">1. Introduction</head>
+               <head xml:id="Legacy-head-34">Introduction</head>
                <p style="text-align:justify;"> The initiative by the Slovenian Computer History
                   Museum to organize a panel discussion on the legacy of informatization tools, of
                   which software is the most important, has come at a very appropriate time. The
@@ -1607,7 +1603,7 @@
                   his work as an online museum exhibit is discussed.</p>
             </div>
             <div type="subchapter" xml:id="ch03-sub02-en" xml:lang="en" corresp="#ch03-sub02">
-               <head xml:id="Legacy-head-35">2. STRUCTRAN</head>
+               <head xml:id="Legacy-head-35">STRUCTRAN</head>
                <p> At the end of the 1960s and even more in the early 1970s, it became clear that
                   the programming languages of the day – in science and technology mostly <ref
                      target="https://en.wikipedia.org/wiki/Fortran">FORTRAN</ref>, in business
@@ -1657,7 +1653,7 @@
                   life much easier for many programmers, including the author of these lines.</p>
             </div>
             <div type="subchapter" xml:id="ch03-sub03-en" xml:lang="en" corresp="#ch03-sub03">
-               <head xml:id="Legacy-head-37">3. From BESS to EVA</head>
+               <head xml:id="Legacy-head-37">From BESS to EVA</head>
                <p style="text-align:justify;" xml:id="Legacy-p-155">The m<ref
                      target="https://en.wikipedia.org/wiki/History_of_personal_computers"
                      >icrocomputer revolution</ref> started on the other side of the Atlantic in the
@@ -1802,7 +1798,7 @@
                   implemented command codes, EVA has 1,385.</p>
             </div>
             <div type="subchapter" xml:id="ch03-sub04-en" xml:lang="en" corresp="#ch03-sub04">
-               <head xml:id="Legacy-head-38">4. NEVA</head>
+               <head xml:id="Legacy-head-38">NEVA</head>
                <p style="text-align:justify;" xml:id="Legacy-p-163">In 1998, while the author was
                   completing his doctoral thesis at the Faculty of Electrical Engineering,
                   University of Ljubljana, titled “<ref
@@ -1877,44 +1873,43 @@
                   examining two components of the name (Slovenian) Computer History Museum – <hi
                      rend="italic">Računalniški muzej</hi>.</p>
                <table rend="rules">
-                  <head>Table 2: <hi rend="italic"
-                     >Muzea</hi> or <hi rend="italic">muzej</hi> search results from the list of
-                     Slovenian words</head>
+                  <head>Table 2: <hi rend="italic">Muzea</hi> or <hi rend="italic">muzej</hi> search
+                     results from the list of Slovenian words</head>
                   <row>
                      <cell rend="center"><p style="text-align:center;">ekomuzej</p><p
                            style="text-align:center;">fotomuzej</p><p style="text-align:center;"
                            >hipermuzejski</p><p style="text-align:center;">izvenmuzejski</p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">medmuzejski</p><p
                            style="text-align:center;">megamuzej</p><p style="text-align:center;"><hi
                               rend="bold">muzealec</hi></p><p style="text-align:center;"><hi
                               rend="bold">muzealen</hi></p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">muzealija</p><p
                            style="text-align:center;"><hi rend="bold">muzealije</hi></p><p
                            style="text-align:center;">muzealistika</p><p style="text-align:center;"
                            >muzealizacija</p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">muzealiziranje</p><p
                            style="text-align:center;">muzealizirati</p><p style="text-align:center;"
                            >muzealka</p><p style="text-align:center;"><hi rend="bold"
                               >muzealnost</hi></p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">muzealogija</p><p
                            style="text-align:center;"><hi rend="bold">muzealski</hi></p><p
                            style="text-align:center;">muzealstvo</p><p style="text-align:center;"
                               ><hi rend="bold">muzej</hi></p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">muzejček</p><p
                            style="text-align:center;">muzejec</p><p style="text-align:center;"
                            >muzejev</p><p style="text-align:center;"><hi rend="bold"
                            >muzejnik</hi></p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">muzejon</p><p
                            style="text-align:center;"><hi rend="bold">muzejski</hi></p><p
                            style="text-align:center;">muzejskost</p><p style="text-align:center;"
                               ><hi rend="bold">muzejstvo</hi></p></cell>
-                     
+
                      <cell rend="center"><p style="text-align:center;">nemuzejski</p><p
                            style="text-align:center;">obmuzejski</p><p style="text-align:center;"
                            >pomuzejiti</p><p style="text-align:center;">tehniškomuzejski</p></cell>
@@ -1926,8 +1921,8 @@
                   also included in the results, <hi rend="italic">ekomuzej</hi> (ecomuseum) and <hi
                      rend="italic">fotomuzej</hi> (photomuseum).</p>
                <table rend="rules">
-                  <head>Table 3: <hi rend="italic"
-                     >Računal</hi> search results from the list of Slovenian words</head>
+                  <head>Table 3: <hi rend="italic">Računal</hi> search results from the list of
+                     Slovenian words</head>
                   <row>
                      <cell rend="center"><p style="text-align:center;">antiračunalničar</p><p
                            style="text-align:center;">antiračunalniški</p><p
@@ -2017,7 +2012,7 @@
                   that it comes from word games.</p>
             </div>
             <div type="subchapter" xml:id="ch03-sub05-en" xml:lang="en" corresp="#ch03-sub05">
-               <head xml:id="Legacy-head-40">5. Archival challenge</head>
+               <head xml:id="Legacy-head-40">Archival challenge</head>
                <p style="text-align:justify;" xml:id="Legacy-p-171">Every exhibit in a museum,
                   especially if it is made by human hand and heart, evokes many feelings,
                   impressions and thoughts, be it the <ref
@@ -2096,7 +2091,7 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch04" xml:lang="sl" corresp="#ch04-en">
-            <head xml:id="Legacy-head-41">4. Prehod na trajnostno uporabo programske opreme za
+            <head xml:id="Legacy-head-41">Prehod na trajnostno uporabo programske opreme za
                dolgoročen dostop do digitalne dediščine</head>
             <docAuthor xml:id="Legacy-docAuthor-7">
                <ref target="#study01.7">Nataša Milić-Frayling</ref>
@@ -2471,8 +2466,8 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch04-en" xml:lang="en" corresp="#ch04">
-            <head xml:id="Legacy-head-55">4. Towards the sustained use of software for long-term
-               access to digital heritage</head>
+            <head xml:id="Legacy-head-55">Towards the sustained use of software for long-term access
+               to digital heritage</head>
             <docAuthor xml:id="Legacy-docAuthor-8">
                <ref target="#study01.7-en">Nataša Milić-Frayling, CEO</ref>
             </docAuthor>
@@ -2766,10 +2761,10 @@
                         Magruder: 2006</ref>
                   </note> [12] that relies on VRML and Flash plug-ins to enable the textured 3D
                   rendering of audio-visual art elements. The artist maintains a website (<ref
-                     target="http://www">http://www</ref>.takeo.org) with detailed descriptions of
-                  art pieces, including documentation, videos, and still images, and manages a
-                  repository of digital media files and selected versions of software that were used
-                  to create and publish the artworks.</p>
+                     target="http://www.takeo.org">http://www.takeo.org</ref>) with detailed
+                  descriptions of art pieces, including documentation, videos, and still images, and
+                  manages a repository of digital media files and selected versions of software that
+                  were used to create and publish the artworks.</p>
                <p style="text-align:justify;" xml:id="Legacy-p-260">Through a collaborative effort,
                   the artist and the Intact Digital technical staff have created an installation of
                   the art within the Software Library environment that can be used by audiences
@@ -2834,7 +2829,7 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch05" xml:lang="sl" corresp="#ch05-en">
-            <head xml:id="Legacy-head-69">5. Partner – Večno mlad</head>
+            <head xml:id="Legacy-head-69">Partner – Večno mlad</head>
             <docAuthor xml:id="Legacy-docAuthor-9">
                <ref target="#study01.4">Boštjan Špetič (Računalniški muzej, vodja kustodiata)</ref>
             </docAuthor>
@@ -2949,18 +2944,21 @@
                <p style="text-align:justify;" xml:id="Legacy-p-281">Leta 2018 je slovenski študent
                   računalništva z metodo obratnega inženirstva raziskal notranjost računalnika in
                   napisal posnemovalnik (emulator), ki je prvič po 25 letih omogočil ponovni zagon
-                  izvirne programske opreme.<note place="foot" xml:id="ftn21" n="21"
-                     >http://eprints.fri.uni-lj.si/3945/ </note> Ta študent, Matej Horvat, je danes
-                  del ekipe Računalniškega muzeja in kot strokovnjak posebno pozornost namenja
-                  računalnikom Partner.</p>
+                  izvirne programske opreme.<note place="foot" xml:id="ftn21" n="21"><ref
+                        target="http://eprints.fri.uni-lj.si/3945/"
+                        >http://eprints.fri.uni-lj.si/3945/</ref>
+                  </note> Ta študent, Matej Horvat, je danes del ekipe Računalniškega muzeja in kot
+                  strokovnjak posebno pozornost namenja računalnikom Partner.</p>
                <p style="text-align:justify;" xml:id="Legacy-p-283">Takrat se je majhna skupnost
-                  »Part-Time Nerds«<note place="foot" xml:id="ftn22" n="22"
-                     >https://github.com/tstih/idp-dev </note> lotila izziva, da s tem emulatorjem
-                  spiše novo programje za računalnike Partner. Horvatov emulator deluje tudi v
-                  spletnem okolju, zato smo ga lahko namestili na spletno stran Računalniškega
-                  muzeja, da ga lahko preizkusijo vsi, ki jih to zanima.<note place="foot"
-                     xml:id="ftn23" n="23">https://www.racunalniski-muzej.si/wp-content/partner/
-                  </note>
+                  »Part-Time Nerds«<note place="foot" xml:id="ftn22" n="22"><ref
+                        target="https://github.com/tstih/idp-dev"
+                        >https://github.com/tstih/idp-dev</ref>
+                  </note> lotila izziva, da s tem emulatorjem spiše novo programje za računalnike
+                  Partner. Horvatov emulator deluje tudi v spletnem okolju, zato smo ga lahko
+                  namestili na spletno stran Računalniškega muzeja, da ga lahko preizkusijo vsi, ki
+                  jih to zanima.<note place="foot" xml:id="ftn23" n="23"><ref
+                        target="https://www.racunalniski-muzej.si/wp-content/partner/"
+                        >https://www.racunalniski-muzej.si/wp-content/partner/ </ref></note>
                </p>
             </div>
             <div type="subchapter" xml:id="ch05-sub03" xml:lang="sl" corresp="#ch05-sub03-en">
@@ -2978,11 +2976,13 @@
                <p style="text-align:justify;" xml:id="Legacy-p-288">Ena najzanimivejših najdb
                   izvornega razvoja, ki smo jo odkrili znotraj medijske arheologije pri
                   Računalniškem muzeju je različica igre kača<note place="foot" xml:id="ftn24"
-                     n="24">https://en.wikipedia.org/wiki/Snake_(video_game_genre) </note> z imenom
-                     Glista<note place="foot" xml:id="ftn25" n="25">https://zbirka.muzej.si </note>.
-                  Zanjo je bila napisana osupljivo obsežna dokumentacija. Tukaj je prikazan prevod
-                  pozdravnega zaslona, kjer je jasno opisan namen avtorja, ki povzema določena
-                  človeška prizadevanja tistega časa:</p>
+                     n="24"><ref target="https://en.wikipedia.org/wiki/Snake_(video_game_genre)"
+                        >https://en.wikipedia.org/wiki/Snake_(video_game_genre)</ref>
+                  </note> z imenom Glista<note place="foot" xml:id="ftn25" n="25"><ref
+                        target="https://zbirka.muzej.si">https://zbirka.muzej.si</ref>
+                  </note>. Zanjo je bila napisana osupljivo obsežna dokumentacija. Tukaj je prikazan
+                  prevod pozdravnega zaslona, kjer je jasno opisan namen avtorja, ki povzema
+                  določena človeška prizadevanja tistega časa:</p>
                <p style="text-align:justify;" xml:id="Legacy-p-291">»Ta igra je bila ustvarjena kot
                   sredstvo za premagovanje dolgčasa, ki se navadno pojavi med poukom (tudi med
                   odmorom). Od sebe ne daje nobenih zvočnih efektov, razen ropotanja disketne enote.
@@ -3014,13 +3014,14 @@
                <p style="text-align:justify;" xml:id="Legacy-p-293">V tem poglavju bo avtor na
                   kratko opisal, kako v Računalniškem muzeju razumemo arhiviranje programja. Kot smo
                   to predstavili na letni konferenci NetPreserve,<note place="foot" xml:id="ftn26"
-                     n="26">Netpreserve.org International Internet Preservation Consortium General
-                     Assembly &amp; Web Archiving Conference 2022 </note> imamo muzejski
-                  strokovnjaki nalogo, da ohranimo čim več gradiva za prihodnje generacije
-                  raziskovalcev. Po eni strani poskušamo ohraniti čim več »informacij«, po drugi pa
-                  opazujemo avro fizičnih predmetov. Naša naloga pa je vzdrževati znanje, ki je
-                  potrebno za tehnično razumevanje predmetov, in tudi komuniciranje z javnostjo. Vse
-                  to počnemo, ko uspemo izvesti živo rekonstrukcijo koščka programske kode.</p>
+                     n="26"><ref target="Netpreserve.org">Netpreserve.org</ref> International
+                     Internet Preservation Consortium General Assembly &amp; Web Archiving
+                     Conference 2022 </note> imamo muzejski strokovnjaki nalogo, da ohranimo čim več
+                  gradiva za prihodnje generacije raziskovalcev. Po eni strani poskušamo ohraniti
+                  čim več »informacij«, po drugi pa opazujemo avro fizičnih predmetov. Naša naloga
+                  pa je vzdrževati znanje, ki je potrebno za tehnično razumevanje predmetov, in tudi
+                  komuniciranje z javnostjo. Vse to počnemo, ko uspemo izvesti živo rekonstrukcijo
+                  koščka programske kode.</p>
                <p style="text-align:justify;" xml:id="Legacy-p-295">Za ilustracijo različnih stopenj
                   lahko uporabimo model oz. tehnično skico za programje s tekstovnim vmesnikom, ki
                   bi se verjetno izvajal na računalniku Partner.</p>
@@ -3116,7 +3117,7 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch05-en" xml:lang="en" corresp="#ch05">
-            <head xml:id="Legacy-head-82">5. Partner – Forever young</head>
+            <head xml:id="Legacy-head-82">Partner – Forever young</head>
             <docAuthor xml:id="Legacy-docAuthor-10">
                <ref target="#study01.4">Boštjan Špetič</ref>
             </docAuthor>
@@ -3232,17 +3233,20 @@
                <p style="text-align:justify;" xml:id="Legacy-p-325">In 2018, a student of computer
                   science in Slovenia reverse-engineered the internals of the computer and wrote an
                   emulator which enabled the original software to run again for the first time in 25
-                     years.<note place="foot" xml:id="ftn21-en" n="21"
-                     >http://eprints.fri.uni-lj.si/3945/ </note> This student, Matej Horvat, is also
-                  part of the Computer History Museum team, with a special expert focus on Partner
-                  computers.</p>
+                     years.<note place="foot" xml:id="ftn21-en" n="21"><ref
+                        target="http://eprints.fri.uni-lj.si/3945/"
+                        >http://eprints.fri.uni-lj.si/3945/</ref></note> This student, Matej Horvat,
+                  is also part of the Computer History Museum team, with a special expert focus on
+                  Partner computers.</p>
                <p style="text-align:justify;" xml:id="Legacy-p-327">Since then a small community of
-                  “Part-Time Nerds”<note place="foot" xml:id="ftn22-en" n="22"
-                     >https://github.com/tstih/idp-dev </note> has taken on the challenge of writing
-                  new software for Partner computers using this emulator. Horvat’s emulator also
-                  runs in an online environment, so we were able to put it on the museum webpage for
-                  anyone to try.<note place="foot" xml:id="ftn23-en" n="23"
-                     >https://www.racunalniski-muzej.si/wp-content/partner/ </note>
+                  “Part-Time Nerds”<note place="foot" xml:id="ftn22-en" n="22"><ref
+                        target="https://github.com/tstih/idp-dev"
+                        >https://github.com/tstih/idp-dev</ref></note> has taken on the challenge of
+                  writing new software for Partner computers using this emulator. Horvat’s emulator
+                  also runs in an online environment, so we were able to put it on the museum
+                  webpage for anyone to try.<note place="foot" xml:id="ftn23-en" n="23"><ref
+                        target="https://www.racunalniski-muzej.si/wp-content/partner/"
+                        >https://www.racunalniski-muzej.si/wp-content/partner/</ref></note>
                </p>
             </div>
             <div type="subchapter" xml:id="ch05-sub03-en" xml:lang="en" corresp="#ch05-sub03">
@@ -3260,12 +3264,14 @@
                <p style="text-align:justify;" xml:id="Legacy-p-332">One of the most interesting
                   examples of original development the Computer History Museum found in its media
                   archaeology endeavors is a version of a game Snake,<note place="foot"
-                     xml:id="ftn24-en" n="24">https://en.wikipedia.org/wiki/Snake_(video_game_genre)
+                     xml:id="ftn24-en" n="24"><ref
+                        target="https://en.wikipedia.org/wiki/Snake_(video_game_genre)"
+                        >https://en.wikipedia.org/wiki/Snake_(video_game_genre)</ref>
                   </note> called <hi rend="italic">Glista</hi>.<note place="foot" xml:id="ftn25-en"
-                     n="25">https://zbirka.muzej.si </note> It came with impressively extensive
-                  documentation. Here is a translation of its splash screen which clearly describes
-                  the intentions of the author, thus encapsulating a certain human effort of the
-                  time:</p>
+                     n="25"><ref target="https://zbirka.muzej.si">https://zbirka.muzej.si</ref>
+                  </note> It came with impressively extensive documentation. Here is a translation
+                  of its splash screen which clearly describes the intentions of the author, thus
+                  encapsulating a certain human effort of the time:</p>
                <p style="text-align:justify;" xml:id="Legacy-p-335">“This game was created as a
                   means to manage boredom, which usually happens during school classes (and during
                   breaks). It doesn’t make any sounds other than the clicking of the floppy drive.
@@ -3403,7 +3409,7 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch06" xml:lang="sl" corresp="#ch06-en">
-            <head xml:id="Legacy-head-95">6. Pravni izzivi arhiviranja programske opreme</head>
+            <head xml:id="Legacy-head-95">Pravni izzivi arhiviranja programske opreme</head>
             <docAuthor xml:id="Legacy-docAuthor-11">
                <ref target="#study01.3">Matija Šuklje</ref>
             </docAuthor>
@@ -3562,7 +3568,7 @@
                         <hi rend="italic">Avtorska pravica</hi> – šibka in ozko usmerjena (zaradi
                         dihotomije ideja–izraz), vseeno pa so lahko z njo zaščitene ikone ter avdio-
                         in videoposnetki, če so dovolj izvirni.</item>
-                     <item>angl. <hi rend="italic">»Trade dress« (</hi>nem. <hi rend="italic"
+                     <item>angl. <hi rend="italic">»Trade dress«</hi> (nem. <hi rend="italic"
                            >Geschmacksmuster; nimamo slovenskega izraza</hi>) – poseben videz in
                         občutek, ki mora biti razločevalen in nefunkcionalen, ni ga treba
                         registrirati, vendar je temu težko zadostiti.</item>
@@ -3712,7 +3718,7 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch06-en" xml:lang="en" corresp="#ch06">
-            <head xml:id="Legacy-head-114">6. Legal challenges of archiving software</head>
+            <head xml:id="Legacy-head-114">Legal challenges of archiving software</head>
             <docAuthor xml:id="Legacy-docAuthor-12">
                <ref target="#study01.4-en">Matija Šuklje</ref>
             </docAuthor>
@@ -4015,13 +4021,13 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch07" xml:lang="sl" corresp="#ch07-en">
-            <head xml:id="Legacy-head-133">7. Pionirski začetki uvajanja računalniške podpore pri
+            <head xml:id="Legacy-head-133">Pionirski začetki uvajanja računalniške podpore pri
                urbanističnem načrtovanju v obdobju 1970–1985</head>
             <docAuthor xml:id="Legacy-docAuthor-13">
                <ref target="#study01.8">Franc J. Zakrajšek</ref>
             </docAuthor>
             <div type="subchapter" xml:id="ch07-sub01" xml:lang="sl" corresp="#ch07-sub01-en">
-               <head xml:id="Legacy-head-134">1. Uvod</head>
+               <head xml:id="Legacy-head-134">Uvod</head>
                <p style="text-align:justify;" xml:id="Legacy-p-462">V začetku osemdesetih let
                   20. stoletja se je v svetu začelo intenzivno uvajanje računalniške tehnologije na
                   različnih strokovnih področjih in sektorjih. Računalniška tehnologija se je po
@@ -4044,8 +4050,7 @@
                   takratni vlogi in prispevkih.</p>
             </div>
             <div type="subchapter" xml:id="ch07-sub02" xml:lang="sl" corresp="#ch07-sub02-en">
-               <head xml:id="Legacy-head-135">2. Informacijski sistem za prostorsko
-                  načrtovanje</head>
+               <head xml:id="Legacy-head-135">Informacijski sistem za prostorsko načrtovanje</head>
                <p style="text-align:justify;" xml:id="Legacy-p-465">Razvili smo informacijski sistem
                   za prostorsko načrtovanje (urbanistično/regionalno) (ISSP) z dvema komponentama –
                   bazo podatkov in naborom postopkov. Baza podatkov sestoji iz podatkov o preteklih
@@ -4098,7 +4103,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub03" xml:lang="sl" corresp="#ch07-sub03-en">
-               <head xml:id="Legacy-head-138">3. Primer zajema podatkov : centroidi hišnih
+               <head xml:id="Legacy-head-138">Primer zajema podatkov : centroidi hišnih
                   številk</head>
                <p style="text-align:justify;" xml:id="Legacy-p-468">V 80. letih prejšnjega stoletja
                   je zajem grafičnih podatkov predstavljal poseben izziv. Optični bralniki večjih
@@ -4127,7 +4132,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub04" xml:lang="sl" corresp="#ch07-sub04-en">
-               <head xml:id="Legacy-head-140">4. Primer izpisa podatkov: prvi digitalni
+               <head xml:id="Legacy-head-140">Primer izpisa podatkov: prvi digitalni
                   zemljevidi</head>
                <p style="text-align:justify;" xml:id="Legacy-p-469">Podobno kot pri optičnih
                   bralnikih velikega formata je bila v začetku 80. let prejšnjega stoletja težava
@@ -4165,7 +4170,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub05" xml:lang="sl" corresp="#ch07-sub05-en">
-               <head xml:id="Legacy-head-142">5. Primer metod: ekspertni sistemi</head>
+               <head xml:id="Legacy-head-142">Primer metod: ekspertni sistemi</head>
                <p style="text-align:justify;" xml:id="Legacy-p-472">V tem obdobju smo razvili vrsto
                   postopkov za ustvarjanje in posodabljanje baze podatkov ter za njeno uporabo in
                   analizo:</p>
@@ -4206,7 +4211,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub06" xml:lang="sl" corresp="#ch07-sub06-en">
-               <head xml:id="Legacy-head-144">6. Implementacije: občini Celje in Ljubljana</head>
+               <head xml:id="Legacy-head-144">Implementacije: občini Celje in Ljubljana</head>
                <p style="text-align:justify;" xml:id="Legacy-p-474">Po mojem mnenju ima sodelovanje
                   pri projektih implementacije dva namena – svetovati in pomagati pri dejanskem
                   razvoju informacijskega sistema za urbanistično in/ali prostorsko načrtovanje na
@@ -4272,7 +4277,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub07" xml:lang="sl" corresp="#ch07-sub07-en">
-               <head xml:id="Legacy-head-146">7. Implementacija: Gvajana</head>
+               <head xml:id="Legacy-head-146">Implementacija: Gvajana</head>
                <p style="text-align:justify;" xml:id="Legacy-p-475">V letih 1983–1985 sem imel kot
                   del mednarodne svetovalne ekipe v Gvajani priložnost sodelovati pri projektu
                   »Institucionalna podpora sistemu planiranja in projektov v Gvajani«, ki ga je
@@ -4313,7 +4318,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub08" xml:lang="sl" corresp="#ch07-sub08-en">
-               <head xml:id="Legacy-head-148">8. Primerjave in objave</head>
+               <head xml:id="Legacy-head-148">Primerjave in objave</head>
                <p style="text-align:justify;" xml:id="Legacy-p-477">Pri snovanju inovativnih
                   kompleksnih informacijskih sistemov sta potrebna nenehno preverjanje razvoja in
                   implementacija tujih izkušenj na tem področju. Dandanes je to zaradi interneta in
@@ -4366,7 +4371,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub09" xml:lang="sl" corresp="#ch07-sub09-en">
-               <head xml:id="Legacy-head-150">9. 50 let pozneje</head>
+               <head xml:id="Legacy-head-150">50 let pozneje</head>
                <p style="text-align:justify;" xml:id="Legacy-p-480">50 let pozneje smo še vedno zelo
                   prisotni na področju raziskav, razvoja in implementacije računalniške podpore v
                   urbanističnem načrtovanju. Na sliki 9 je na voljo nekaj povezav do našega
@@ -4418,13 +4423,13 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch07-en" xml:lang="en" corresp="#ch07">
-            <head xml:id="Legacy-head-155">7. Pioneering Computer Support in Urban Planning,
+            <head xml:id="Legacy-head-155">Pioneering Computer Support in Urban Planning,
                1970–1985</head>
             <docAuthor xml:id="Legacy-docAuthor-14">
                <ref target="#study01.8-en">Franc J. Zakrajšek</ref>
             </docAuthor>
             <div type="subchapter" xml:id="ch07-sub01-en" xml:lang="en" corresp="#ch07-sub01">
-               <head xml:id="Legacy-head-156">1. Introduction</head>
+               <head xml:id="Legacy-head-156">Introduction</head>
                <p style="text-align:justify;" xml:id="Legacy-p-482">At the beginning of the 1980s,
                   the world witnessed the beginning of the intensive introduction of computer
                   technology into various professional fields and disciplines, causing a radical
@@ -4447,7 +4452,7 @@
                   it.</p>
             </div>
             <div type="subchapter" xml:id="ch07-sub02-en" xml:lang="en" corresp="#ch07-sub02">
-               <head xml:id="Legacy-head-157">2. Information system for spatial planning</head>
+               <head xml:id="Legacy-head-157">Information system for spatial planning</head>
                <p style="text-align:justify;" xml:id="Legacy-p-485">We developed an information
                   system for spatial planning (urban/regional) (ISSP) with two components: a
                   database and a set of procedures. The database consists of data about past and
@@ -4502,7 +4507,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub03-en" xml:lang="en" corresp="#ch07-sub03">
-               <head xml:id="Legacy-head-160">3. Data capture example: centroids of house
+               <head xml:id="Legacy-head-160">Data capture example: centroids of house
                   numbers</head>
                <p style="text-align:justify;" xml:id="Legacy-p-488">In the 1980s, capturing graphic
                   data was a special challenge. Scanners of larger dimensions did not exist, and
@@ -4531,7 +4536,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub04-en" xml:lang="en" corresp="#ch07-sub04">
-               <head xml:id="Legacy-head-162">4. Data output example: first digital maps</head>
+               <head xml:id="Legacy-head-162">Data output example: first digital maps</head>
                <p style="text-align:justify;" xml:id="Legacy-p-489">Similar to large-format
                   scanners, there was also a problem with large-format plotters and printers at the
                   beginning of the 1980s. To make the first digital maps available to the greatest
@@ -4570,7 +4575,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub05-en" xml:lang="en" corresp="#ch07-sub05">
-               <head xml:id="Legacy-head-164">5. Methods example: expert systems</head>
+               <head xml:id="Legacy-head-164">Methods example: expert systems</head>
                <p style="text-align:justify;" xml:id="Legacy-p-492">In this period, we developed
                   several procedures for database creation and updating as well as for database use
                   and analysis:</p>
@@ -4611,7 +4616,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub06-en" xml:lang="en" corresp="#ch07-sub06">
-               <head xml:id="Legacy-head-166">6. Implementations: Celje and Ljubljana
+               <head xml:id="Legacy-head-166">Implementations: Celje and Ljubljana
                   municipalities</head>
                <p style="text-align:justify;" xml:id="Legacy-p-494">For me, the reason for getting
                   involved in implementation projects is twofold: to advise and assist in the actual
@@ -4665,7 +4670,7 @@
                   <graphic url="Zakrajsek6.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
-                     <hi rend="italic"> 6: Information base of the information system for planning
+                     <hi rend="italic">6: Information base of the information system for planning
                         the space of the municipality of Ljubljana. Sources: Zakrajšek, F. et al.:
                         Information design of the Municipality of Celje during the preparation of
                         the spatial plan. Ljubljana: Urban Planning Institute of the Republic of
@@ -4677,7 +4682,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub07-en" xml:lang="en" corresp="#ch07-sub07">
-               <head xml:id="Legacy-head-168">7. Implementation: Guyana</head>
+               <head xml:id="Legacy-head-168">Implementation: Guyana</head>
                <p style="text-align:justify;" xml:id="Legacy-p-495">From 1983–1985, I had the
                   opportunity to participate as part of an international consulting team in Guyana
                   in the project “Institutional Support for National Systems of Planning and
@@ -4710,8 +4715,8 @@
                   <graphic url="Zakrajsek7.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
-                     <hi rend="italic"> 7: Scheme of information system for planning and projects
-                        for Guyana. Source: Zakrajšek, F. Recommendations on development of an
+                     <hi rend="italic">7: Scheme of information system for planning and projects for
+                        Guyana. Source: Zakrajšek, F. Recommendations on development of an
                         information system for planning in Guyana. Georgetown: Urban Planning
                         Institute of Slovenia, Development Planning </hi>
                      <hi rend="italic">Center</hi>
@@ -4720,7 +4725,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub08-en" xml:lang="en" corresp="#ch07-sub08">
-               <head xml:id="Legacy-head-170">8. Comparisons and disseminations</head>
+               <head xml:id="Legacy-head-170">Comparisons and disseminations</head>
                <p style="text-align:justify;" xml:id="Legacy-p-497">When innovating complex
                   information systems, it is necessary to constantly check the development and
                   implementation of foreign efforts in this field. Nowadays, this is much easier due
@@ -4764,7 +4769,7 @@
                   <graphic url="Zakrajsek8.jpg"/>
                   <head>
                      <hi rend="italic">Figure</hi>
-                     <hi rend="italic"> 8: Cover pages of the publication </hi>Information systems
+                     <hi rend="italic">8: Cover pages of the publication </hi>Information systems
                      for spatial planning<hi rend="italic">. Volumes: Guidelines for development,
                         The concept of the system, Microcomputer equipment for managing relational
                         databases, Information system of regional facilities, The possibilities of
@@ -4778,7 +4783,7 @@
                </figure>
             </div>
             <div type="subchapter" xml:id="ch07-sub09-en" xml:lang="en" corresp="#ch07-sub09">
-               <head xml:id="Legacy-head-172">9. After 50 years</head>
+               <head xml:id="Legacy-head-172">After 50 years</head>
                <p style="text-align:justify;" xml:id="Legacy-p-500">After 50 years, we are still
                   very present in the research, development, and implementation of computer support
                   in urban planning. Some links for our recent work are provided in <hi
@@ -4828,7 +4833,7 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch08" xml:lang="sl" corresp="#ch08-en">
-            <head xml:id="Legacy-head-177">8. So vrednote v razvoju programja časovno občutljive ali
+            <head xml:id="Legacy-head-177">So vrednote v razvoju programja časovno občutljive ali
                jih lahko shranimo?</head>
             <docAuthor xml:id="Legacy-docAuthor-15">
                <ref target="#study01.6">mag. Silvana Žorž (digitalna humanistka)</ref>
@@ -5047,8 +5052,8 @@
             </div>
          </div>
          <div type="chapter" xml:id="ch08-en" xml:lang="en" corresp="#ch08">
-            <head xml:id="Legacy-head-181">8. Are values in software development time-critical or
-               can they be stored?</head>
+            <head xml:id="Legacy-head-181">Are values in software development time-critical or can
+               they be stored?</head>
             <docAuthor xml:id="Legacy-docAuthor-16">
                <ref target="#study01.6-en">Silvana Žorž</ref>
             </docAuthor>
@@ -5251,14 +5256,14 @@
                   practices and standards.</p>
                <figure xml:id="Legacy-figure-54">
                   <graphic url="zorz.jpg"/>
-                  <p style="text-align:justify;">
+                  <head>
                      <hi rend="italic">Figure 1:</hi>
                      <hi rend="italic"> Bronze sculpture for HERMES SoftLab office at Litijska 51,
                         Slovenia, by Andrej Ajdič (1997) where the wings of an angel consist of four
                         surfaces on which the following is written: Hermes to HERMES SoftLab Hewlett
                         Packard contract transfer, the HP Way, the Award for Entrepreneur of the
                         Year 1997, and 1996 employee phone registry (Image courtesy Rudi Bric)</hi>
-                  </p>
+                  </head>
                </figure>
             </div>
          </div>
@@ -5269,7 +5274,7 @@
                <head xml:id="Legacy-head-184">
                   <ref target="#Legacy-docAuthor-1">Roberto Di Cosmo</ref>
                </head>
-               <p xml:id="Legacy-p-553">Roberto Di Cosmo je računalniški znanstvenik, ki je leta
+               <p style="text-align:justify;" xml:id="Legacy-p-553">Roberto Di Cosmo je računalniški znanstvenik, ki je leta
                   2010 postal prvi direktor IRILL, pobude za inovacije in raziskave proste
                   programske opreme (Initiative de Recherche et Innovation sur le Logiciel Libre).
                   Po desetletju poučevanja na fakulteti Ecole Normale Supérieure v Parizu je leta
@@ -5295,7 +5300,7 @@
                <head xml:id="Legacy-head-185">
                   <ref target="#Legacy-docAuthor-5">Primož Jakopin</ref>
                </head>
-               <p xml:id="Legacy-p-554">Primož Jakopin se je rodil 30. junija 1949 v Ljubljani v
+               <p style="text-align:justify;" xml:id="Legacy-p-554">Primož Jakopin se je rodil 30. junija 1949 v Ljubljani v
                   jezikoslovno družino. Oče Franc je bil profesor vzhodnih slovanskih jezikov, ki je
                   objavljal članke na področju slovnice in onomastike, mati Gitica pa je prevedla
                   več kot 50 romanov iz angleščine, nemščine, francoščine, ruščine in poljščine. Ker
@@ -5341,7 +5346,7 @@
                <head xml:id="Legacy-head-186">
                   <ref target="#Legacy-docAuthor-11">Matija Šuklje</ref>
                </head>
-               <p xml:id="Legacy-p-555">Pravnik po izobrazbi in heker po duši, Matija Šuklje se
+               <p style="text-align:justify;" xml:id="Legacy-p-555">Pravnik po izobrazbi in heker po duši, Matija Šuklje se
                   najbolje počuti na stičišču obeh svetov. Od poznih 90. naprej se ukvarja s FOSS
                   (Free &amp; Open Source Software) in pridobil je veliko izkušenj s tega področja v
                   javnem, nevladnem in zasebnem sektorju. Dolga leta je vodil največjo globalno
@@ -5353,7 +5358,7 @@
                <head xml:id="Legacy-head-187">
                   <ref target="#Legacy-docAuthor-9">Boštjan Špetič</ref>
                </head>
-               <p xml:id="Legacy-p-556">Boštjan Špetič je vodja muzejske zbirke Računalniškega
+               <p style="text-align:justify;" xml:id="Legacy-p-556">Boštjan Špetič je vodja muzejske zbirke Računalniškega
                   muzeja, ambasador softverske dediščine pri organizaciji Software Heritage,
                   podjetnik in mentor zagonskih podjetij, ki trenutno živi v Sloveniji, vendar je
                   tesno povezan z New Yorkom, kjer je živel večino zadnjega desetletja. Boštjan
@@ -5369,7 +5374,7 @@
                <head xml:id="Legacy-head-188">
                   <ref target="#Legacy-docAuthor-3">Saša Divjak</ref>
                </head>
-               <p xml:id="Legacy-p-557">Saša Divjak je avtor različnih programskih aplikacij, vodil
+               <p style="text-align:justify;" xml:id="Legacy-p-557">Saša Divjak je avtor različnih programskih aplikacij, vodil
                   in sodeloval pa je pri mnogih mednarodnih in lokalnih projektih na področju
                   računalniške avtomatizacije, robotizacije in multimedijskih tehnologij. Dejaven je
                   bil v odborih različnih mednarodnih in lokalnih strokovnih združenj. Bil je vodja
@@ -5383,7 +5388,7 @@
                <head xml:id="Legacy-head-189">
                   <ref target="#Legacy-docAuthor-15">Silvana Žorž</ref>
                </head>
-               <p xml:id="Legacy-p-558">Silvana Žorž je magistrica digitalne humanistike (KU Leuven)
+               <p style="text-align:justify;" xml:id="Legacy-p-558">Silvana Žorž je magistrica digitalne humanistike (KU Leuven)
                   in magistrica ekonomije (Master in Business and Administration – IBM, Univerza v
                   Ljubljani). V magistrskem delu je raziskovala odkrivanje diskriminatornih
                   faktorjev pri oblikovanju programske opreme, in sicer pod mentorstvom dr. B.
@@ -5398,7 +5403,7 @@
                <head xml:id="Legacy-head-190">
                   <ref target="#Legacy-docAuthor-7">Nataša Milić-Frayling</ref>
                </head>
-               <p xml:id="Legacy-p-559">Nataša Milić-Frayling je ustanoviteljica in direktorica
+               <p style="text-align:justify;" xml:id="Legacy-p-559">Nataša Milić-Frayling je ustanoviteljica in direktorica
                   podjetja Intact Digital, ki nudi platformo in storitve za gostovanje podedovanih
                   programskih namestitev z namenom omogočanja dolgotrajne berljivosti in uporabe
                   digitalnih podatkov. Podjetje Intact Digital posluje z visoko reguliranimi
@@ -5406,7 +5411,7 @@
                   podporo pri doseganju skladnosti s predpisi za regulacijo podatkovne integritete
                   ter rekonstrukciji raziskav in ponovljivosti podatkovnih analiz, vključno s
                   strojnim učenjem in umetno inteligenco.</p>
-               <p xml:id="Legacy-p-560">Nataša Milić-Frayling ima 25 let izkušenj na področju
+               <p style="text-align:justify;" xml:id="Legacy-p-560">Nataša Milić-Frayling ima 25 let izkušenj na področju
                   računalniške znanosti in inovacij, vključno s 17 leti izkušenj v podjetju
                   Microsoft Research (MSR). Je avtorica prek 100 raziskovalnih objav in navedena je
                   na desetinah odobrenih patentov. Poleg izvajanja raziskav je pri MSR vodila
@@ -5420,7 +5425,7 @@
                   </ref>). Je zaslužna profesorica na Univerzi v Nottinghamu, kjer je 5 let vodila
                   oddelek za podatkovne znanosti ter prispevala k univerzitetnim raziskovalnim
                   strategijam na področju podatkovnih znanosti in umetne inteligence.</p>
-               <p xml:id="Legacy-p-561">Nataša se v širšem strokovnem krogu aktivno angažira ob
+               <p style="text-align:justify;" xml:id="Legacy-p-561">Nataša se v širšem strokovnem krogu aktivno angažira ob
                   kritičnih vprašanjih, ki se porajajo ob razširjeni rabi digitalne tehnologije, in
                   sicer vse od profesionalne etike, zasebnosti in jasnosti zasnove do digitalne
                   zastarelosti in odgovornega inoviranja. Pri UNESCU je članica prezervacijskega
@@ -5435,7 +5440,7 @@
                <head xml:id="Legacy-head-191">
                   <ref target="#Legacy-docAuthor-13">Franc J. Zakrajšek</ref>
                </head>
-               <p xml:id="Legacy-p-562">Franc J. Zakrajšek je matematik, višji raziskovalec,
+               <p style="text-align:justify;" xml:id="Legacy-p-562">Franc J. Zakrajšek je matematik, višji raziskovalec,
                   računalniški programer in svetovalec, ki od 70. let dalje razvija geografske
                   informacijske sisteme za urbanizem in sorodna področja. Njegovo delo se osredotoča
                   na inovativne pristope, metode, simulacijske modele in uvajanje umetne inteligence
@@ -5455,7 +5460,7 @@
                <head xml:id="Legacy-head-192">
                   <ref target="#Legacy-docAuthor-2">Roberto Di Cosmo</ref>
                </head>
-               <p xml:id="Legacy-p-563">Roberto di Cosmo is a computer scientist, and in 2010 he was
+               <p style="text-align:justify;" xml:id="Legacy-p-563">Roberto di Cosmo is a computer scientist, and in 2010 he was
                   the first director of IRILL – Initiative de Recherche et Innovation sur le
                   Logiciel Libre – an initiative for innovation and research with regard to free and
                   open software. After a decade of teaching at the Ecole Normale Supérieure in
@@ -5481,7 +5486,7 @@
                <head xml:id="Legacy-head-193">
                   <ref target="#Legacy-docAuthor-6">Primož Jakopin</ref>
                </head>
-               <p xml:id="Legacy-p-564">Primož Jakopin was born on June 30, 1949 in Ljubljana,
+               <p style="text-align:justify;" xml:id="Legacy-p-564">Primož Jakopin was born on June 30, 1949 in Ljubljana,
                   Slovenia, into a family of linguists. His father Franc was a professor of eastern
                   Slavic languages with publications in the field of grammar and onomastics, while
                   his mother Gitica translated more than 50 novels from English, German, French,
@@ -5497,22 +5502,15 @@
                   1972 to 1984 he constructed a numerical model for the approximation and
                   visualization of karst caves. It was used to compute the volume of several caves
                   and collapsed dolinas in Slovenia, and the results were reported at the <ref
-                     target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">8</ref>
-                  <ref target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">
-                     <hi rend="superscript">th</hi>
-                  </ref>
-                  <ref target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">
-                     International Congress of Speleology</ref> and <ref
-                     target="http://www.jakopin.net/primoz/clanki/1981_MECS/">3</ref>
-                  <ref target="http://www.jakopin.net/primoz/clanki/1981_MECS/">
-                     <hi rend="superscript">rd</hi>
-                  </ref>
-                  <ref target="http://www.jakopin.net/primoz/clanki/1981_MECS/"> European Symposium
-                     of Stereology</ref>. After he failed to continue this research at the Karst
-                  Research Institute in Postojna, Jakopin changed his area of interest to language
-                  technology, closer to his parents field of work. Another great passion was also
-                  computer programming, and with software he developed mostly at home he managed to
-                  make a career in computational linguistics, both in research, as head of the <ref
+                     target="http://www.jakopin.net/primoz/clanki/1981_MCV/index.php">8<hi
+                        rend="superscript">th</hi> International Congress of Speleology</ref> and
+                     <ref target="http://www.jakopin.net/primoz/clanki/1981_MECS/">3 <hi
+                        rend="superscript">rd</hi> European Symposium of Stereology</ref>. After he
+                  failed to continue this research at the Karst Research Institute in Postojna,
+                  Jakopin changed his area of interest to language technology, closer to his parents
+                  field of work. Another great passion was also computer programming, and with
+                  software he developed mostly at home he managed to make a career in computational
+                  linguistics, both in research, as head of the <ref
                      target="http://web.archive.org/web/20190406003335/http://bos.zrc-sazu.si:80/index_en.html"
                      >Corpus Laboratory</ref> at the Fran Ramovš Institute of Slovenian Language,
                   from its foundation in 2001 until 2012, and in teaching, at the Faculty of Arts in
@@ -5533,7 +5531,7 @@
                <head xml:id="Legacy-head-194">
                   <ref target="#Legacy-docAuthor-12">Matija Šuklje</ref>
                </head>
-               <p xml:id="Legacy-p-565">A legal counsel by education, a hacker at heart, Matija
+               <p style="text-align:justify;" xml:id="Legacy-p-565">A legal counsel by education, a hacker at heart, Matija
                   Šuklje feels most at home at the crossing of both those worlds. Since the late
                   1990s he has dedicated his skills to FOSS (Free &amp; Open Source Software) and
                   collected a vast array of experience in the field in the public, NGO and private
@@ -5545,7 +5543,7 @@
                <head xml:id="Legacy-head-195">
                   <ref target="#Legacy-docAuthor-10">Boštjan Špetič</ref>
                </head>
-               <p xml:id="Legacy-p-566">Boštjan Špetič is Head of Museum Collections at the Computer
+               <p style="text-align:justify;" xml:id="Legacy-p-566">Boštjan Špetič is Head of Museum Collections at the Computer
                   History Museum, Software Heritage Ambassador, entrepreneur and start-up mentor,
                   currently living in Slovenia, but keeping close connections with New York, where
                   he lived for most of the past decade. Boštjan Špetič co-founded, built and sold
@@ -5561,7 +5559,7 @@
                <head xml:id="Legacy-head-196">
                   <ref target="#Legacy-docAuthor-4">Saša Divjak</ref>
                </head>
-               <p xml:id="Legacy-p-567">Saša Divjak is the author of various program applications,
+               <p style="text-align:justify;" xml:id="Legacy-p-567">Saša Divjak is the author of various program applications,
                   and lead and collaborator on a series of international and local projects in the
                   field of computer automatization, robotization and multimedia technologies. He has
                   been active on the boards of various international and local professional
@@ -5576,7 +5574,7 @@
                <head xml:id="Legacy-head-197">
                   <ref target="#Legacy-docAuthor-16">Silvana Žorž</ref>
                </head>
-               <p xml:id="Legacy-p-568">Silvana Žorž, Master of Digital Humanities (KU Leuven) and
+               <p style="text-align:justify;" xml:id="Legacy-p-568">Silvana Žorž, Master of Digital Humanities (KU Leuven) and
                   Master of Economics (Master in Business and Administration – IBM, University of
                   Ljubljana). In her Master’s thesis, she researched the discovery of discriminatory
                   factors in software design, under the mentorship of Dr B. Berendt (KU Leuven,
@@ -5591,14 +5589,14 @@
                <head xml:id="Legacy-head-198">
                   <ref target="#Legacy-docAuthor-8">Nataša Milić-Frayling</ref>
                </head>
-               <p xml:id="Legacy-p-569">Dr Nataša Milić-Frayling is a founder and the CEO of Intact
+               <p style="text-align:justify;" xml:id="Legacy-p-569">Dr Nataša Milić-Frayling is a founder and the CEO of Intact
                   Digital Ltd, a company that provides a platform and services for hosting legacy
                   software installations to enable long-term readability and use of digital data.
                   Intact Digital works with highly regulated sectors such as pharma and life
                   sciences to support compliance with data integrity regulations, reconstruction of
                   research studies and reproducibility of data analyses, including machine learning
                   and AI.</p>
-               <p xml:id="Legacy-p-570">Nataša Milić-Frayling has 25 years of experience in computer
+               <p style="text-align:justify;" xml:id="Legacy-p-570">Nataša Milić-Frayling has 25 years of experience in computer
                   science research and innovation, including 17 years at Microsoft Research (MSR).
                   She has authored over 100 research publications and has dozens of approved patents
                   to her name. Besides her research, Nataša has also led the MSR Research
@@ -5611,7 +5609,7 @@
                   </ref> EU projects). She is Professor Emerita at the University of Nottingham,
                   where she spent five years serving as Chair of Data Science, contributing to the
                   university’s research strategy on data science and AI.</p>
-               <p xml:id="Legacy-p-571">She is actively engaged with the broader professional
+               <p style="text-align:justify;" xml:id="Legacy-p-571">She is actively engaged with the broader professional
                   community on critical issues that arise from the prolific use of digital
                   technologies, ranging from professional ethics, privacy and design transparency to
                   digital obsolescence and responsible innovation. She is a member of the
@@ -5625,7 +5623,7 @@
                <head xml:id="Legacy-head-199">
                   <ref target="#Legacy-docAuthor-14">Franc J. Zakrajšek</ref>
                </head>
-               <p xml:id="Legacy-p-572">Franc J. Zakrajsek is a mathematician, senior researcher,
+               <p style="text-align:justify;" xml:id="Legacy-p-572">Franc J. Zakrajsek is a mathematician, senior researcher,
                   computer programmer, and consultant, working since 1970 developing geographical
                   information systems in urban planning and related areas. His work focuses on
                   innovative approaches, methods, simulation models, and introducing artificial
