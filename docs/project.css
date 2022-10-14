@@ -1,7 +1,29 @@
 
 /* Master styles */
 
-body {background-color: #ef3b39;}
+a {
+  color: #ef3b39;
+  text-decoration: underline;
+}
+button, .button { 
+    background-color: #ef3b39;
+    text-decoration: none;
+    }
+    
+.menu .active > a {
+    color: #FFFFFF;
+    background: #ef3b39;
+    }
+    
+.tipue_search_button
+{
+     width: 100px;
+     height: 37px;
+     border: 0;
+     border-radius: 1px;
+     background: #ef3b39 url('search.png') no-repeat center;
+	outline: none;
+}
 
 /* primarni font naj bo Roboto, ostalo isto */
 
